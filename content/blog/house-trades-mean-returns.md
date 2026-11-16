@@ -1,11 +1,13 @@
 +++
-title = "Congressional stock returns: try the mean."
+title = "Actually congressman probably beat the S&P 500"
 slug = "house-trades-mean-returns"
 date = "2026-11-15T12:00:00-06:00"
 draft = false
 showFooter = true
 description = "What changes when we average congressional stock returns, including the biggest winners?"
 +++
+
+*Warning: this page is pure slop. It is refuting a post that was also slop, and if you can’t refute slop with slop then bullshit will win.*
 
 [This study](https://arkanumdata.com/research/house-trades) reached Hacker News claiming that copying House members' stock trades wouldn't beat the market. My objection [in the thread, as seizethecheese](https://news.ycombinator.com/item?id=50511528): corrupt trades could be among the extreme results. Showing that lots of trades look normal doesn't rule that out.
 
