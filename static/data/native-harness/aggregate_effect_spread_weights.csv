@@ -1,0 +1,1958 @@
+term,level,weight
+intercept,intercept,1.0
+harness,alma,0.0012121212121212121
+harness,ante,4.6457607433217196e-05
+harness,antigravity-cli,0.0012121212121212121
+harness,aone-agent,0.00010840108401084008
+harness,claude-code,0.2436511210360373
+harness,claude-code-enhanced,4.6457607433217196e-05
+harness,cline-cli,0.0012121212121212121
+harness,codex,0.10261085340457682
+harness,copilot-cli,0.0012121212121212121
+harness,deepseek-harness,0.01647272727272727
+harness,deepseek-harness:code,0.0012121212121212121
+harness,deepseek-harness:creator,0.0034343434343434343
+harness,deepseek-harness:minimal,0.0034343434343434343
+harness,deepseek-harness:ptc,0.002222222222222222
+harness,deepseek-harness:standard,0.0034343434343434343
+harness,exo,0.0034343434343434343
+harness,factory-droid,0.0002799070847851336
+harness,final,4.6457607433217196e-05
+harness,forge,8.465028470509423e-05
+harness,gemini-cli,0.05195333435905023
+harness,goose,0.003962831088164896
+harness,grok-build,0.008484848484848484
+harness,hermes,0.021816898430037118
+harness,ii-agent-simple,4.6457607433217196e-05
+harness,judy,4.6457607433217196e-05
+harness,junie,0.0006212215968313529
+harness,kimi-code,0.010707070707070708
+harness,letta-code,0.00019550909794812234
+harness,maka,0.0012121212121212121
+harness,mini-swe-agent,0.00977249850420582
+harness,minimax-code,0.0012121212121212121
+harness,mux,0.0002334494773519164
+harness,nanobot,0.0038098713938130003
+harness,oh-my-pi,0.0034343434343434343
+harness,openclaw,0.018215888329027013
+harness,opencode,0.0072856762646686096
+harness,opencode-2,0.008484848484848484
+harness,openhands,0.010213733451131825
+harness,openjiuwen,0.0092
+harness,pi,0.020954079254079255
+harness,pi-responses,0.002222222222222222
+harness,qm-pi,0.0016666666666666663
+harness,qwen-coder,0.03212067125164893
+harness,ruley,0.00011149825783972126
+harness,sage,4.6457607433217196e-05
+harness,simple-codex,6.504065040650406e-05
+harness,spoox-m,6.504065040650406e-05
+harness,swelike,0.011794871794871797
+harness,terminal-bench-agent,4.6457607433217196e-05
+harness,terminus-2,0.3732873491809384
+harness,terminus-3-3,0.00013110789213831146
+harness,zcode,0.0012121212121212121
+model,claude-fable-5,0.0010256410256410254
+model,claude-haiku-4-5,0.05884657077340004
+model,claude-opus-4-1,0.0003252032520325203
+model,claude-opus-4-5,0.0003252032520325203
+model,claude-opus-4-6,0.05217990410673337
+model,claude-opus-5,0.009025641025641027
+model,claude-opus-5.5,0.013333333333333336
+model,claude-sonnet-4-5,0.0003252032520325203
+model,claude-sonnet-4-6,0.05084657077340004
+model,claude-sonnet-5,0.0010256410256410252
+model,deepseek-chat,0.0494021263289556
+model,deepseek-reasoner,0.04806879299562226
+model,deepseek-v3.2,0.0003252032520325203
+model,deepseek-v4-flash,0.001333333333333333
+model,deepseek-v4-pro,0.0023589743589743587
+model,deepseek-v4-pro-0813,0.008
+model,deepseek-v4.1-flash,0.026666666666666665
+model,deepseek-v4.1-flash-1017,0.005333333333333334
+model,flint,0.013333333333333332
+model,gemini-2.5-flash,0.0003252032520325203
+model,gemini-2.5-pro,0.0003252032520325203
+model,gemini-3-flash-preview,0.05217990410673337
+model,gemini-3-pro-preview,0.0003252032520325203
+model,gemini-3.1-pro-preview,0.05217990410673337
+model,gemma-4-31b,0.0032380952380952383
+model,glm-4.6,0.0003252032520325203
+model,glm-4.7,0.0003252032520325203
+model,glm-5,0.04401751094434021
+model,glm-5.2,0.0010256410256410252
+model,glm-5.3,0.014666666666666668
+model,glm-5.3-flash,0.035238095238095235
+model,gpt-5,0.0003252032520325203
+model,gpt-5-codex,0.0003252032520325202
+model,gpt-5-mini,0.05217990410673337
+model,gpt-5-nano,0.05217990410673338
+model,gpt-5.1,0.0003252032520325203
+model,gpt-5.1-codex,0.0003252032520325202
+model,gpt-5.1-codex-max,0.0003252032520325203
+model,gpt-5.1-codex-mini,0.0003252032520325203
+model,gpt-5.2,0.0003252032520325203
+model,gpt-5.3-codex,0.00032520325203252027
+model,gpt-5.4,0.05217990410673337
+model,gpt-5.6-luna,0.004263736263736264
+model,gpt-5.6-sol,0.004263736263736264
+model,gpt-5.6-terra,0.0032380952380952387
+model,gpt-6-astra,0.008
+model,gpt-6.1-sol,0.01333333333333333
+model,gpt-oss-120b,0.0003252032520325203
+model,gpt-oss-20b,0.0003252032520325203
+model,grok-4-0709,0.0003252032520325202
+model,grok-4.5,0.0010256410256410254
+model,grok-code-fast-1,0.0003252032520325203
+model,kimi-k2-instruct-0905,0.0003252032520325203
+model,kimi-k2-thinking,0.0003252032520325203
+model,kimi-k2.5,0.039436314363143626
+model,kimi-k3,0.04323809523809524
+model,mimo-v2-pro,0.04259870752553679
+model,mimo-v2.5-pro,0.0010256410256410252
+model,minimax-m2,0.0003252032520325203
+model,minimax-m2.1,0.0003252032520325203
+model,minimax-m2.5,0.05717990410673337
+model,minimax-m3,0.0010256410256410252
+model,muse-spark-open,0.005333333333333334
+model,qwen3-coder-480b-a35b-instruct-fp8,0.0003252032520325202
+model,qwen3-max,0.048068792995622264
+model,qwen3.5-35b-a3b,0.0010256410256410252
+model,qwen3.6-27b,0.0010256410256410252
+model,qwen3.6-35b-a3b,0.0010256410256410252
+model,qwen3.8-27b,0.0032380952380952387
+model,ripple-65b-preview,0.013333333333333332
+benchmark,aa-lcr,0.013333333333333332
+benchmark,aider-polyglot,0.013333333333333336
+benchmark,aime,0.013333333333333332
+benchmark,arc-agi-2,0.013333333333333332
+benchmark,bfcl,0.013333333333333334
+benchmark,bigcodebench,0.013333333333333336
+benchmark,bixbench,0.013333333333333332
+benchmark,codepde,0.013333333333333329
+benchmark,compilebench,0.013333333333333332
+benchmark,crmarena,0.013333333333333332
+benchmark,crustbench,0.013333333333333332
+benchmark,cybergym,0.013333333333333336
+benchmark,dacode,0.013333333333333332
+benchmark,deepsynth,0.013333333333333332
+benchmark,devopsgym,0.013333333333333334
+benchmark,ds-1000,0.013333333333333332
+benchmark,featbench,0.013333333333333332
+benchmark,featurebench-modal,0.013333333333333334
+benchmark,financeagent_terminal,0.013333333333333332
+benchmark,finding-right-fit-2610.00917::ALE-CLI,0.013333333333333332
+benchmark,finding-right-fit-2610.00917::TUA-Bench,0.013333333333333332
+benchmark,finding-right-fit-2610.00917::Terminal-Bench 4,0.013333333333333336
+benchmark,frontier-harness-eval-v1.1::tb21,0.01333333333333333
+benchmark,frontier-harness-eval-v1.1::tb4,0.013333333333333336
+benchmark,frontier-harness-eval-v1::DeepSWE-v1.1,0.013333333333333334
+benchmark,frontier-harness-eval-v1::TerminalBench2.1,0.013333333333333332
+benchmark,gaia,0.013333333333333334
+benchmark,gaia2,0.013333333333333336
+benchmark,garrytan-coding-2026-11::terminal-bench-2.1,0.013333333333333329
+benchmark,garrytan-multiuser-2026-11::multiuser-v0.3-dev,0.013333333333333332
+benchmark,gpqa-diamond,0.013333333333333329
+benchmark,gso,0.013333333333333336
+benchmark,harnessbench2026_v2::harness-bench-general,0.013333333333333336
+benchmark,harnessbench2026_v2::harness-bench-multimodal,0.013333333333333338
+benchmark,hf-harness-leaderboard-2026-default::deep-swe,0.013333333333333332
+benchmark,hf-harness-leaderboard-2026-default::terminal-bench-2.1,0.013333333333333336
+benchmark,hf-harness-leaderboard-2026-high::deep-swe,0.013333333333333332
+benchmark,hf-harness-leaderboard-2026-high::terminal-bench-2.1,0.013333333333333336
+benchmark,hf-harness-leaderboard-2026-low::deep-swe,0.013333333333333332
+benchmark,hf-harness-leaderboard-2026-low::terminal-bench-2.1,0.013333333333333336
+benchmark,hle,0.013333333333333332
+benchmark,humanevalfix,0.013333333333333332
+benchmark,ineqmath,0.01333333333333333
+benchmark,kumo,0.013333333333333334
+benchmark,labbench,0.013333333333333332
+benchmark,lawbench,0.013333333333333334
+benchmark,livecodebench,0.013333333333333332
+benchmark,medagentbench,0.013333333333333332
+benchmark,mmau,0.013333333333333332
+benchmark,mmmlu,0.013333333333333329
+benchmark,multi-swe-bench,0.013333333333333332
+benchmark,omnimath,0.013333333333333332
+benchmark,pixiu,0.013333333333333334
+benchmark,qcircuitbench,0.013333333333333332
+benchmark,quixbugs,0.013333333333333334
+benchmark,reasoning-gym,0.013333333333333332
+benchmark,replicationbench,0.013333333333333334
+benchmark,research-code-bench,0.013333333333333334
+benchmark,scicode,0.01333333333333333
+benchmark,seal0,0.013333333333333329
+benchmark,simpleqa,0.013333333333333332
+benchmark,skillsbench,0.013333333333333332
+benchmark,spider2,0.013333333333333332
+benchmark,spreadsheetbench,0.013333333333333332
+benchmark,strongreject,0.013333333333333332
+benchmark,swe-lancer,0.013333333333333332
+benchmark,swe-rebench-2026-07::swe-rebench-2026-07,0.013333333333333336
+benchmark,swebench-multilingual,0.013333333333333332
+benchmark,swebench-verified,0.013333333333333332
+benchmark,swebenchpro,0.01333333333333333
+benchmark,swesmith,0.013333333333333332
+benchmark,swtbench,0.013333333333333332
+benchmark,terminal-bench-2.0,0.013333333333333332
+benchmark,usaco,0.013333333333333332
+benchmark,widesearch,0.013333333333333334
+bm,aa-lcr / claude-haiku-4-5,0.0011111111111111113
+bm,aa-lcr / claude-opus-4-6,0.0011111111111111113
+bm,aa-lcr / claude-sonnet-4-6,0.0011111111111111113
+bm,aa-lcr / deepseek-chat,0.0011111111111111113
+bm,aa-lcr / gemini-3-flash-preview,0.0011111111111111113
+bm,aa-lcr / gemini-3.1-pro-preview,0.0011111111111111113
+bm,aa-lcr / glm-5,0.0011111111111111111
+bm,aa-lcr / gpt-5-mini,0.0011111111111111113
+bm,aa-lcr / gpt-5-nano,0.0011111111111111113
+bm,aa-lcr / gpt-5.4,0.0011111111111111113
+bm,aa-lcr / minimax-m2.5,0.0011111111111111113
+bm,aa-lcr / qwen3-max,0.0011111111111111113
+bm,aider-polyglot / claude-haiku-4-5,0.0008888888888888888
+bm,aider-polyglot / claude-opus-4-6,0.0008888888888888886
+bm,aider-polyglot / claude-sonnet-4-6,0.0008888888888888891
+bm,aider-polyglot / deepseek-chat,0.000888888888888889
+bm,aider-polyglot / deepseek-reasoner,0.0008888888888888887
+bm,aider-polyglot / gemini-3-flash-preview,0.0008888888888888891
+bm,aider-polyglot / gemini-3.1-pro-preview,0.0008888888888888891
+bm,aider-polyglot / glm-5,0.0008888888888888889
+bm,aider-polyglot / gpt-5-mini,0.0008888888888888893
+bm,aider-polyglot / gpt-5-nano,0.000888888888888889
+bm,aider-polyglot / gpt-5.4,0.0008888888888888893
+bm,aider-polyglot / kimi-k2.5,0.0008888888888888891
+bm,aider-polyglot / mimo-v2-pro,0.0008888888888888887
+bm,aider-polyglot / minimax-m2.5,0.0008888888888888889
+bm,aider-polyglot / qwen3-max,0.0008888888888888889
+bm,aime / claude-haiku-4-5,0.0008888888888888887
+bm,aime / claude-opus-4-6,0.0008888888888888887
+bm,aime / claude-sonnet-4-6,0.0008888888888888887
+bm,aime / deepseek-chat,0.000888888888888889
+bm,aime / deepseek-reasoner,0.0008888888888888887
+bm,aime / gemini-3-flash-preview,0.0008888888888888887
+bm,aime / gemini-3.1-pro-preview,0.0008888888888888887
+bm,aime / glm-5,0.0008888888888888885
+bm,aime / gpt-5-mini,0.0008888888888888887
+bm,aime / gpt-5-nano,0.0008888888888888887
+bm,aime / gpt-5.4,0.0008888888888888887
+bm,aime / kimi-k2.5,0.0008888888888888887
+bm,aime / mimo-v2-pro,0.0008888888888888885
+bm,aime / minimax-m2.5,0.0008888888888888887
+bm,aime / qwen3-max,0.0008888888888888887
+bm,arc-agi-2 / claude-haiku-4-5,0.0008888888888888887
+bm,arc-agi-2 / claude-opus-4-6,0.0008888888888888885
+bm,arc-agi-2 / claude-sonnet-4-6,0.0008888888888888888
+bm,arc-agi-2 / deepseek-chat,0.0008888888888888889
+bm,arc-agi-2 / deepseek-reasoner,0.0008888888888888888
+bm,arc-agi-2 / gemini-3-flash-preview,0.0008888888888888887
+bm,arc-agi-2 / gemini-3.1-pro-preview,0.0008888888888888887
+bm,arc-agi-2 / glm-5,0.0008888888888888887
+bm,arc-agi-2 / gpt-5-mini,0.0008888888888888887
+bm,arc-agi-2 / gpt-5-nano,0.0008888888888888887
+bm,arc-agi-2 / gpt-5.4,0.0008888888888888888
+bm,arc-agi-2 / kimi-k2.5,0.0008888888888888885
+bm,arc-agi-2 / mimo-v2-pro,0.0008888888888888888
+bm,arc-agi-2 / minimax-m2.5,0.0008888888888888886
+bm,arc-agi-2 / qwen3-max,0.0008888888888888888
+bm,bfcl / claude-haiku-4-5,0.0008888888888888889
+bm,bfcl / claude-opus-4-6,0.0008888888888888889
+bm,bfcl / claude-sonnet-4-6,0.0008888888888888889
+bm,bfcl / deepseek-chat,0.0008888888888888889
+bm,bfcl / deepseek-reasoner,0.0008888888888888889
+bm,bfcl / gemini-3-flash-preview,0.0008888888888888887
+bm,bfcl / gemini-3.1-pro-preview,0.0008888888888888889
+bm,bfcl / glm-5,0.0008888888888888889
+bm,bfcl / gpt-5-mini,0.0008888888888888889
+bm,bfcl / gpt-5-nano,0.0008888888888888889
+bm,bfcl / gpt-5.4,0.0008888888888888889
+bm,bfcl / kimi-k2.5,0.0008888888888888889
+bm,bfcl / mimo-v2-pro,0.0008888888888888889
+bm,bfcl / minimax-m2.5,0.0008888888888888889
+bm,bfcl / qwen3-max,0.0008888888888888889
+bm,bigcodebench / claude-haiku-4-5,0.0008888888888888891
+bm,bigcodebench / claude-opus-4-6,0.0008888888888888891
+bm,bigcodebench / claude-sonnet-4-6,0.0008888888888888891
+bm,bigcodebench / deepseek-chat,0.0008888888888888888
+bm,bigcodebench / deepseek-reasoner,0.0008888888888888891
+bm,bigcodebench / gemini-3-flash-preview,0.0008888888888888891
+bm,bigcodebench / gemini-3.1-pro-preview,0.0008888888888888889
+bm,bigcodebench / glm-5,0.0008888888888888891
+bm,bigcodebench / gpt-5-mini,0.0008888888888888891
+bm,bigcodebench / gpt-5-nano,0.0008888888888888891
+bm,bigcodebench / gpt-5.4,0.0008888888888888891
+bm,bigcodebench / kimi-k2.5,0.0008888888888888891
+bm,bigcodebench / mimo-v2-pro,0.0008888888888888891
+bm,bigcodebench / minimax-m2.5,0.0008888888888888889
+bm,bigcodebench / qwen3-max,0.0008888888888888891
+bm,bixbench / claude-haiku-4-5,0.0008888888888888888
+bm,bixbench / claude-opus-4-6,0.0008888888888888888
+bm,bixbench / claude-sonnet-4-6,0.0008888888888888888
+bm,bixbench / deepseek-chat,0.0008888888888888888
+bm,bixbench / deepseek-reasoner,0.0008888888888888888
+bm,bixbench / gemini-3-flash-preview,0.0008888888888888888
+bm,bixbench / gemini-3.1-pro-preview,0.0008888888888888888
+bm,bixbench / glm-5,0.0008888888888888888
+bm,bixbench / gpt-5-mini,0.0008888888888888888
+bm,bixbench / gpt-5-nano,0.0008888888888888888
+bm,bixbench / gpt-5.4,0.0008888888888888888
+bm,bixbench / kimi-k2.5,0.0008888888888888888
+bm,bixbench / mimo-v2-pro,0.0008888888888888888
+bm,bixbench / minimax-m2.5,0.0008888888888888888
+bm,bixbench / qwen3-max,0.0008888888888888888
+bm,codepde / claude-haiku-4-5,0.0008888888888888889
+bm,codepde / claude-opus-4-6,0.0008888888888888889
+bm,codepde / claude-sonnet-4-6,0.0008888888888888889
+bm,codepde / deepseek-chat,0.0008888888888888889
+bm,codepde / deepseek-reasoner,0.0008888888888888889
+bm,codepde / gemini-3-flash-preview,0.0008888888888888889
+bm,codepde / gemini-3.1-pro-preview,0.0008888888888888888
+bm,codepde / glm-5,0.0008888888888888889
+bm,codepde / gpt-5-mini,0.0008888888888888889
+bm,codepde / gpt-5-nano,0.0008888888888888889
+bm,codepde / gpt-5.4,0.0008888888888888889
+bm,codepde / kimi-k2.5,0.0008888888888888889
+bm,codepde / mimo-v2-pro,0.0008888888888888889
+bm,codepde / minimax-m2.5,0.0008888888888888889
+bm,codepde / qwen3-max,0.0008888888888888889
+bm,compilebench / claude-haiku-4-5,0.0008888888888888891
+bm,compilebench / claude-opus-4-6,0.0008888888888888891
+bm,compilebench / claude-sonnet-4-6,0.0008888888888888891
+bm,compilebench / deepseek-chat,0.0008888888888888887
+bm,compilebench / deepseek-reasoner,0.0008888888888888887
+bm,compilebench / gemini-3-flash-preview,0.0008888888888888891
+bm,compilebench / gemini-3.1-pro-preview,0.0008888888888888891
+bm,compilebench / glm-5,0.0008888888888888891
+bm,compilebench / gpt-5-mini,0.0008888888888888891
+bm,compilebench / gpt-5-nano,0.000888888888888889
+bm,compilebench / gpt-5.4,0.0008888888888888891
+bm,compilebench / kimi-k2.5,0.0008888888888888891
+bm,compilebench / mimo-v2-pro,0.0008888888888888891
+bm,compilebench / minimax-m2.5,0.0008888888888888891
+bm,compilebench / qwen3-max,0.0008888888888888891
+bm,crmarena / claude-haiku-4-5,0.0011111111111111111
+bm,crmarena / claude-opus-4-6,0.001111111111111111
+bm,crmarena / claude-sonnet-4-6,0.0011111111111111111
+bm,crmarena / deepseek-chat,0.001111111111111111
+bm,crmarena / deepseek-reasoner,0.0011111111111111113
+bm,crmarena / gemini-3-flash-preview,0.0011111111111111111
+bm,crmarena / gemini-3.1-pro-preview,0.0011111111111111111
+bm,crmarena / gpt-5-mini,0.0011111111111111111
+bm,crmarena / gpt-5-nano,0.0011111111111111111
+bm,crmarena / gpt-5.4,0.0011111111111111111
+bm,crmarena / minimax-m2.5,0.0011111111111111113
+bm,crmarena / qwen3-max,0.0011111111111111111
+bm,crustbench / claude-haiku-4-5,0.0008888888888888885
+bm,crustbench / claude-opus-4-6,0.0008888888888888889
+bm,crustbench / claude-sonnet-4-6,0.0008888888888888889
+bm,crustbench / deepseek-chat,0.0008888888888888888
+bm,crustbench / deepseek-reasoner,0.0008888888888888887
+bm,crustbench / gemini-3-flash-preview,0.0008888888888888888
+bm,crustbench / gemini-3.1-pro-preview,0.0008888888888888888
+bm,crustbench / glm-5,0.0008888888888888887
+bm,crustbench / gpt-5-mini,0.0008888888888888885
+bm,crustbench / gpt-5-nano,0.0008888888888888888
+bm,crustbench / gpt-5.4,0.0008888888888888887
+bm,crustbench / kimi-k2.5,0.000888888888888889
+bm,crustbench / mimo-v2-pro,0.0008888888888888894
+bm,crustbench / minimax-m2.5,0.0008888888888888888
+bm,crustbench / qwen3-max,0.0008888888888888886
+bm,cybergym / claude-haiku-4-5,0.0016666666666666663
+bm,cybergym / claude-opus-4-6,0.0016666666666666668
+bm,cybergym / claude-sonnet-4-6,0.0016666666666666668
+bm,cybergym / gemini-3-flash-preview,0.0016666666666666666
+bm,cybergym / gemini-3.1-pro-preview,0.0016666666666666663
+bm,cybergym / gpt-5-mini,0.0016666666666666668
+bm,cybergym / gpt-5-nano,0.001666666666666667
+bm,cybergym / gpt-5.4,0.0016666666666666666
+bm,dacode / claude-haiku-4-5,0.0008888888888888887
+bm,dacode / claude-opus-4-6,0.0008888888888888887
+bm,dacode / claude-sonnet-4-6,0.0008888888888888887
+bm,dacode / deepseek-chat,0.0008888888888888887
+bm,dacode / deepseek-reasoner,0.0008888888888888888
+bm,dacode / gemini-3-flash-preview,0.0008888888888888887
+bm,dacode / gemini-3.1-pro-preview,0.0008888888888888891
+bm,dacode / glm-5,0.0008888888888888887
+bm,dacode / gpt-5-mini,0.0008888888888888887
+bm,dacode / gpt-5-nano,0.0008888888888888887
+bm,dacode / gpt-5.4,0.0008888888888888887
+bm,dacode / kimi-k2.5,0.0008888888888888889
+bm,dacode / mimo-v2-pro,0.0008888888888888887
+bm,dacode / minimax-m2.5,0.0008888888888888887
+bm,dacode / qwen3-max,0.0008888888888888887
+bm,deepsynth / claude-haiku-4-5,0.0008888888888888889
+bm,deepsynth / claude-opus-4-6,0.0008888888888888889
+bm,deepsynth / claude-sonnet-4-6,0.0008888888888888891
+bm,deepsynth / deepseek-chat,0.0008888888888888889
+bm,deepsynth / deepseek-reasoner,0.0008888888888888889
+bm,deepsynth / gemini-3-flash-preview,0.000888888888888889
+bm,deepsynth / gemini-3.1-pro-preview,0.0008888888888888889
+bm,deepsynth / glm-5,0.0008888888888888889
+bm,deepsynth / gpt-5-mini,0.000888888888888889
+bm,deepsynth / gpt-5-nano,0.000888888888888889
+bm,deepsynth / gpt-5.4,0.0008888888888888893
+bm,deepsynth / kimi-k2.5,0.0008888888888888891
+bm,deepsynth / mimo-v2-pro,0.0008888888888888891
+bm,deepsynth / minimax-m2.5,0.0008888888888888888
+bm,deepsynth / qwen3-max,0.0008888888888888893
+bm,devopsgym / claude-haiku-4-5,0.0008888888888888889
+bm,devopsgym / claude-opus-4-6,0.0008888888888888889
+bm,devopsgym / claude-sonnet-4-6,0.000888888888888889
+bm,devopsgym / deepseek-chat,0.000888888888888889
+bm,devopsgym / deepseek-reasoner,0.0008888888888888887
+bm,devopsgym / gemini-3-flash-preview,0.0008888888888888889
+bm,devopsgym / gemini-3.1-pro-preview,0.0008888888888888891
+bm,devopsgym / glm-5,0.0008888888888888887
+bm,devopsgym / gpt-5-mini,0.0008888888888888889
+bm,devopsgym / gpt-5-nano,0.0008888888888888889
+bm,devopsgym / gpt-5.4,0.0008888888888888889
+bm,devopsgym / kimi-k2.5,0.0008888888888888889
+bm,devopsgym / mimo-v2-pro,0.0008888888888888889
+bm,devopsgym / minimax-m2.5,0.0008888888888888886
+bm,devopsgym / qwen3-max,0.0008888888888888889
+bm,ds-1000 / claude-haiku-4-5,0.006666666666666666
+bm,ds-1000 / minimax-m2.5,0.006666666666666666
+bm,featbench / claude-haiku-4-5,0.0011111111111111111
+bm,featbench / claude-opus-4-6,0.0011111111111111111
+bm,featbench / claude-sonnet-4-6,0.0011111111111111111
+bm,featbench / deepseek-chat,0.0011111111111111111
+bm,featbench / deepseek-reasoner,0.0011111111111111111
+bm,featbench / gemini-3-flash-preview,0.0011111111111111111
+bm,featbench / gemini-3.1-pro-preview,0.001111111111111111
+bm,featbench / gpt-5-mini,0.0011111111111111111
+bm,featbench / gpt-5-nano,0.0011111111111111113
+bm,featbench / gpt-5.4,0.0011111111111111111
+bm,featbench / mimo-v2-pro,0.0011111111111111111
+bm,featbench / minimax-m2.5,0.001111111111111111
+bm,featurebench-modal / claude-haiku-4-5,0.0008888888888888891
+bm,featurebench-modal / claude-opus-4-6,0.0008888888888888891
+bm,featurebench-modal / claude-sonnet-4-6,0.0008888888888888889
+bm,featurebench-modal / deepseek-chat,0.0008888888888888887
+bm,featurebench-modal / deepseek-reasoner,0.0008888888888888888
+bm,featurebench-modal / gemini-3-flash-preview,0.0008888888888888891
+bm,featurebench-modal / gemini-3.1-pro-preview,0.0008888888888888891
+bm,featurebench-modal / glm-5,0.0008888888888888889
+bm,featurebench-modal / gpt-5-mini,0.0008888888888888891
+bm,featurebench-modal / gpt-5-nano,0.000888888888888889
+bm,featurebench-modal / gpt-5.4,0.0008888888888888891
+bm,featurebench-modal / kimi-k2.5,0.0008888888888888887
+bm,featurebench-modal / mimo-v2-pro,0.0008888888888888887
+bm,featurebench-modal / minimax-m2.5,0.0008888888888888888
+bm,featurebench-modal / qwen3-max,0.0008888888888888891
+bm,financeagent_terminal / claude-haiku-4-5,0.001111111111111111
+bm,financeagent_terminal / claude-opus-4-6,0.001111111111111111
+bm,financeagent_terminal / claude-sonnet-4-6,0.001111111111111111
+bm,financeagent_terminal / deepseek-chat,0.0011111111111111113
+bm,financeagent_terminal / deepseek-reasoner,0.0011111111111111113
+bm,financeagent_terminal / gemini-3-flash-preview,0.001111111111111111
+bm,financeagent_terminal / gemini-3.1-pro-preview,0.001111111111111111
+bm,financeagent_terminal / gpt-5-mini,0.001111111111111111
+bm,financeagent_terminal / gpt-5-nano,0.0011111111111111111
+bm,financeagent_terminal / gpt-5.4,0.001111111111111111
+bm,financeagent_terminal / minimax-m2.5,0.001111111111111111
+bm,financeagent_terminal / qwen3-max,0.001111111111111111
+bm,finding-right-fit-2610.00917::ALE-CLI / claude-opus-5,0.002666666666666667
+bm,finding-right-fit-2610.00917::ALE-CLI / deepseek-v4-pro-0813,0.0026666666666666674
+bm,finding-right-fit-2610.00917::ALE-CLI / glm-5.3,0.0026666666666666674
+bm,finding-right-fit-2610.00917::ALE-CLI / gpt-6-astra,0.002666666666666667
+bm,finding-right-fit-2610.00917::ALE-CLI / kimi-k3,0.0026666666666666674
+bm,finding-right-fit-2610.00917::TUA-Bench / claude-opus-5,0.0026666666666666666
+bm,finding-right-fit-2610.00917::TUA-Bench / deepseek-v4-pro-0813,0.002666666666666666
+bm,finding-right-fit-2610.00917::TUA-Bench / glm-5.3,0.002666666666666666
+bm,finding-right-fit-2610.00917::TUA-Bench / gpt-6-astra,0.0026666666666666666
+bm,finding-right-fit-2610.00917::TUA-Bench / kimi-k3,0.002666666666666666
+bm,finding-right-fit-2610.00917::Terminal-Bench 4 / claude-opus-5,0.002666666666666667
+bm,finding-right-fit-2610.00917::Terminal-Bench 4 / deepseek-v4-pro-0813,0.002666666666666667
+bm,finding-right-fit-2610.00917::Terminal-Bench 4 / glm-5.3,0.002666666666666667
+bm,finding-right-fit-2610.00917::Terminal-Bench 4 / gpt-6-astra,0.002666666666666667
+bm,finding-right-fit-2610.00917::Terminal-Bench 4 / kimi-k3,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb21 / deepseek-v4.1-flash-1017,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb21 / glm-5.3,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb21 / glm-5.3-flash,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb21 / kimi-k3,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb21 / muse-spark-open,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb4 / deepseek-v4.1-flash-1017,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb4 / glm-5.3,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb4 / glm-5.3-flash,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb4 / kimi-k3,0.002666666666666667
+bm,frontier-harness-eval-v1.1::tb4 / muse-spark-open,0.002666666666666667
+bm,frontier-harness-eval-v1::DeepSWE-v1.1 / kimi-k3,0.013333333333333334
+bm,frontier-harness-eval-v1::TerminalBench2.1 / kimi-k3,0.013333333333333332
+bm,gaia / claude-haiku-4-5,0.0008888888888888891
+bm,gaia / claude-opus-4-6,0.0008888888888888889
+bm,gaia / claude-sonnet-4-6,0.0008888888888888889
+bm,gaia / deepseek-chat,0.000888888888888889
+bm,gaia / deepseek-reasoner,0.0008888888888888887
+bm,gaia / gemini-3-flash-preview,0.0008888888888888888
+bm,gaia / gemini-3.1-pro-preview,0.0008888888888888888
+bm,gaia / glm-5,0.0008888888888888891
+bm,gaia / gpt-5-mini,0.0008888888888888887
+bm,gaia / gpt-5-nano,0.0008888888888888888
+bm,gaia / gpt-5.4,0.0008888888888888888
+bm,gaia / kimi-k2.5,0.0008888888888888887
+bm,gaia / mimo-v2-pro,0.0008888888888888889
+bm,gaia / minimax-m2.5,0.000888888888888889
+bm,gaia / qwen3-max,0.0008888888888888891
+bm,gaia2 / claude-haiku-4-5,0.0010256410256410256
+bm,gaia2 / claude-opus-4-6,0.0010256410256410252
+bm,gaia2 / claude-sonnet-4-6,0.0010256410256410254
+bm,gaia2 / deepseek-chat,0.0010256410256410252
+bm,gaia2 / deepseek-reasoner,0.0010256410256410259
+bm,gaia2 / gemini-3-flash-preview,0.0010256410256410256
+bm,gaia2 / gemini-3.1-pro-preview,0.0010256410256410256
+bm,gaia2 / gpt-5-mini,0.0010256410256410254
+bm,gaia2 / gpt-5-nano,0.0010256410256410252
+bm,gaia2 / gpt-5.4,0.0010256410256410256
+bm,gaia2 / mimo-v2-pro,0.0010256410256410256
+bm,gaia2 / minimax-m2.5,0.0010256410256410254
+bm,gaia2 / qwen3-max,0.0010256410256410256
+bm,garrytan-coding-2026-11::terminal-bench-2.1 / claude-opus-5.5,0.0066666666666666645
+bm,garrytan-coding-2026-11::terminal-bench-2.1 / gpt-6.1-sol,0.0066666666666666645
+bm,garrytan-multiuser-2026-11::multiuser-v0.3-dev / claude-opus-5.5,0.006666666666666668
+bm,garrytan-multiuser-2026-11::multiuser-v0.3-dev / gpt-6.1-sol,0.006666666666666666
+bm,gpqa-diamond / claude-haiku-4-5,0.0008888888888888885
+bm,gpqa-diamond / claude-opus-4-6,0.0008888888888888885
+bm,gpqa-diamond / claude-sonnet-4-6,0.0008888888888888885
+bm,gpqa-diamond / deepseek-chat,0.0008888888888888885
+bm,gpqa-diamond / deepseek-reasoner,0.0008888888888888885
+bm,gpqa-diamond / gemini-3-flash-preview,0.0008888888888888885
+bm,gpqa-diamond / gemini-3.1-pro-preview,0.0008888888888888885
+bm,gpqa-diamond / glm-5,0.0008888888888888885
+bm,gpqa-diamond / gpt-5-mini,0.0008888888888888885
+bm,gpqa-diamond / gpt-5-nano,0.0008888888888888885
+bm,gpqa-diamond / gpt-5.4,0.0008888888888888885
+bm,gpqa-diamond / kimi-k2.5,0.0008888888888888886
+bm,gpqa-diamond / mimo-v2-pro,0.0008888888888888885
+bm,gpqa-diamond / minimax-m2.5,0.0008888888888888885
+bm,gpqa-diamond / qwen3-max,0.0008888888888888885
+bm,gso / claude-haiku-4-5,0.000888888888888889
+bm,gso / claude-opus-4-6,0.000888888888888889
+bm,gso / claude-sonnet-4-6,0.000888888888888889
+bm,gso / deepseek-chat,0.0008888888888888889
+bm,gso / deepseek-reasoner,0.0008888888888888889
+bm,gso / gemini-3-flash-preview,0.000888888888888889
+bm,gso / gemini-3.1-pro-preview,0.000888888888888889
+bm,gso / glm-5,0.000888888888888889
+bm,gso / gpt-5-mini,0.000888888888888889
+bm,gso / gpt-5-nano,0.000888888888888889
+bm,gso / gpt-5.4,0.000888888888888889
+bm,gso / kimi-k2.5,0.000888888888888889
+bm,gso / mimo-v2-pro,0.000888888888888889
+bm,gso / minimax-m2.5,0.000888888888888889
+bm,gso / qwen3-max,0.000888888888888889
+bm,harnessbench2026_v2::harness-bench-general / deepseek-v4-flash,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / deepseek-v4-pro,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / gemma-4-31b,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / glm-5.3,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / glm-5.3-flash,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / gpt-5.6-luna,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / gpt-5.6-sol,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / gpt-5.6-terra,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-general / kimi-k3,0.0013333333333333333
+bm,harnessbench2026_v2::harness-bench-general / qwen3.8-27b,0.001333333333333333
+bm,harnessbench2026_v2::harness-bench-multimodal / gemma-4-31b,0.0019047619047619052
+bm,harnessbench2026_v2::harness-bench-multimodal / glm-5.3-flash,0.0019047619047619052
+bm,harnessbench2026_v2::harness-bench-multimodal / gpt-5.6-luna,0.0019047619047619052
+bm,harnessbench2026_v2::harness-bench-multimodal / gpt-5.6-sol,0.0019047619047619052
+bm,harnessbench2026_v2::harness-bench-multimodal / gpt-5.6-terra,0.0019047619047619052
+bm,harnessbench2026_v2::harness-bench-multimodal / kimi-k3,0.0019047619047619052
+bm,harnessbench2026_v2::harness-bench-multimodal / qwen3.8-27b,0.0019047619047619052
+bm,hf-harness-leaderboard-2026-default::deep-swe / flint,0.006666666666666666
+bm,hf-harness-leaderboard-2026-default::deep-swe / ripple-65b-preview,0.006666666666666666
+bm,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / flint,0.006666666666666668
+bm,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / ripple-65b-preview,0.006666666666666668
+bm,hf-harness-leaderboard-2026-high::deep-swe / deepseek-v4.1-flash,0.006666666666666666
+bm,hf-harness-leaderboard-2026-high::deep-swe / glm-5.3-flash,0.006666666666666666
+bm,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / deepseek-v4.1-flash,0.006666666666666668
+bm,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / glm-5.3-flash,0.006666666666666668
+bm,hf-harness-leaderboard-2026-low::deep-swe / deepseek-v4.1-flash,0.006666666666666666
+bm,hf-harness-leaderboard-2026-low::deep-swe / glm-5.3-flash,0.006666666666666666
+bm,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / deepseek-v4.1-flash,0.006666666666666668
+bm,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / glm-5.3-flash,0.006666666666666668
+bm,hle / claude-haiku-4-5,0.0008888888888888888
+bm,hle / claude-opus-4-6,0.0008888888888888889
+bm,hle / claude-sonnet-4-6,0.000888888888888889
+bm,hle / deepseek-chat,0.0008888888888888887
+bm,hle / deepseek-reasoner,0.0008888888888888887
+bm,hle / gemini-3-flash-preview,0.0008888888888888887
+bm,hle / gemini-3.1-pro-preview,0.0008888888888888889
+bm,hle / glm-5,0.0008888888888888889
+bm,hle / gpt-5-mini,0.0008888888888888888
+bm,hle / gpt-5-nano,0.0008888888888888888
+bm,hle / gpt-5.4,0.0008888888888888888
+bm,hle / kimi-k2.5,0.0008888888888888887
+bm,hle / mimo-v2-pro,0.0008888888888888889
+bm,hle / minimax-m2.5,0.0008888888888888888
+bm,hle / qwen3-max,0.0008888888888888888
+bm,humanevalfix / claude-haiku-4-5,0.0008888888888888887
+bm,humanevalfix / claude-opus-4-6,0.0008888888888888887
+bm,humanevalfix / claude-sonnet-4-6,0.0008888888888888887
+bm,humanevalfix / deepseek-chat,0.0008888888888888891
+bm,humanevalfix / deepseek-reasoner,0.0008888888888888891
+bm,humanevalfix / gemini-3-flash-preview,0.0008888888888888887
+bm,humanevalfix / gemini-3.1-pro-preview,0.0008888888888888887
+bm,humanevalfix / glm-5,0.0008888888888888887
+bm,humanevalfix / gpt-5-mini,0.0008888888888888887
+bm,humanevalfix / gpt-5-nano,0.0008888888888888887
+bm,humanevalfix / gpt-5.4,0.0008888888888888887
+bm,humanevalfix / kimi-k2.5,0.0008888888888888887
+bm,humanevalfix / mimo-v2-pro,0.0008888888888888891
+bm,humanevalfix / minimax-m2.5,0.0008888888888888891
+bm,humanevalfix / qwen3-max,0.0008888888888888887
+bm,ineqmath / claude-haiku-4-5,0.0008888888888888887
+bm,ineqmath / claude-opus-4-6,0.0008888888888888887
+bm,ineqmath / claude-sonnet-4-6,0.0008888888888888887
+bm,ineqmath / deepseek-chat,0.0008888888888888888
+bm,ineqmath / deepseek-reasoner,0.0008888888888888888
+bm,ineqmath / gemini-3-flash-preview,0.0008888888888888887
+bm,ineqmath / gemini-3.1-pro-preview,0.0008888888888888887
+bm,ineqmath / glm-5,0.0008888888888888888
+bm,ineqmath / gpt-5-mini,0.0008888888888888887
+bm,ineqmath / gpt-5-nano,0.0008888888888888887
+bm,ineqmath / gpt-5.4,0.0008888888888888887
+bm,ineqmath / kimi-k2.5,0.0008888888888888887
+bm,ineqmath / mimo-v2-pro,0.0008888888888888887
+bm,ineqmath / minimax-m2.5,0.0008888888888888887
+bm,ineqmath / qwen3-max,0.0008888888888888887
+bm,kumo / claude-haiku-4-5,0.0008888888888888891
+bm,kumo / claude-opus-4-6,0.0008888888888888891
+bm,kumo / claude-sonnet-4-6,0.0008888888888888891
+bm,kumo / deepseek-chat,0.000888888888888889
+bm,kumo / deepseek-reasoner,0.0008888888888888888
+bm,kumo / gemini-3-flash-preview,0.0008888888888888891
+bm,kumo / gemini-3.1-pro-preview,0.0008888888888888891
+bm,kumo / glm-5,0.0008888888888888889
+bm,kumo / gpt-5-mini,0.0008888888888888891
+bm,kumo / gpt-5-nano,0.000888888888888889
+bm,kumo / gpt-5.4,0.0008888888888888891
+bm,kumo / kimi-k2.5,0.0008888888888888891
+bm,kumo / mimo-v2-pro,0.0008888888888888889
+bm,kumo / minimax-m2.5,0.0008888888888888891
+bm,kumo / qwen3-max,0.0008888888888888891
+bm,labbench / claude-haiku-4-5,0.0008888888888888889
+bm,labbench / claude-opus-4-6,0.0008888888888888889
+bm,labbench / claude-sonnet-4-6,0.0008888888888888889
+bm,labbench / deepseek-chat,0.000888888888888889
+bm,labbench / deepseek-reasoner,0.0008888888888888886
+bm,labbench / gemini-3-flash-preview,0.0008888888888888888
+bm,labbench / gemini-3.1-pro-preview,0.0008888888888888888
+bm,labbench / glm-5,0.0008888888888888889
+bm,labbench / gpt-5-mini,0.0008888888888888887
+bm,labbench / gpt-5-nano,0.0008888888888888888
+bm,labbench / gpt-5.4,0.0008888888888888888
+bm,labbench / kimi-k2.5,0.0008888888888888888
+bm,labbench / mimo-v2-pro,0.0008888888888888888
+bm,labbench / minimax-m2.5,0.0008888888888888889
+bm,labbench / qwen3-max,0.0008888888888888888
+bm,lawbench / claude-haiku-4-5,0.0008888888888888888
+bm,lawbench / claude-opus-4-6,0.0008888888888888888
+bm,lawbench / claude-sonnet-4-6,0.0008888888888888891
+bm,lawbench / deepseek-chat,0.0008888888888888887
+bm,lawbench / deepseek-reasoner,0.0008888888888888887
+bm,lawbench / gemini-3-flash-preview,0.0008888888888888888
+bm,lawbench / gemini-3.1-pro-preview,0.0008888888888888888
+bm,lawbench / glm-5,0.0008888888888888887
+bm,lawbench / gpt-5-mini,0.0008888888888888888
+bm,lawbench / gpt-5-nano,0.0008888888888888888
+bm,lawbench / gpt-5.4,0.0008888888888888888
+bm,lawbench / kimi-k2.5,0.0008888888888888891
+bm,lawbench / mimo-v2-pro,0.0008888888888888888
+bm,lawbench / minimax-m2.5,0.0008888888888888888
+bm,lawbench / qwen3-max,0.0008888888888888888
+bm,livecodebench / claude-haiku-4-5,0.0008888888888888887
+bm,livecodebench / claude-opus-4-6,0.0008888888888888888
+bm,livecodebench / claude-sonnet-4-6,0.0008888888888888887
+bm,livecodebench / deepseek-chat,0.000888888888888889
+bm,livecodebench / deepseek-reasoner,0.0008888888888888888
+bm,livecodebench / gemini-3-flash-preview,0.0008888888888888886
+bm,livecodebench / gemini-3.1-pro-preview,0.0008888888888888887
+bm,livecodebench / glm-5,0.0008888888888888891
+bm,livecodebench / gpt-5-mini,0.0008888888888888887
+bm,livecodebench / gpt-5-nano,0.0008888888888888889
+bm,livecodebench / gpt-5.4,0.0008888888888888885
+bm,livecodebench / kimi-k2.5,0.0008888888888888887
+bm,livecodebench / mimo-v2-pro,0.0008888888888888887
+bm,livecodebench / minimax-m2.5,0.0008888888888888889
+bm,livecodebench / qwen3-max,0.0008888888888888889
+bm,medagentbench / claude-haiku-4-5,0.0008888888888888887
+bm,medagentbench / claude-opus-4-6,0.0008888888888888887
+bm,medagentbench / claude-sonnet-4-6,0.0008888888888888887
+bm,medagentbench / deepseek-chat,0.0008888888888888888
+bm,medagentbench / deepseek-reasoner,0.0008888888888888888
+bm,medagentbench / gemini-3-flash-preview,0.0008888888888888887
+bm,medagentbench / gemini-3.1-pro-preview,0.0008888888888888887
+bm,medagentbench / glm-5,0.0008888888888888887
+bm,medagentbench / gpt-5-mini,0.0008888888888888887
+bm,medagentbench / gpt-5-nano,0.0008888888888888887
+bm,medagentbench / gpt-5.4,0.0008888888888888887
+bm,medagentbench / kimi-k2.5,0.0008888888888888887
+bm,medagentbench / mimo-v2-pro,0.0008888888888888887
+bm,medagentbench / minimax-m2.5,0.0008888888888888887
+bm,medagentbench / qwen3-max,0.0008888888888888887
+bm,mmau / claude-haiku-4-5,0.0008888888888888887
+bm,mmau / claude-opus-4-6,0.0008888888888888887
+bm,mmau / claude-sonnet-4-6,0.0008888888888888887
+bm,mmau / deepseek-chat,0.0008888888888888888
+bm,mmau / deepseek-reasoner,0.0008888888888888885
+bm,mmau / gemini-3-flash-preview,0.0008888888888888887
+bm,mmau / gemini-3.1-pro-preview,0.0008888888888888887
+bm,mmau / glm-5,0.0008888888888888888
+bm,mmau / gpt-5-mini,0.0008888888888888887
+bm,mmau / gpt-5-nano,0.0008888888888888887
+bm,mmau / gpt-5.4,0.0008888888888888887
+bm,mmau / kimi-k2.5,0.0008888888888888887
+bm,mmau / mimo-v2-pro,0.0008888888888888888
+bm,mmau / minimax-m2.5,0.0008888888888888887
+bm,mmau / qwen3-max,0.0008888888888888887
+bm,mmmlu / claude-haiku-4-5,0.0008888888888888889
+bm,mmmlu / claude-opus-4-6,0.0008888888888888889
+bm,mmmlu / claude-sonnet-4-6,0.0008888888888888889
+bm,mmmlu / deepseek-chat,0.0008888888888888888
+bm,mmmlu / deepseek-reasoner,0.0008888888888888889
+bm,mmmlu / gemini-3-flash-preview,0.0008888888888888889
+bm,mmmlu / gemini-3.1-pro-preview,0.0008888888888888889
+bm,mmmlu / glm-5,0.0008888888888888889
+bm,mmmlu / gpt-5-mini,0.0008888888888888889
+bm,mmmlu / gpt-5-nano,0.0008888888888888889
+bm,mmmlu / gpt-5.4,0.0008888888888888889
+bm,mmmlu / kimi-k2.5,0.0008888888888888889
+bm,mmmlu / mimo-v2-pro,0.0008888888888888889
+bm,mmmlu / minimax-m2.5,0.0008888888888888889
+bm,mmmlu / qwen3-max,0.0008888888888888889
+bm,multi-swe-bench / claude-haiku-4-5,0.0013333333333333337
+bm,multi-swe-bench / claude-opus-4-6,0.001333333333333334
+bm,multi-swe-bench / deepseek-chat,0.0013333333333333335
+bm,multi-swe-bench / gemini-3-flash-preview,0.0013333333333333337
+bm,multi-swe-bench / gemini-3.1-pro-preview,0.0013333333333333337
+bm,multi-swe-bench / glm-5,0.0013333333333333333
+bm,multi-swe-bench / gpt-5-mini,0.0013333333333333333
+bm,multi-swe-bench / gpt-5-nano,0.0013333333333333335
+bm,multi-swe-bench / gpt-5.4,0.0013333333333333333
+bm,multi-swe-bench / minimax-m2.5,0.0013333333333333333
+bm,omnimath / claude-haiku-4-5,0.0008888888888888887
+bm,omnimath / claude-opus-4-6,0.0008888888888888887
+bm,omnimath / claude-sonnet-4-6,0.0008888888888888887
+bm,omnimath / deepseek-chat,0.0008888888888888888
+bm,omnimath / deepseek-reasoner,0.0008888888888888891
+bm,omnimath / gemini-3-flash-preview,0.0008888888888888887
+bm,omnimath / gemini-3.1-pro-preview,0.0008888888888888887
+bm,omnimath / glm-5,0.000888888888888889
+bm,omnimath / gpt-5-mini,0.0008888888888888887
+bm,omnimath / gpt-5-nano,0.0008888888888888887
+bm,omnimath / gpt-5.4,0.0008888888888888888
+bm,omnimath / kimi-k2.5,0.0008888888888888891
+bm,omnimath / mimo-v2-pro,0.0008888888888888887
+bm,omnimath / minimax-m2.5,0.0008888888888888891
+bm,omnimath / qwen3-max,0.0008888888888888891
+bm,pixiu / claude-haiku-4-5,0.0008888888888888889
+bm,pixiu / claude-opus-4-6,0.0008888888888888889
+bm,pixiu / claude-sonnet-4-6,0.0008888888888888889
+bm,pixiu / deepseek-chat,0.0008888888888888891
+bm,pixiu / deepseek-reasoner,0.0008888888888888889
+bm,pixiu / gemini-3-flash-preview,0.0008888888888888889
+bm,pixiu / gemini-3.1-pro-preview,0.0008888888888888889
+bm,pixiu / glm-5,0.0008888888888888889
+bm,pixiu / gpt-5-mini,0.0008888888888888888
+bm,pixiu / gpt-5-nano,0.0008888888888888889
+bm,pixiu / gpt-5.4,0.0008888888888888889
+bm,pixiu / kimi-k2.5,0.0008888888888888891
+bm,pixiu / mimo-v2-pro,0.0008888888888888889
+bm,pixiu / minimax-m2.5,0.0008888888888888888
+bm,pixiu / qwen3-max,0.0008888888888888891
+bm,qcircuitbench / claude-haiku-4-5,0.0008888888888888887
+bm,qcircuitbench / claude-opus-4-6,0.0008888888888888889
+bm,qcircuitbench / claude-sonnet-4-6,0.0008888888888888889
+bm,qcircuitbench / deepseek-chat,0.0008888888888888889
+bm,qcircuitbench / deepseek-reasoner,0.0008888888888888888
+bm,qcircuitbench / gemini-3-flash-preview,0.0008888888888888893
+bm,qcircuitbench / gemini-3.1-pro-preview,0.0008888888888888893
+bm,qcircuitbench / glm-5,0.0008888888888888889
+bm,qcircuitbench / gpt-5-mini,0.0008888888888888889
+bm,qcircuitbench / gpt-5-nano,0.0008888888888888891
+bm,qcircuitbench / gpt-5.4,0.0008888888888888893
+bm,qcircuitbench / kimi-k2.5,0.0008888888888888893
+bm,qcircuitbench / mimo-v2-pro,0.0008888888888888889
+bm,qcircuitbench / minimax-m2.5,0.0008888888888888889
+bm,qcircuitbench / qwen3-max,0.0008888888888888893
+bm,quixbugs / claude-haiku-4-5,0.0011111111111111111
+bm,quixbugs / claude-opus-4-6,0.0011111111111111111
+bm,quixbugs / claude-sonnet-4-6,0.0011111111111111111
+bm,quixbugs / deepseek-reasoner,0.0011111111111111111
+bm,quixbugs / gemini-3-flash-preview,0.0011111111111111111
+bm,quixbugs / gemini-3.1-pro-preview,0.0011111111111111111
+bm,quixbugs / glm-5,0.0011111111111111111
+bm,quixbugs / gpt-5-mini,0.0011111111111111111
+bm,quixbugs / gpt-5-nano,0.0011111111111111111
+bm,quixbugs / gpt-5.4,0.0011111111111111111
+bm,quixbugs / minimax-m2.5,0.0011111111111111111
+bm,quixbugs / qwen3-max,0.0011111111111111113
+bm,reasoning-gym / claude-haiku-4-5,0.0008888888888888888
+bm,reasoning-gym / claude-opus-4-6,0.0008888888888888888
+bm,reasoning-gym / claude-sonnet-4-6,0.000888888888888889
+bm,reasoning-gym / deepseek-chat,0.000888888888888889
+bm,reasoning-gym / deepseek-reasoner,0.000888888888888889
+bm,reasoning-gym / gemini-3-flash-preview,0.0008888888888888889
+bm,reasoning-gym / gemini-3.1-pro-preview,0.0008888888888888891
+bm,reasoning-gym / glm-5,0.0008888888888888889
+bm,reasoning-gym / gpt-5-mini,0.0008888888888888889
+bm,reasoning-gym / gpt-5-nano,0.0008888888888888888
+bm,reasoning-gym / gpt-5.4,0.0008888888888888889
+bm,reasoning-gym / kimi-k2.5,0.0008888888888888887
+bm,reasoning-gym / mimo-v2-pro,0.0008888888888888889
+bm,reasoning-gym / minimax-m2.5,0.0008888888888888887
+bm,reasoning-gym / qwen3-max,0.0008888888888888887
+bm,replicationbench / claude-haiku-4-5,0.000888888888888889
+bm,replicationbench / claude-opus-4-6,0.0008888888888888889
+bm,replicationbench / claude-sonnet-4-6,0.0008888888888888889
+bm,replicationbench / deepseek-chat,0.000888888888888889
+bm,replicationbench / deepseek-reasoner,0.000888888888888889
+bm,replicationbench / gemini-3-flash-preview,0.000888888888888889
+bm,replicationbench / gemini-3.1-pro-preview,0.000888888888888889
+bm,replicationbench / glm-5,0.0008888888888888889
+bm,replicationbench / gpt-5-mini,0.000888888888888889
+bm,replicationbench / gpt-5-nano,0.000888888888888889
+bm,replicationbench / gpt-5.4,0.000888888888888889
+bm,replicationbench / kimi-k2.5,0.0008888888888888889
+bm,replicationbench / mimo-v2-pro,0.0008888888888888889
+bm,replicationbench / minimax-m2.5,0.0008888888888888887
+bm,replicationbench / qwen3-max,0.000888888888888889
+bm,research-code-bench / claude-haiku-4-5,0.000888888888888889
+bm,research-code-bench / claude-opus-4-6,0.0008888888888888891
+bm,research-code-bench / claude-sonnet-4-6,0.0008888888888888891
+bm,research-code-bench / deepseek-chat,0.000888888888888889
+bm,research-code-bench / deepseek-reasoner,0.000888888888888889
+bm,research-code-bench / gemini-3-flash-preview,0.0008888888888888891
+bm,research-code-bench / gemini-3.1-pro-preview,0.0008888888888888891
+bm,research-code-bench / glm-5,0.0008888888888888891
+bm,research-code-bench / gpt-5-mini,0.0008888888888888891
+bm,research-code-bench / gpt-5-nano,0.0008888888888888891
+bm,research-code-bench / gpt-5.4,0.0008888888888888891
+bm,research-code-bench / kimi-k2.5,0.0008888888888888889
+bm,research-code-bench / mimo-v2-pro,0.000888888888888889
+bm,research-code-bench / minimax-m2.5,0.0008888888888888891
+bm,research-code-bench / qwen3-max,0.0008888888888888891
+bm,scicode / claude-haiku-4-5,0.0010256410256410256
+bm,scicode / claude-opus-4-6,0.0010256410256410256
+bm,scicode / claude-sonnet-4-6,0.0010256410256410256
+bm,scicode / deepseek-chat,0.0010256410256410254
+bm,scicode / deepseek-reasoner,0.0010256410256410256
+bm,scicode / gemini-3-flash-preview,0.0010256410256410256
+bm,scicode / gemini-3.1-pro-preview,0.0010256410256410256
+bm,scicode / gpt-5-mini,0.0010256410256410256
+bm,scicode / gpt-5-nano,0.0010256410256410256
+bm,scicode / gpt-5.4,0.0010256410256410256
+bm,scicode / mimo-v2-pro,0.0010256410256410256
+bm,scicode / minimax-m2.5,0.0010256410256410256
+bm,scicode / qwen3-max,0.0010256410256410256
+bm,seal0 / claude-haiku-4-5,0.0008888888888888885
+bm,seal0 / claude-opus-4-6,0.0008888888888888885
+bm,seal0 / claude-sonnet-4-6,0.0008888888888888885
+bm,seal0 / deepseek-chat,0.0008888888888888885
+bm,seal0 / deepseek-reasoner,0.0008888888888888885
+bm,seal0 / gemini-3-flash-preview,0.0008888888888888886
+bm,seal0 / gemini-3.1-pro-preview,0.0008888888888888885
+bm,seal0 / glm-5,0.0008888888888888886
+bm,seal0 / gpt-5-mini,0.0008888888888888885
+bm,seal0 / gpt-5-nano,0.0008888888888888885
+bm,seal0 / gpt-5.4,0.0008888888888888885
+bm,seal0 / kimi-k2.5,0.0008888888888888886
+bm,seal0 / mimo-v2-pro,0.0008888888888888885
+bm,seal0 / minimax-m2.5,0.0008888888888888885
+bm,seal0 / qwen3-max,0.0008888888888888885
+bm,simpleqa / claude-haiku-4-5,0.0008888888888888887
+bm,simpleqa / claude-opus-4-6,0.0008888888888888887
+bm,simpleqa / claude-sonnet-4-6,0.0008888888888888887
+bm,simpleqa / deepseek-chat,0.0008888888888888887
+bm,simpleqa / deepseek-reasoner,0.0008888888888888887
+bm,simpleqa / gemini-3-flash-preview,0.0008888888888888887
+bm,simpleqa / gemini-3.1-pro-preview,0.0008888888888888887
+bm,simpleqa / glm-5,0.0008888888888888887
+bm,simpleqa / gpt-5-mini,0.0008888888888888887
+bm,simpleqa / gpt-5-nano,0.0008888888888888887
+bm,simpleqa / gpt-5.4,0.0008888888888888887
+bm,simpleqa / kimi-k2.5,0.0008888888888888887
+bm,simpleqa / mimo-v2-pro,0.0008888888888888887
+bm,simpleqa / minimax-m2.5,0.0008888888888888887
+bm,simpleqa / qwen3-max,0.0008888888888888887
+bm,skillsbench / claude-haiku-4-5,0.000888888888888889
+bm,skillsbench / claude-opus-4-6,0.0008888888888888888
+bm,skillsbench / claude-sonnet-4-6,0.000888888888888889
+bm,skillsbench / deepseek-chat,0.0008888888888888886
+bm,skillsbench / deepseek-reasoner,0.0008888888888888891
+bm,skillsbench / gemini-3-flash-preview,0.0008888888888888889
+bm,skillsbench / gemini-3.1-pro-preview,0.0008888888888888888
+bm,skillsbench / glm-5,0.0008888888888888886
+bm,skillsbench / gpt-5-mini,0.0008888888888888888
+bm,skillsbench / gpt-5-nano,0.0008888888888888887
+bm,skillsbench / gpt-5.4,0.0008888888888888887
+bm,skillsbench / kimi-k2.5,0.0008888888888888887
+bm,skillsbench / mimo-v2-pro,0.0008888888888888891
+bm,skillsbench / minimax-m2.5,0.0008888888888888888
+bm,skillsbench / qwen3-max,0.0008888888888888887
+bm,spider2 / claude-haiku-4-5,0.0008888888888888888
+bm,spider2 / claude-opus-4-6,0.0008888888888888888
+bm,spider2 / claude-sonnet-4-6,0.0008888888888888888
+bm,spider2 / deepseek-chat,0.0008888888888888888
+bm,spider2 / deepseek-reasoner,0.0008888888888888887
+bm,spider2 / gemini-3-flash-preview,0.0008888888888888888
+bm,spider2 / gemini-3.1-pro-preview,0.0008888888888888888
+bm,spider2 / glm-5,0.0008888888888888887
+bm,spider2 / gpt-5-mini,0.0008888888888888886
+bm,spider2 / gpt-5-nano,0.0008888888888888888
+bm,spider2 / gpt-5.4,0.0008888888888888888
+bm,spider2 / kimi-k2.5,0.0008888888888888886
+bm,spider2 / mimo-v2-pro,0.0008888888888888886
+bm,spider2 / minimax-m2.5,0.0008888888888888886
+bm,spider2 / qwen3-max,0.0008888888888888887
+bm,spreadsheetbench / claude-haiku-4-5,0.0008888888888888887
+bm,spreadsheetbench / claude-opus-4-6,0.0008888888888888887
+bm,spreadsheetbench / claude-sonnet-4-6,0.0008888888888888887
+bm,spreadsheetbench / deepseek-chat,0.0008888888888888887
+bm,spreadsheetbench / deepseek-reasoner,0.0008888888888888886
+bm,spreadsheetbench / gemini-3-flash-preview,0.0008888888888888887
+bm,spreadsheetbench / gemini-3.1-pro-preview,0.0008888888888888887
+bm,spreadsheetbench / glm-5,0.0008888888888888888
+bm,spreadsheetbench / gpt-5-mini,0.0008888888888888887
+bm,spreadsheetbench / gpt-5-nano,0.0008888888888888887
+bm,spreadsheetbench / gpt-5.4,0.0008888888888888887
+bm,spreadsheetbench / kimi-k2.5,0.0008888888888888887
+bm,spreadsheetbench / mimo-v2-pro,0.0008888888888888887
+bm,spreadsheetbench / minimax-m2.5,0.0008888888888888887
+bm,spreadsheetbench / qwen3-max,0.0008888888888888887
+bm,strongreject / claude-haiku-4-5,0.0008888888888888888
+bm,strongreject / claude-opus-4-6,0.0008888888888888889
+bm,strongreject / claude-sonnet-4-6,0.0008888888888888889
+bm,strongreject / deepseek-chat,0.0008888888888888889
+bm,strongreject / deepseek-reasoner,0.0008888888888888889
+bm,strongreject / gemini-3-flash-preview,0.0008888888888888889
+bm,strongreject / gemini-3.1-pro-preview,0.0008888888888888889
+bm,strongreject / glm-5,0.0008888888888888891
+bm,strongreject / gpt-5-mini,0.0008888888888888889
+bm,strongreject / gpt-5-nano,0.0008888888888888889
+bm,strongreject / gpt-5.4,0.0008888888888888889
+bm,strongreject / kimi-k2.5,0.0008888888888888889
+bm,strongreject / mimo-v2-pro,0.0008888888888888889
+bm,strongreject / minimax-m2.5,0.0008888888888888889
+bm,strongreject / qwen3-max,0.0008888888888888889
+bm,swe-lancer / claude-haiku-4-5,0.0008888888888888887
+bm,swe-lancer / claude-opus-4-6,0.0008888888888888887
+bm,swe-lancer / claude-sonnet-4-6,0.0008888888888888887
+bm,swe-lancer / deepseek-chat,0.0008888888888888888
+bm,swe-lancer / deepseek-reasoner,0.0008888888888888888
+bm,swe-lancer / gemini-3-flash-preview,0.0008888888888888887
+bm,swe-lancer / gemini-3.1-pro-preview,0.0008888888888888887
+bm,swe-lancer / glm-5,0.0008888888888888887
+bm,swe-lancer / gpt-5-mini,0.0008888888888888887
+bm,swe-lancer / gpt-5-nano,0.0008888888888888887
+bm,swe-lancer / gpt-5.4,0.0008888888888888887
+bm,swe-lancer / kimi-k2.5,0.0008888888888888885
+bm,swe-lancer / mimo-v2-pro,0.0008888888888888887
+bm,swe-lancer / minimax-m2.5,0.0008888888888888887
+bm,swe-lancer / qwen3-max,0.0008888888888888887
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / claude-fable-5,0.0010256410256410254
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / claude-opus-5,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / claude-sonnet-5,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / deepseek-v4-pro,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / glm-5.2,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / gpt-5.6-luna,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / gpt-5.6-sol,0.0010256410256410254
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / grok-4.5,0.0010256410256410254
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / mimo-v2.5-pro,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / minimax-m3,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / qwen3.5-35b-a3b,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / qwen3.6-27b,0.0010256410256410252
+bm,swe-rebench-2026-07::swe-rebench-2026-07 / qwen3.6-35b-a3b,0.0010256410256410252
+bm,swebench-multilingual / claude-haiku-4-5,0.0010256410256410252
+bm,swebench-multilingual / claude-opus-4-6,0.0010256410256410252
+bm,swebench-multilingual / claude-sonnet-4-6,0.0010256410256410252
+bm,swebench-multilingual / deepseek-chat,0.0010256410256410256
+bm,swebench-multilingual / deepseek-reasoner,0.0010256410256410256
+bm,swebench-multilingual / gemini-3-flash-preview,0.0010256410256410252
+bm,swebench-multilingual / gemini-3.1-pro-preview,0.0010256410256410252
+bm,swebench-multilingual / glm-5,0.0010256410256410252
+bm,swebench-multilingual / gpt-5-mini,0.0010256410256410252
+bm,swebench-multilingual / gpt-5-nano,0.0010256410256410254
+bm,swebench-multilingual / gpt-5.4,0.0010256410256410252
+bm,swebench-multilingual / minimax-m2.5,0.0010256410256410252
+bm,swebench-multilingual / qwen3-max,0.0010256410256410252
+bm,swebench-verified / claude-haiku-4-5,0.0008888888888888891
+bm,swebench-verified / claude-opus-4-6,0.0008888888888888887
+bm,swebench-verified / claude-sonnet-4-6,0.0008888888888888888
+bm,swebench-verified / deepseek-chat,0.0008888888888888888
+bm,swebench-verified / deepseek-reasoner,0.0008888888888888888
+bm,swebench-verified / gemini-3-flash-preview,0.0008888888888888887
+bm,swebench-verified / gemini-3.1-pro-preview,0.0008888888888888887
+bm,swebench-verified / glm-5,0.0008888888888888887
+bm,swebench-verified / gpt-5-mini,0.0008888888888888888
+bm,swebench-verified / gpt-5-nano,0.0008888888888888887
+bm,swebench-verified / gpt-5.4,0.0008888888888888887
+bm,swebench-verified / kimi-k2.5,0.0008888888888888887
+bm,swebench-verified / mimo-v2-pro,0.0008888888888888887
+bm,swebench-verified / minimax-m2.5,0.0008888888888888887
+bm,swebench-verified / qwen3-max,0.0008888888888888887
+bm,swebenchpro / claude-haiku-4-5,0.0008888888888888887
+bm,swebenchpro / claude-opus-4-6,0.0008888888888888887
+bm,swebenchpro / claude-sonnet-4-6,0.0008888888888888887
+bm,swebenchpro / deepseek-chat,0.0008888888888888888
+bm,swebenchpro / deepseek-reasoner,0.0008888888888888888
+bm,swebenchpro / gemini-3-flash-preview,0.0008888888888888888
+bm,swebenchpro / gemini-3.1-pro-preview,0.0008888888888888887
+bm,swebenchpro / glm-5,0.0008888888888888886
+bm,swebenchpro / gpt-5-mini,0.0008888888888888887
+bm,swebenchpro / gpt-5-nano,0.0008888888888888888
+bm,swebenchpro / gpt-5.4,0.0008888888888888887
+bm,swebenchpro / kimi-k2.5,0.0008888888888888889
+bm,swebenchpro / mimo-v2-pro,0.000888888888888889
+bm,swebenchpro / minimax-m2.5,0.0008888888888888887
+bm,swebenchpro / qwen3-max,0.0008888888888888887
+bm,swesmith / claude-haiku-4-5,0.0008888888888888888
+bm,swesmith / claude-opus-4-6,0.0008888888888888888
+bm,swesmith / claude-sonnet-4-6,0.0008888888888888888
+bm,swesmith / deepseek-chat,0.0008888888888888888
+bm,swesmith / deepseek-reasoner,0.0008888888888888888
+bm,swesmith / gemini-3-flash-preview,0.0008888888888888888
+bm,swesmith / gemini-3.1-pro-preview,0.0008888888888888888
+bm,swesmith / glm-5,0.0008888888888888887
+bm,swesmith / gpt-5-mini,0.0008888888888888888
+bm,swesmith / gpt-5-nano,0.0008888888888888888
+bm,swesmith / gpt-5.4,0.0008888888888888888
+bm,swesmith / kimi-k2.5,0.0008888888888888887
+bm,swesmith / mimo-v2-pro,0.0008888888888888888
+bm,swesmith / minimax-m2.5,0.0008888888888888888
+bm,swesmith / qwen3-max,0.0008888888888888888
+bm,swtbench / claude-haiku-4-5,0.0008888888888888888
+bm,swtbench / claude-opus-4-6,0.0008888888888888888
+bm,swtbench / claude-sonnet-4-6,0.0008888888888888888
+bm,swtbench / deepseek-chat,0.0008888888888888888
+bm,swtbench / deepseek-reasoner,0.0008888888888888888
+bm,swtbench / gemini-3-flash-preview,0.0008888888888888888
+bm,swtbench / gemini-3.1-pro-preview,0.0008888888888888888
+bm,swtbench / glm-5,0.0008888888888888888
+bm,swtbench / gpt-5-mini,0.0008888888888888888
+bm,swtbench / gpt-5-nano,0.0008888888888888888
+bm,swtbench / gpt-5.4,0.0008888888888888888
+bm,swtbench / kimi-k2.5,0.0008888888888888888
+bm,swtbench / mimo-v2-pro,0.0008888888888888889
+bm,swtbench / minimax-m2.5,0.0008888888888888888
+bm,swtbench / qwen3-max,0.0008888888888888889
+bm,terminal-bench-2.0 / claude-haiku-4-5,0.00032520325203252027
+bm,terminal-bench-2.0 / claude-opus-4-1,0.0003252032520325203
+bm,terminal-bench-2.0 / claude-opus-4-5,0.0003252032520325203
+bm,terminal-bench-2.0 / claude-opus-4-6,0.0003252032520325203
+bm,terminal-bench-2.0 / claude-sonnet-4-5,0.0003252032520325203
+bm,terminal-bench-2.0 / claude-sonnet-4-6,0.00032520325203252027
+bm,terminal-bench-2.0 / deepseek-chat,0.00032520325203252016
+bm,terminal-bench-2.0 / deepseek-reasoner,0.0003252032520325203
+bm,terminal-bench-2.0 / deepseek-v3.2,0.0003252032520325203
+bm,terminal-bench-2.0 / gemini-2.5-flash,0.0003252032520325203
+bm,terminal-bench-2.0 / gemini-2.5-pro,0.0003252032520325203
+bm,terminal-bench-2.0 / gemini-3-flash-preview,0.0003252032520325202
+bm,terminal-bench-2.0 / gemini-3-pro-preview,0.0003252032520325203
+bm,terminal-bench-2.0 / gemini-3.1-pro-preview,0.0003252032520325203
+bm,terminal-bench-2.0 / glm-4.6,0.0003252032520325203
+bm,terminal-bench-2.0 / glm-4.7,0.0003252032520325203
+bm,terminal-bench-2.0 / glm-5,0.00032520325203252027
+bm,terminal-bench-2.0 / gpt-5,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-5-codex,0.0003252032520325202
+bm,terminal-bench-2.0 / gpt-5-mini,0.00032520325203252027
+bm,terminal-bench-2.0 / gpt-5-nano,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-5.1,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-5.1-codex,0.0003252032520325202
+bm,terminal-bench-2.0 / gpt-5.1-codex-max,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-5.1-codex-mini,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-5.2,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-5.3-codex,0.00032520325203252027
+bm,terminal-bench-2.0 / gpt-5.4,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-oss-120b,0.0003252032520325203
+bm,terminal-bench-2.0 / gpt-oss-20b,0.0003252032520325203
+bm,terminal-bench-2.0 / grok-4-0709,0.0003252032520325202
+bm,terminal-bench-2.0 / grok-code-fast-1,0.0003252032520325203
+bm,terminal-bench-2.0 / kimi-k2-instruct-0905,0.0003252032520325203
+bm,terminal-bench-2.0 / kimi-k2-thinking,0.0003252032520325203
+bm,terminal-bench-2.0 / kimi-k2.5,0.0003252032520325203
+bm,terminal-bench-2.0 / mimo-v2-pro,0.0003252032520325203
+bm,terminal-bench-2.0 / minimax-m2,0.0003252032520325203
+bm,terminal-bench-2.0 / minimax-m2.1,0.0003252032520325203
+bm,terminal-bench-2.0 / minimax-m2.5,0.0003252032520325203
+bm,terminal-bench-2.0 / qwen3-coder-480b-a35b-instruct-fp8,0.0003252032520325202
+bm,terminal-bench-2.0 / qwen3-max,0.0003252032520325204
+bm,usaco / claude-haiku-4-5,0.0008888888888888887
+bm,usaco / claude-opus-4-6,0.0008888888888888889
+bm,usaco / claude-sonnet-4-6,0.0008888888888888889
+bm,usaco / deepseek-chat,0.0008888888888888887
+bm,usaco / deepseek-reasoner,0.000888888888888889
+bm,usaco / gemini-3-flash-preview,0.0008888888888888887
+bm,usaco / gemini-3.1-pro-preview,0.0008888888888888888
+bm,usaco / glm-5,0.0008888888888888887
+bm,usaco / gpt-5-mini,0.0008888888888888887
+bm,usaco / gpt-5-nano,0.0008888888888888888
+bm,usaco / gpt-5.4,0.0008888888888888887
+bm,usaco / kimi-k2.5,0.0008888888888888889
+bm,usaco / mimo-v2-pro,0.0008888888888888889
+bm,usaco / minimax-m2.5,0.0008888888888888889
+bm,usaco / qwen3-max,0.0008888888888888885
+bm,widesearch / claude-haiku-4-5,0.0011111111111111111
+bm,widesearch / claude-opus-4-6,0.001111111111111111
+bm,widesearch / claude-sonnet-4-6,0.0011111111111111111
+bm,widesearch / deepseek-chat,0.001111111111111111
+bm,widesearch / deepseek-reasoner,0.0011111111111111113
+bm,widesearch / gemini-3-flash-preview,0.001111111111111111
+bm,widesearch / gemini-3.1-pro-preview,0.0011111111111111111
+bm,widesearch / gpt-5-mini,0.001111111111111111
+bm,widesearch / gpt-5-nano,0.0011111111111111111
+bm,widesearch / gpt-5.4,0.001111111111111111
+bm,widesearch / minimax-m2.5,0.0011111111111111113
+bm,widesearch / qwen3-max,0.001111111111111111
+bh,aa-lcr / claude-code,0.004012345679012345
+bh,aa-lcr / codex,0.0016666666666666666
+bh,aa-lcr / gemini-cli,0.0011111111111111113
+bh,aa-lcr / qwen-coder,0.0005555555555555557
+bh,aa-lcr / terminus-2,0.005987654320987653
+bh,aider-polyglot / claude-code,0.0037703887065476402
+bh,aider-polyglot / codex,0.0013406688691821713
+bh,aider-polyglot / gemini-cli,0.0008968983595467616
+bh,aider-polyglot / qwen-coder,0.00043406022845275183
+bh,aider-polyglot / terminus-2,0.006891317169604009
+bh,aime / claude-code,0.003992592592592593
+bh,aime / codex,0.001333333333333333
+bh,aime / gemini-cli,0.0008888888888888887
+bh,aime / qwen-coder,0.0004444444444444445
+bh,aime / terminus-2,0.006674074074074072
+bh,arc-agi-2 / claude-code,0.0038809408468649022
+bh,arc-agi-2 / codex,0.0013155555555555555
+bh,arc-agi-2 / gemini-cli,0.0009644444444444444
+bh,arc-agi-2 / qwen-coder,0.00040888888888888887
+bh,arc-agi-2 / terminus-2,0.00676350359757954
+bh,bfcl / claude-code,0.004003613369467028
+bh,bfcl / codex,0.0013947606142728094
+bh,bfcl / gemini-cli,0.0008816621499548327
+bh,bfcl / qwen-coder,0.00043721770551038844
+bh,bfcl / terminus-2,0.006616079494128275
+bh,bigcodebench / claude-code,0.004396275010642828
+bh,bigcodebench / codex,0.0013486590038314181
+bh,bigcodebench / gemini-cli,0.0008950617283950618
+bh,bigcodebench / qwen-coder,0.0004475095785440614
+bh,bigcodebench / terminus-2,0.006245828011919968
+bh,bixbench / claude-code,0.00399111111111111
+bh,bixbench / codex,0.0012799999999999999
+bh,bixbench / gemini-cli,0.0008888888888888888
+bh,bixbench / qwen-coder,0.0004533333333333333
+bh,bixbench / terminus-2,0.006719999999999999
+bh,codepde / claude-code,0.004088888888888889
+bh,codepde / codex,0.0010666666666666667
+bh,codepde / gemini-cli,0.0007777777777777777
+bh,codepde / qwen-coder,0.00044444444444444447
+bh,codepde / terminus-2,0.006955555555555556
+bh,compilebench / claude-code,0.003999999999999999
+bh,compilebench / codex,0.0013925925925925926
+bh,compilebench / gemini-cli,0.0008888888888888891
+bh,compilebench / qwen-coder,0.00044444444444444436
+bh,compilebench / terminus-2,0.006607407407407407
+bh,crmarena / claude-code,0.00355
+bh,crmarena / codex,0.001666666666666667
+bh,crmarena / gemini-cli,0.0011111111111111111
+bh,crmarena / qwen-coder,0.0005555555555555554
+bh,crmarena / terminus-2,0.006449999999999998
+bh,crustbench / claude-code,0.0037355339082765747
+bh,crustbench / codex,0.0015429405162738492
+bh,crustbench / gemini-cli,0.0008844444444444444
+bh,crustbench / qwen-coder,0.0007913279132791326
+bh,crustbench / terminus-2,0.006379086551059331
+bh,cybergym / claude-code,0.002583333333333333
+bh,cybergym / codex,0.0034166666666666655
+bh,cybergym / gemini-cli,0.001583333333333333
+bh,cybergym / terminus-2,0.00575
+bh,dacode / claude-code,0.004468148148148148
+bh,dacode / codex,0.0013355555555555555
+bh,dacode / gemini-cli,0.0008866666666666667
+bh,dacode / qwen-coder,0.00044444444444444436
+bh,dacode / terminus-2,0.006198518518518518
+bh,deepsynth / claude-code,0.004068433048433049
+bh,deepsynth / codex,0.0014333333333333331
+bh,deepsynth / gemini-cli,0.0008555555555555558
+bh,deepsynth / qwen-coder,0.0004555555555555556
+bh,deepsynth / terminus-2,0.00652045584045584
+bh,devopsgym / claude-code,0.0020922756882274527
+bh,devopsgym / codex,0.0011559237761928957
+bh,devopsgym / gemini-cli,0.0008132099601293915
+bh,devopsgym / openhands,1.0636277302943968e-05
+bh,devopsgym / qwen-coder,0.00011623931623931622
+bh,devopsgym / terminus-2,0.009145048315241334
+bh,ds-1000 / claude-code,0.006666666666666666
+bh,ds-1000 / terminus-2,0.006666666666666666
+bh,featbench / claude-code,0.003931082981715893
+bh,featbench / codex,0.0017267267267267266
+bh,featbench / gemini-cli,0.0011884669479606186
+bh,featbench / terminus-2,0.006487056676930094
+bh,featurebench-modal / claude-code,0.003726592823938269
+bh,featurebench-modal / codex,0.0014198198198198202
+bh,featurebench-modal / gemini-cli,0.0008912912912912915
+bh,featurebench-modal / qwen-coder,0.0004420420420420422
+bh,featurebench-modal / terminus-2,0.006853587356241912
+bh,financeagent_terminal / claude-code,0.003333333333333333
+bh,financeagent_terminal / codex,0.0019222222222222223
+bh,financeagent_terminal / gemini-cli,0.001111111111111111
+bh,financeagent_terminal / qwen-coder,0.0005555555555555557
+bh,financeagent_terminal / terminus-2,0.0064111111111111105
+bh,finding-right-fit-2610.00917::ALE-CLI / claude-code,0.0005333333333333335
+bh,finding-right-fit-2610.00917::ALE-CLI / codex,0.0005333333333333335
+bh,finding-right-fit-2610.00917::ALE-CLI / deepseek-harness,0.0030666666666666676
+bh,finding-right-fit-2610.00917::ALE-CLI / openhands,0.0030666666666666676
+bh,finding-right-fit-2610.00917::ALE-CLI / openjiuwen,0.0030666666666666676
+bh,finding-right-fit-2610.00917::ALE-CLI / pi,0.0030666666666666676
+bh,finding-right-fit-2610.00917::TUA-Bench / claude-code,0.0005333333333333334
+bh,finding-right-fit-2610.00917::TUA-Bench / codex,0.0005333333333333334
+bh,finding-right-fit-2610.00917::TUA-Bench / deepseek-harness,0.0030666666666666663
+bh,finding-right-fit-2610.00917::TUA-Bench / openhands,0.0030666666666666663
+bh,finding-right-fit-2610.00917::TUA-Bench / openjiuwen,0.0030666666666666663
+bh,finding-right-fit-2610.00917::TUA-Bench / pi,0.0030666666666666663
+bh,finding-right-fit-2610.00917::Terminal-Bench 4 / claude-code,0.0005333333333333333
+bh,finding-right-fit-2610.00917::Terminal-Bench 4 / codex,0.0005333333333333333
+bh,finding-right-fit-2610.00917::Terminal-Bench 4 / deepseek-harness,0.003066666666666667
+bh,finding-right-fit-2610.00917::Terminal-Bench 4 / openhands,0.003066666666666667
+bh,finding-right-fit-2610.00917::Terminal-Bench 4 / openjiuwen,0.003066666666666667
+bh,finding-right-fit-2610.00917::Terminal-Bench 4 / pi,0.003066666666666667
+bh,frontier-harness-eval-v1.1::tb21 / alma,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / antigravity-cli,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / claude-code,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / cline-cli,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / codex,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / copilot-cli,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / deepseek-harness:code,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / deepseek-harness:creator,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / deepseek-harness:minimal,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / deepseek-harness:standard,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / exo,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / grok-build,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / hermes,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / kimi-code,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / maka,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / mini-swe-agent,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / minimax-code,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / oh-my-pi,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / opencode,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / opencode-2,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / pi,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb21 / zcode,0.0006060606060606062
+bh,frontier-harness-eval-v1.1::tb4 / alma,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / antigravity-cli,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / claude-code,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / cline-cli,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / codex,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / copilot-cli,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / deepseek-harness:code,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / deepseek-harness:creator,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / deepseek-harness:minimal,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / deepseek-harness:standard,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / exo,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / grok-build,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / hermes,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / kimi-code,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / maka,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / mini-swe-agent,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / minimax-code,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / oh-my-pi,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / opencode,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / opencode-2,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / pi,0.0006060606060606063
+bh,frontier-harness-eval-v1.1::tb4 / zcode,0.0006060606060606063
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / claude-code,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / codex,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / deepseek-harness:creator,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / deepseek-harness:minimal,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / deepseek-harness:ptc,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / deepseek-harness:standard,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / exo,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / hermes,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / kimi-code,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / oh-my-pi,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / opencode,0.0011111111111111111
+bh,frontier-harness-eval-v1::DeepSWE-v1.1 / pi-responses,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / claude-code,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / codex,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / deepseek-harness:creator,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / deepseek-harness:minimal,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / deepseek-harness:ptc,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / deepseek-harness:standard,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / exo,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / hermes,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / kimi-code,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / oh-my-pi,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / opencode,0.0011111111111111111
+bh,frontier-harness-eval-v1::TerminalBench2.1 / pi-responses,0.0011111111111111111
+bh,gaia / claude-code,0.004239493482898088
+bh,gaia / codex,0.0013872053872053874
+bh,gaia / gemini-cli,0.0007998114763756333
+bh,gaia / qwen-coder,0.0005217391304347827
+bh,gaia / terminus-2,0.006385083856419443
+bh,gaia2 / claude-code,0.0038282051282051283
+bh,gaia2 / codex,0.0024871794871794872
+bh,gaia2 / gemini-cli,0.0010256410256410256
+bh,gaia2 / qwen-coder,0.0005128205128205126
+bh,gaia2 / terminus-2,0.00547948717948718
+bh,garrytan-coding-2026-11::terminal-bench-2.1 / claude-code,0.0016773504273504274
+bh,garrytan-coding-2026-11::terminal-bench-2.1 / codex,0.0016773504273504274
+bh,garrytan-coding-2026-11::terminal-bench-2.1 / hermes,0.003354700854700854
+bh,garrytan-coding-2026-11::terminal-bench-2.1 / openclaw,0.003354700854700854
+bh,garrytan-coding-2026-11::terminal-bench-2.1 / pi,0.003269230769230768
+bh,garrytan-multiuser-2026-11::multiuser-v0.3-dev / claude-code,0.0016666666666666663
+bh,garrytan-multiuser-2026-11::multiuser-v0.3-dev / codex,0.002277777777777778
+bh,garrytan-multiuser-2026-11::multiuser-v0.3-dev / hermes,0.003944444444444445
+bh,garrytan-multiuser-2026-11::multiuser-v0.3-dev / openclaw,0.0037777777777777783
+bh,garrytan-multiuser-2026-11::multiuser-v0.3-dev / qm-pi,0.0016666666666666663
+bh,gpqa-diamond / claude-code,0.004022446689113355
+bh,gpqa-diamond / codex,0.001333333333333333
+bh,gpqa-diamond / gemini-cli,0.0008888888888888885
+bh,gpqa-diamond / qwen-coder,0.00044444444444444425
+bh,gpqa-diamond / terminus-2,0.006644219977553309
+bh,gso / claude-code,0.00396078431372549
+bh,gso / codex,0.0013333333333333335
+bh,gso / gemini-cli,0.000888888888888889
+bh,gso / qwen-coder,0.00044008714596949894
+bh,gso / terminus-2,0.006710239651416124
+bh,harnessbench2026_v2::harness-bench-general / claude-code,0.0018986212489862128
+bh,harnessbench2026_v2::harness-bench-general / codex,0.0019059205190592055
+bh,harnessbench2026_v2::harness-bench-general / goose,0.0019059205190592055
+bh,harnessbench2026_v2::harness-bench-general / hermes,0.0019059205190592055
+bh,harnessbench2026_v2::harness-bench-general / nanobot,0.001905109489051095
+bh,harnessbench2026_v2::harness-bench-general / openclaw,0.0019059205190592055
+bh,harnessbench2026_v2::harness-bench-general / opencode,0.0019059205190592055
+bh,harnessbench2026_v2::harness-bench-multimodal / claude-code,0.0019047619047619052
+bh,harnessbench2026_v2::harness-bench-multimodal / codex,0.0019047619047619052
+bh,harnessbench2026_v2::harness-bench-multimodal / goose,0.0019047619047619052
+bh,harnessbench2026_v2::harness-bench-multimodal / hermes,0.0019047619047619052
+bh,harnessbench2026_v2::harness-bench-multimodal / nanobot,0.0019047619047619052
+bh,harnessbench2026_v2::harness-bench-multimodal / openclaw,0.0019047619047619052
+bh,harnessbench2026_v2::harness-bench-multimodal / opencode,0.0019047619047619052
+bh,hf-harness-leaderboard-2026-default::deep-swe / claude-code,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / codex,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / deepseek-harness,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / grok-build,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / hermes,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / kimi-code,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / mini-swe-agent,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / openclaw,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / opencode-2,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / pi,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::deep-swe / qwen-coder,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / claude-code,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / codex,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / deepseek-harness,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / grok-build,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / hermes,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / kimi-code,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / mini-swe-agent,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / openclaw,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / opencode-2,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / pi,0.001212121212121212
+bh,hf-harness-leaderboard-2026-default::terminal-bench-2.1 / qwen-coder,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::deep-swe / claude-code,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / codex,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / deepseek-harness,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / grok-build,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / hermes,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / kimi-code,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / mini-swe-agent,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / openclaw,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / opencode-2,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / pi,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::deep-swe / qwen-coder,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / claude-code,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / codex,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / deepseek-harness,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / grok-build,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / hermes,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / kimi-code,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / mini-swe-agent,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / openclaw,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / opencode-2,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / pi,0.001212121212121212
+bh,hf-harness-leaderboard-2026-high::terminal-bench-2.1 / qwen-coder,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::deep-swe / claude-code,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / codex,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / deepseek-harness,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / grok-build,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / hermes,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / kimi-code,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / mini-swe-agent,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / openclaw,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / opencode-2,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / pi,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::deep-swe / qwen-coder,0.0012121212121212123
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / claude-code,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / codex,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / deepseek-harness,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / grok-build,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / hermes,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / kimi-code,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / mini-swe-agent,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / openclaw,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / opencode-2,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / pi,0.001212121212121212
+bh,hf-harness-leaderboard-2026-low::terminal-bench-2.1 / qwen-coder,0.001212121212121212
+bh,hle / claude-code,0.0038155493747354277
+bh,hle / codex,0.0013422579205711735
+bh,hle / gemini-cli,0.0008710686199589179
+bh,hle / qwen-coder,0.00044444444444444447
+bh,hle / terminus-2,0.00686001297362337
+bh,humanevalfix / claude-code,0.004
+bh,humanevalfix / codex,0.0013360433604336038
+bh,humanevalfix / gemini-cli,0.0008888888888888887
+bh,humanevalfix / qwen-coder,0.00044444444444444436
+bh,humanevalfix / terminus-2,0.006663956639566395
+bh,ineqmath / claude-code,0.003928649940262843
+bh,ineqmath / codex,0.0013333333333333333
+bh,ineqmath / gemini-cli,0.0008888888888888887
+bh,ineqmath / qwen-coder,0.0004444444444444444
+bh,ineqmath / terminus-2,0.006738016726403822
+bh,kumo / claude-code,0.004007347904601782
+bh,kumo / codex,0.0013354297693920335
+bh,kumo / gemini-cli,0.0008888888888888891
+bh,kumo / qwen-coder,0.0004444444444444445
+bh,kumo / terminus-2,0.006657222326006186
+bh,labbench / claude-code,0.006137507673419276
+bh,labbench / codex,0.0013406998158379372
+bh,labbench / gemini-cli,0.0009895641497851442
+bh,labbench / qwen-coder,0.00044444444444444436
+bh,labbench / terminus-2,0.004421117249846531
+bh,lawbench / claude-code,0.003225564405491931
+bh,lawbench / codex,0.001333333333333333
+bh,lawbench / gemini-cli,0.0008888888888888888
+bh,lawbench / qwen-coder,0.00044689993861264573
+bh,lawbench / terminus-2,0.007438646767006534
+bh,livecodebench / claude-code,0.004089086498964679
+bh,livecodebench / codex,0.0013098966270896095
+bh,livecodebench / gemini-cli,0.0009156004489337821
+bh,livecodebench / qwen-coder,0.0004444444444444445
+bh,livecodebench / terminus-2,0.006574305313900817
+bh,medagentbench / claude-code,0.004
+bh,medagentbench / codex,0.0013644444444444444
+bh,medagentbench / gemini-cli,0.0008666666666666666
+bh,medagentbench / qwen-coder,0.0004444444444444444
+bh,medagentbench / terminus-2,0.006657777777777778
+bh,mmau / claude-code,0.003973333333333332
+bh,mmau / codex,0.0013333333333333333
+bh,mmau / gemini-cli,0.0008622222222222221
+bh,mmau / qwen-coder,0.0004444444444444444
+bh,mmau / terminus-2,0.006719999999999999
+bh,mmmlu / claude-code,0.004020243460243461
+bh,mmmlu / codex,0.001333333333333333
+bh,mmmlu / gemini-cli,0.0008651851851851852
+bh,mmmlu / qwen-coder,0.00044444444444444447
+bh,mmmlu / terminus-2,0.006670126910126908
+bh,multi-swe-bench / claude-code,0.0066122448979591825
+bh,multi-swe-bench / codex,0.0015339506172839506
+bh,multi-swe-bench / gemini-cli,0.0011297208538587852
+bh,multi-swe-bench / terminus-2,0.004057416964231415
+bh,omnimath / claude-code,0.004151893882717769
+bh,omnimath / codex,0.0013266666666666665
+bh,omnimath / gemini-cli,0.0008933333333333332
+bh,omnimath / qwen-coder,0.0004846454494695701
+bh,omnimath / terminus-2,0.006476794001145992
+bh,pixiu / claude-code,0.0032480471282750993
+bh,pixiu / codex,0.0018217821782178217
+bh,pixiu / gemini-cli,0.0010825082508250823
+bh,pixiu / qwen-coder,0.00041481481481481474
+bh,pixiu / terminus-2,0.006766180961200515
+bh,qcircuitbench / claude-code,0.003965857188079411
+bh,qcircuitbench / codex,0.0013650793650793647
+bh,qcircuitbench / gemini-cli,0.0009206349206349207
+bh,qcircuitbench / qwen-coder,0.0004285714285714285
+bh,qcircuitbench / terminus-2,0.006653190430968209
+bh,quixbugs / claude-code,0.0016666666666666666
+bh,quixbugs / codex,0.0016666666666666666
+bh,quixbugs / gemini-cli,0.0011111111111111111
+bh,quixbugs / qwen-coder,0.000632716049382716
+bh,quixbugs / terminus-2,0.008256172839506174
+bh,reasoning-gym / claude-code,0.004278145816511078
+bh,reasoning-gym / codex,0.0012969467067416455
+bh,reasoning-gym / gemini-cli,0.0008880994671403197
+bh,reasoning-gym / qwen-coder,0.0004948948948948948
+bh,reasoning-gym / terminus-2,0.006375246448045394
+bh,replicationbench / claude-code,0.003919183935417406
+bh,replicationbench / codex,0.0013432098765432101
+bh,replicationbench / gemini-cli,0.0008740740740740742
+bh,replicationbench / qwen-coder,0.0004444444444444445
+bh,replicationbench / terminus-2,0.0067524210028542
+bh,research-code-bench / claude-code,0.0044046121593291415
+bh,research-code-bench / codex,0.0013333333333333335
+bh,research-code-bench / gemini-cli,0.0008888888888888891
+bh,research-code-bench / qwen-coder,0.0004444444444444445
+bh,research-code-bench / terminus-2,0.0062620545073375266
+bh,scicode / claude-code,0.0035633597172058705
+bh,scicode / codex,0.0015769230769230765
+bh,scicode / gemini-cli,0.001032051282051282
+bh,scicode / qwen-coder,0.0007400194741966895
+bh,scicode / terminus-2,0.0064209797829564135
+bh,seal0 / claude-code,0.003931931931931931
+bh,seal0 / codex,0.001333333333333333
+bh,seal0 / gemini-cli,0.0008728728728728725
+bh,seal0 / qwen-coder,0.00044444444444444425
+bh,seal0 / terminus-2,0.006750750750750749
+bh,simpleqa / claude-code,0.004
+bh,simpleqa / codex,0.00134
+bh,simpleqa / gemini-cli,0.0008888888888888887
+bh,simpleqa / qwen-coder,0.00044444444444444436
+bh,simpleqa / terminus-2,0.006659999999999999
+bh,skillsbench / claude-code,0.004239522721043271
+bh,skillsbench / codex,0.0014025974025974018
+bh,skillsbench / gemini-cli,0.0008424850003797373
+bh,skillsbench / qwen-coder,0.00043290043290043285
+bh,skillsbench / terminus-2,0.006415827776412487
+bh,spider2 / claude-code,0.003203042328042328
+bh,spider2 / codex,0.0015069444444444444
+bh,spider2 / gemini-cli,0.0008888888888888888
+bh,spider2 / qwen-coder,0.0005347222222222222
+bh,spider2 / terminus-2,0.007199735449735449
+bh,spreadsheetbench / claude-code,0.004037777777777777
+bh,spreadsheetbench / codex,0.0013355555555555555
+bh,spreadsheetbench / gemini-cli,0.0008888888888888887
+bh,spreadsheetbench / qwen-coder,0.0006955555555555556
+bh,spreadsheetbench / terminus-2,0.006375555555555555
+bh,strongreject / claude-code,0.0042000510855683265
+bh,strongreject / codex,0.001333333333333333
+bh,strongreject / gemini-cli,0.0008888888888888889
+bh,strongreject / qwen-coder,0.00044444444444444447
+bh,strongreject / terminus-2,0.006466615581098338
+bh,swe-lancer / claude-code,0.004084444444444444
+bh,swe-lancer / codex,0.0013333333333333333
+bh,swe-lancer / gemini-cli,0.0008888888888888887
+bh,swe-lancer / qwen-coder,0.0004444444444444444
+bh,swe-lancer / terminus-2,0.006582222222222222
+bh,swe-rebench-2026-07::swe-rebench-2026-07 / claude-code,0.0005128205128205126
+bh,swe-rebench-2026-07::swe-rebench-2026-07 / codex,0.0005128205128205126
+bh,swe-rebench-2026-07::swe-rebench-2026-07 / junie,0.0005128205128205126
+bh,swe-rebench-2026-07::swe-rebench-2026-07 / swelike,0.011794871794871797
+bh,swebench-multilingual / claude-code,0.0035897435897435893
+bh,swebench-multilingual / codex,0.0016307692307692308
+bh,swebench-multilingual / gemini-cli,0.0010256410256410252
+bh,swebench-multilingual / qwen-coder,0.0005128205128205128
+bh,swebench-multilingual / terminus-2,0.006574358974358974
+bh,swebench-verified / claude-code,0.003995555555555555
+bh,swebench-verified / codex,0.0013555555555555556
+bh,swebench-verified / gemini-cli,0.0008888888888888887
+bh,swebench-verified / qwen-coder,0.0004444444444444444
+bh,swebench-verified / terminus-2,0.006648888888888888
+bh,swebenchpro / claude-code,0.0035828848791811755
+bh,swebenchpro / codex,0.0014133333333333333
+bh,swebenchpro / gemini-cli,0.0008844444444444444
+bh,swebenchpro / qwen-coder,0.00040888888888888887
+bh,swebenchpro / terminus-2,0.007043781787485491
+bh,swesmith / claude-code,0.004
+bh,swesmith / codex,0.001333333333333333
+bh,swesmith / gemini-cli,0.0008888888888888888
+bh,swesmith / qwen-coder,0.0004444444444444444
+bh,swesmith / terminus-2,0.006666666666666666
+bh,swtbench / claude-code,0.004417777777777777
+bh,swtbench / codex,0.0013155555555555555
+bh,swtbench / gemini-cli,0.0008888888888888888
+bh,swtbench / qwen-coder,0.0004977777777777778
+bh,swtbench / terminus-2,0.006213333333333333
+bh,terminal-bench-2.0 / ante,4.6457607433217196e-05
+bh,terminal-bench-2.0 / aone-agent,0.00010840108401084008
+bh,terminal-bench-2.0 / claude-code,0.0016441495250361848
+bh,terminal-bench-2.0 / claude-code-enhanced,4.6457607433217196e-05
+bh,terminal-bench-2.0 / codex,0.0013461443705346146
+bh,terminal-bench-2.0 / factory-droid,0.0002799070847851336
+bh,terminal-bench-2.0 / final,4.6457607433217196e-05
+bh,terminal-bench-2.0 / forge,8.465028470509423e-05
+bh,terminal-bench-2.0 / gemini-cli,0.00034956304619225965
+bh,terminal-bench-2.0 / goose,0.00015214866434378632
+bh,terminal-bench-2.0 / ii-agent-simple,4.6457607433217196e-05
+bh,terminal-bench-2.0 / judy,4.6457607433217196e-05
+bh,terminal-bench-2.0 / junie,0.00010840108401084008
+bh,terminal-bench-2.0 / letta-code,0.00019550909794812234
+bh,terminal-bench-2.0 / mini-swe-agent,0.0012876500193573363
+bh,terminal-bench-2.0 / mux,0.0002334494773519164
+bh,terminal-bench-2.0 / opencode,4.065040650406504e-05
+bh,terminal-bench-2.0 / openhands,0.001003097173828881
+bh,terminal-bench-2.0 / qwen-coder,0.00020185029436501264
+bh,terminal-bench-2.0 / ruley,0.00011149825783972126
+bh,terminal-bench-2.0 / sage,4.6457607433217196e-05
+bh,terminal-bench-2.0 / simple-codex,6.504065040650406e-05
+bh,terminal-bench-2.0 / spoox-m,6.504065040650406e-05
+bh,terminal-bench-2.0 / terminal-bench-agent,4.6457607433217196e-05
+bh,terminal-bench-2.0 / terminus-2,0.005599871017535686
+bh,terminal-bench-2.0 / terminus-3-3,0.00013110789213831146
+bh,usaco / claude-code,0.004068167095587586
+bh,usaco / codex,0.0013466666666666666
+bh,usaco / gemini-cli,0.0008933333333333332
+bh,usaco / qwen-coder,0.0004489337822671154
+bh,usaco / terminus-2,0.006576232455478631
+bh,widesearch / claude-code,0.0033390011223344554
+bh,widesearch / codex,0.0017722222222222223
+bh,widesearch / gemini-cli,0.0011055555555555554
+bh,widesearch / qwen-coder,0.0005666666666666665
+bh,widesearch / terminus-2,0.0065498877665544335
+mh,claude-fable-5 / claude-code,0.0005128205128205126
+mh,claude-fable-5 / swelike,0.0005128205128205126
+mh,claude-haiku-4-5 / claude-code,0.033462779444309386
+mh,claude-haiku-4-5 / goose,6.504065040650406e-05
+mh,claude-haiku-4-5 / mini-swe-agent,6.504065040650406e-05
+mh,claude-haiku-4-5 / openhands,6.504065040650406e-05
+mh,claude-haiku-4-5 / terminus-2,0.02518866937787114
+mh,claude-opus-4-1 / claude-code,8.130081300813008e-05
+mh,claude-opus-4-1 / mini-swe-agent,8.130081300813008e-05
+mh,claude-opus-4-1 / openhands,8.130081300813008e-05
+mh,claude-opus-4-1 / terminus-2,8.130081300813008e-05
+mh,claude-opus-4-5 / claude-code,4.065040650406504e-05
+mh,claude-opus-4-5 / factory-droid,4.065040650406504e-05
+mh,claude-opus-4-5 / goose,4.065040650406504e-05
+mh,claude-opus-4-5 / letta-code,4.065040650406504e-05
+mh,claude-opus-4-5 / mux,4.065040650406504e-05
+mh,claude-opus-4-5 / opencode,4.065040650406504e-05
+mh,claude-opus-4-5 / openhands,4.065040650406504e-05
+mh,claude-opus-4-5 / terminus-2,4.065040650406504e-05
+mh,claude-opus-4-6 / claude-code,0.02705265279215883
+mh,claude-opus-4-6 / claude-code-enhanced,4.6457607433217196e-05
+mh,claude-opus-4-6 / factory-droid,4.6457607433217196e-05
+mh,claude-opus-4-6 / judy,4.6457607433217196e-05
+mh,claude-opus-4-6 / mux,4.6457607433217196e-05
+mh,claude-opus-4-6 / terminus-2,0.024894963277408456
+mh,claude-opus-4-6 / terminus-3-3,4.6457607433217196e-05
+mh,claude-opus-5 / claude-code,0.0015999999999999999
+mh,claude-opus-5 / deepseek-harness,0.0015999999999999999
+mh,claude-opus-5 / openhands,0.0015999999999999999
+mh,claude-opus-5 / openjiuwen,0.0015999999999999999
+mh,claude-opus-5 / pi,0.0015999999999999999
+mh,claude-opus-5 / swelike,0.0010256410256410252
+mh,claude-opus-5.5 / claude-code,0.003344017094017094
+mh,claude-opus-5.5 / hermes,0.003344017094017094
+mh,claude-opus-5.5 / openclaw,0.003344017094017094
+mh,claude-opus-5.5 / pi,0.0016346153846153845
+mh,claude-opus-5.5 / qm-pi,0.0016666666666666663
+mh,claude-sonnet-4-5 / claude-code,4.6457607433217196e-05
+mh,claude-sonnet-4-5 / final,4.6457607433217196e-05
+mh,claude-sonnet-4-5 / goose,4.6457607433217196e-05
+mh,claude-sonnet-4-5 / mini-swe-agent,4.6457607433217196e-05
+mh,claude-sonnet-4-5 / openhands,4.6457607433217196e-05
+mh,claude-sonnet-4-5 / terminal-bench-agent,4.6457607433217196e-05
+mh,claude-sonnet-4-5 / terminus-2,4.6457607433217196e-05
+mh,claude-sonnet-4-6 / claude-code,0.025747576087776263
+mh,claude-sonnet-4-6 / terminus-2,0.02509899468562378
+mh,claude-sonnet-5 / swelike,0.0010256410256410252
+mh,deepseek-chat / claude-code,0.048580962307791575
+mh,deepseek-chat / terminus-2,0.0008211640211640213
+mh,deepseek-reasoner / claude-code,0.000596094276094276
+mh,deepseek-reasoner / terminus-2,0.047472698719527986
+mh,deepseek-v3.2 / terminus-2,0.0003252032520325203
+mh,deepseek-v4-flash / claude-code,0.0001904761904761905
+mh,deepseek-v4-flash / codex,0.0001904761904761905
+mh,deepseek-v4-flash / goose,0.0001904761904761905
+mh,deepseek-v4-flash / hermes,0.0001904761904761905
+mh,deepseek-v4-flash / nanobot,0.0001904761904761905
+mh,deepseek-v4-flash / openclaw,0.0001904761904761905
+mh,deepseek-v4-flash / opencode,0.0001904761904761905
+mh,deepseek-v4-pro / claude-code,0.0001904761904761905
+mh,deepseek-v4-pro / codex,0.0001904761904761905
+mh,deepseek-v4-pro / goose,0.0001904761904761905
+mh,deepseek-v4-pro / hermes,0.0001904761904761905
+mh,deepseek-v4-pro / nanobot,0.0001904761904761905
+mh,deepseek-v4-pro / openclaw,0.0001904761904761905
+mh,deepseek-v4-pro / opencode,0.0001904761904761905
+mh,deepseek-v4-pro / swelike,0.0010256410256410252
+mh,deepseek-v4-pro-0813 / deepseek-harness,0.002
+mh,deepseek-v4-pro-0813 / openhands,0.002
+mh,deepseek-v4-pro-0813 / openjiuwen,0.002
+mh,deepseek-v4-pro-0813 / pi,0.002
+mh,deepseek-v4.1-flash / claude-code,0.0024242424242424242
+mh,deepseek-v4.1-flash / codex,0.0024242424242424242
+mh,deepseek-v4.1-flash / deepseek-harness,0.0024242424242424242
+mh,deepseek-v4.1-flash / grok-build,0.0024242424242424242
+mh,deepseek-v4.1-flash / hermes,0.0024242424242424242
+mh,deepseek-v4.1-flash / kimi-code,0.0024242424242424242
+mh,deepseek-v4.1-flash / mini-swe-agent,0.0024242424242424242
+mh,deepseek-v4.1-flash / openclaw,0.0024242424242424242
+mh,deepseek-v4.1-flash / opencode-2,0.0024242424242424242
+mh,deepseek-v4.1-flash / pi,0.0024242424242424242
+mh,deepseek-v4.1-flash / qwen-coder,0.0024242424242424242
+mh,deepseek-v4.1-flash-1017 / alma,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / antigravity-cli,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / claude-code,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / cline-cli,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / codex,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / copilot-cli,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / deepseek-harness:code,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / deepseek-harness:creator,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / deepseek-harness:minimal,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / deepseek-harness:standard,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / exo,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / grok-build,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / hermes,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / kimi-code,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / maka,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / mini-swe-agent,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / minimax-code,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / oh-my-pi,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / opencode,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / opencode-2,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / pi,0.00024242424242424234
+mh,deepseek-v4.1-flash-1017 / zcode,0.00024242424242424234
+mh,flint / claude-code,0.0012121212121212121
+mh,flint / codex,0.0012121212121212121
+mh,flint / deepseek-harness,0.0012121212121212121
+mh,flint / grok-build,0.0012121212121212121
+mh,flint / hermes,0.0012121212121212121
+mh,flint / kimi-code,0.0012121212121212121
+mh,flint / mini-swe-agent,0.0012121212121212121
+mh,flint / openclaw,0.0012121212121212121
+mh,flint / opencode-2,0.0012121212121212121
+mh,flint / pi,0.0012121212121212121
+mh,flint / qwen-coder,0.0012121212121212121
+mh,gemini-2.5-flash / gemini-cli,8.130081300813008e-05
+mh,gemini-2.5-flash / mini-swe-agent,8.130081300813008e-05
+mh,gemini-2.5-flash / openhands,8.130081300813008e-05
+mh,gemini-2.5-flash / terminus-2,8.130081300813008e-05
+mh,gemini-2.5-pro / gemini-cli,8.130081300813008e-05
+mh,gemini-2.5-pro / mini-swe-agent,8.130081300813008e-05
+mh,gemini-2.5-pro / openhands,8.130081300813008e-05
+mh,gemini-2.5-pro / terminus-2,8.130081300813008e-05
+mh,gemini-3-flash-preview / gemini-cli,0.026352084898917938
+mh,gemini-3-flash-preview / junie,0.00010840108401084008
+mh,gemini-3-flash-preview / terminus-2,0.025719418123804596
+mh,gemini-3-pro-preview / ante,4.6457607433217196e-05
+mh,gemini-3-pro-preview / factory-droid,4.6457607433217196e-05
+mh,gemini-3-pro-preview / ii-agent-simple,4.6457607433217196e-05
+mh,gemini-3-pro-preview / letta-code,4.6457607433217196e-05
+mh,gemini-3-pro-preview / ruley,4.6457607433217196e-05
+mh,gemini-3-pro-preview / sage,4.6457607433217196e-05
+mh,gemini-3-pro-preview / terminus-2,4.6457607433217196e-05
+mh,gemini-3.1-pro-preview / forge,8.465028470509423e-05
+mh,gemini-3.1-pro-preview / gemini-cli,0.025438647834116028
+mh,gemini-3.1-pro-preview / terminus-2,0.02657195570320716
+mh,gemini-3.1-pro-preview / terminus-3-3,8.465028470509423e-05
+mh,gemma-4-31b / claude-code,0.0004611946968568449
+mh,gemma-4-31b / codex,0.00046281675687306553
+mh,gemma-4-31b / goose,0.00046281675687306553
+mh,gemma-4-31b / hermes,0.00046281675687306553
+mh,gemma-4-31b / nanobot,0.00046281675687306553
+mh,gemma-4-31b / openclaw,0.00046281675687306553
+mh,gemma-4-31b / opencode,0.00046281675687306553
+mh,glm-4.6 / terminus-2,0.0003252032520325203
+mh,glm-4.7 / claude-code,0.00016260162601626016
+mh,glm-4.7 / terminus-2,0.00016260162601626016
+mh,glm-5 / claude-code,0.020519106253108856
+mh,glm-5 / terminus-2,0.023498404691231357
+mh,glm-5.2 / swelike,0.0010256410256410252
+mh,glm-5.3 / alma,0.00024242424242424234
+mh,glm-5.3 / antigravity-cli,0.00024242424242424234
+mh,glm-5.3 / claude-code,0.00043290043290043295
+mh,glm-5.3 / cline-cli,0.00024242424242424234
+mh,glm-5.3 / codex,0.00043290043290043295
+mh,glm-5.3 / copilot-cli,0.00024242424242424234
+mh,glm-5.3 / deepseek-harness,0.002
+mh,glm-5.3 / deepseek-harness:code,0.00024242424242424234
+mh,glm-5.3 / deepseek-harness:creator,0.00024242424242424234
+mh,glm-5.3 / deepseek-harness:minimal,0.00024242424242424234
+mh,glm-5.3 / deepseek-harness:standard,0.00024242424242424234
+mh,glm-5.3 / exo,0.00024242424242424234
+mh,glm-5.3 / goose,0.0001904761904761905
+mh,glm-5.3 / grok-build,0.00024242424242424234
+mh,glm-5.3 / hermes,0.00043290043290043295
+mh,glm-5.3 / kimi-code,0.00024242424242424234
+mh,glm-5.3 / maka,0.00024242424242424234
+mh,glm-5.3 / mini-swe-agent,0.00024242424242424234
+mh,glm-5.3 / minimax-code,0.00024242424242424234
+mh,glm-5.3 / nanobot,0.0001904761904761905
+mh,glm-5.3 / oh-my-pi,0.00024242424242424234
+mh,glm-5.3 / openclaw,0.0001904761904761905
+mh,glm-5.3 / opencode,0.00043290043290043295
+mh,glm-5.3 / opencode-2,0.00024242424242424234
+mh,glm-5.3 / openhands,0.002
+mh,glm-5.3 / openjiuwen,0.002
+mh,glm-5.3 / pi,0.002242424242424243
+mh,glm-5.3 / zcode,0.00024242424242424234
+mh,glm-5.3-flash / alma,0.00024242424242424234
+mh,glm-5.3-flash / antigravity-cli,0.00024242424242424234
+mh,glm-5.3-flash / claude-code,0.0031292517006802725
+mh,glm-5.3-flash / cline-cli,0.00024242424242424234
+mh,glm-5.3-flash / codex,0.0031292517006802725
+mh,glm-5.3-flash / copilot-cli,0.00024242424242424234
+mh,glm-5.3-flash / deepseek-harness,0.0024242424242424242
+mh,glm-5.3-flash / deepseek-harness:code,0.00024242424242424234
+mh,glm-5.3-flash / deepseek-harness:creator,0.00024242424242424234
+mh,glm-5.3-flash / deepseek-harness:minimal,0.00024242424242424234
+mh,glm-5.3-flash / deepseek-harness:standard,0.00024242424242424234
+mh,glm-5.3-flash / exo,0.00024242424242424234
+mh,glm-5.3-flash / goose,0.0004625850340136054
+mh,glm-5.3-flash / grok-build,0.002666666666666667
+mh,glm-5.3-flash / hermes,0.0031292517006802725
+mh,glm-5.3-flash / kimi-code,0.002666666666666667
+mh,glm-5.3-flash / maka,0.00024242424242424234
+mh,glm-5.3-flash / mini-swe-agent,0.002666666666666667
+mh,glm-5.3-flash / minimax-code,0.00024242424242424234
+mh,glm-5.3-flash / nanobot,0.0004625850340136054
+mh,glm-5.3-flash / oh-my-pi,0.00024242424242424234
+mh,glm-5.3-flash / openclaw,0.00288682745825603
+mh,glm-5.3-flash / opencode,0.0007050092764378478
+mh,glm-5.3-flash / opencode-2,0.002666666666666667
+mh,glm-5.3-flash / pi,0.002666666666666667
+mh,glm-5.3-flash / qwen-coder,0.0024242424242424242
+mh,glm-5.3-flash / zcode,0.00024242424242424234
+mh,gpt-5 / codex,8.130081300813008e-05
+mh,gpt-5 / mini-swe-agent,8.130081300813008e-05
+mh,gpt-5 / openhands,8.130081300813008e-05
+mh,gpt-5 / terminus-2,8.130081300813008e-05
+mh,gpt-5-codex / codex,0.00010840108401084008
+mh,gpt-5-codex / mini-swe-agent,0.00010840108401084008
+mh,gpt-5-codex / terminus-2,0.00010840108401084008
+mh,gpt-5-mini / codex,0.02728123678092121
+mh,gpt-5-mini / mini-swe-agent,6.504065040650406e-05
+mh,gpt-5-mini / openhands,6.504065040650406e-05
+mh,gpt-5-mini / spoox-m,6.504065040650406e-05
+mh,gpt-5-mini / terminus-2,0.02470354537459265
+mh,gpt-5-nano / codex,0.02779087388050768
+mh,gpt-5-nano / mini-swe-agent,8.130081300813008e-05
+mh,gpt-5-nano / openhands,9.193709031107402e-05
+mh,gpt-5-nano / terminus-2,0.024215792322906493
+mh,gpt-5.1 / terminus-2,0.0003252032520325203
+mh,gpt-5.1-codex / codex,0.00010840108401084008
+mh,gpt-5.1-codex / letta-code,0.00010840108401084008
+mh,gpt-5.1-codex / terminus-2,0.00010840108401084008
+mh,gpt-5.1-codex-max / codex,0.0003252032520325203
+mh,gpt-5.1-codex-mini / codex,0.0003252032520325203
+mh,gpt-5.2 / codex,8.130081300813008e-05
+mh,gpt-5.2 / factory-droid,8.130081300813008e-05
+mh,gpt-5.2 / mux,8.130081300813008e-05
+mh,gpt-5.2 / terminus-2,8.130081300813008e-05
+mh,gpt-5.3-codex / factory-droid,6.504065040650406e-05
+mh,gpt-5.3-codex / mux,6.504065040650406e-05
+mh,gpt-5.3-codex / ruley,6.504065040650406e-05
+mh,gpt-5.3-codex / simple-codex,6.504065040650406e-05
+mh,gpt-5.3-codex / terminus-2,6.504065040650406e-05
+mh,gpt-5.4 / codex,0.025923230596204407
+mh,gpt-5.4 / terminus-2,0.026256673510528968
+mh,gpt-5.6-luna / claude-code,0.0004625850340136054
+mh,gpt-5.6-luna / codex,0.0004625850340136054
+mh,gpt-5.6-luna / goose,0.0004625850340136054
+mh,gpt-5.6-luna / hermes,0.0004625850340136054
+mh,gpt-5.6-luna / nanobot,0.0004625850340136054
+mh,gpt-5.6-luna / openclaw,0.0004625850340136054
+mh,gpt-5.6-luna / opencode,0.0004625850340136054
+mh,gpt-5.6-luna / swelike,0.0010256410256410252
+mh,gpt-5.6-sol / claude-code,0.0004625850340136054
+mh,gpt-5.6-sol / codex,0.0009754055468341183
+mh,gpt-5.6-sol / goose,0.0004625850340136054
+mh,gpt-5.6-sol / hermes,0.0004625850340136054
+mh,gpt-5.6-sol / nanobot,0.0004625850340136054
+mh,gpt-5.6-sol / openclaw,0.0004625850340136054
+mh,gpt-5.6-sol / opencode,0.0004625850340136054
+mh,gpt-5.6-sol / swelike,0.0005128205128205126
+mh,gpt-5.6-terra / claude-code,0.0004625850340136054
+mh,gpt-5.6-terra / codex,0.0004625850340136054
+mh,gpt-5.6-terra / goose,0.0004625850340136054
+mh,gpt-5.6-terra / hermes,0.0004625850340136054
+mh,gpt-5.6-terra / nanobot,0.0004625850340136054
+mh,gpt-5.6-terra / openclaw,0.0004625850340136054
+mh,gpt-5.6-terra / opencode,0.0004625850340136054
+mh,gpt-6-astra / codex,0.0015999999999999999
+mh,gpt-6-astra / deepseek-harness,0.0015999999999999999
+mh,gpt-6-astra / openhands,0.0015999999999999999
+mh,gpt-6-astra / openjiuwen,0.0015999999999999999
+mh,gpt-6-astra / pi,0.0015999999999999999
+mh,gpt-6.1-sol / codex,0.003955128205128205
+mh,gpt-6.1-sol / hermes,0.003955128205128205
+mh,gpt-6.1-sol / openclaw,0.00378846153846154
+mh,gpt-6.1-sol / pi,0.0016346153846153845
+mh,gpt-oss-120b / mini-swe-agent,0.00016260162601626016
+mh,gpt-oss-120b / terminus-2,0.00016260162601626016
+mh,gpt-oss-20b / mini-swe-agent,0.00016260162601626016
+mh,gpt-oss-20b / terminus-2,0.00016260162601626016
+mh,grok-4-0709 / mini-swe-agent,0.00010840108401084008
+mh,grok-4-0709 / openhands,0.00010840108401084008
+mh,grok-4-0709 / terminus-2,0.00010840108401084008
+mh,grok-4.5 / junie,0.0005128205128205126
+mh,grok-4.5 / swelike,0.0005128205128205126
+mh,grok-code-fast-1 / mini-swe-agent,0.00016260162601626016
+mh,grok-code-fast-1 / terminus-2,0.00016260162601626016
+mh,kimi-k2-instruct-0905 / openhands,0.00016260162601626016
+mh,kimi-k2-instruct-0905 / terminus-2,0.00016260162601626016
+mh,kimi-k2-thinking / terminus-2,0.0003252032520325203
+mh,kimi-k2.5 / claude-code,0.01994084800667661
+mh,kimi-k2.5 / terminus-2,0.01949546635646702
+mh,kimi-k3 / alma,0.00024242424242424234
+mh,kimi-k3 / antigravity-cli,0.00024242424242424234
+mh,kimi-k3 / claude-code,0.002922365318611408
+mh,kimi-k3 / cline-cli,0.00024242424242424234
+mh,kimi-k3 / codex,0.0029280425286681805
+mh,kimi-k3 / copilot-cli,0.00024242424242424234
+mh,kimi-k3 / deepseek-harness,0.002
+mh,kimi-k3 / deepseek-harness:code,0.00024242424242424234
+mh,kimi-k3 / deepseek-harness:creator,0.0024646464646464646
+mh,kimi-k3 / deepseek-harness:minimal,0.0024646464646464646
+mh,kimi-k3 / deepseek-harness:ptc,0.002222222222222222
+mh,kimi-k3 / deepseek-harness:standard,0.0024646464646464646
+mh,kimi-k3 / exo,0.0024646464646464646
+mh,kimi-k3 / goose,0.0004633960640217157
+mh,kimi-k3 / grok-build,0.00024242424242424234
+mh,kimi-k3 / hermes,0.0029280425286681805
+mh,kimi-k3 / kimi-code,0.0024646464646464646
+mh,kimi-k3 / maka,0.00024242424242424234
+mh,kimi-k3 / mini-swe-agent,0.00024242424242424234
+mh,kimi-k3 / minimax-code,0.00024242424242424234
+mh,kimi-k3 / nanobot,0.0004633960640217157
+mh,kimi-k3 / oh-my-pi,0.0024646464646464646
+mh,kimi-k3 / openclaw,0.0004633960640217157
+mh,kimi-k3 / opencode,0.0029280425286681805
+mh,kimi-k3 / opencode-2,0.00024242424242424234
+mh,kimi-k3 / openhands,0.002
+mh,kimi-k3 / openjiuwen,0.002
+mh,kimi-k3 / pi,0.002242424242424243
+mh,kimi-k3 / pi-responses,0.002222222222222222
+mh,kimi-k3 / zcode,0.00024242424242424234
+mh,mimo-v2-pro / claude-code,0.021357352874856683
+mh,mimo-v2-pro / terminus-2,0.021241354650680108
+mh,mimo-v2.5-pro / swelike,0.0010256410256410252
+mh,minimax-m2 / terminus-2,0.0003252032520325203
+mh,minimax-m2.1 / claude-code,0.00016260162601626016
+mh,minimax-m2.1 / terminus-2,0.00016260162601626016
+mh,minimax-m2.5 / claude-code,0.025932845446630458
+mh,minimax-m2.5 / terminus-2,0.031247058660102918
+mh,minimax-m3 / swelike,0.0010256410256410252
+mh,muse-spark-open / alma,0.00024242424242424234
+mh,muse-spark-open / antigravity-cli,0.00024242424242424234
+mh,muse-spark-open / claude-code,0.00024242424242424234
+mh,muse-spark-open / cline-cli,0.00024242424242424234
+mh,muse-spark-open / codex,0.00024242424242424234
+mh,muse-spark-open / copilot-cli,0.00024242424242424234
+mh,muse-spark-open / deepseek-harness:code,0.00024242424242424234
+mh,muse-spark-open / deepseek-harness:creator,0.00024242424242424234
+mh,muse-spark-open / deepseek-harness:minimal,0.00024242424242424234
+mh,muse-spark-open / deepseek-harness:standard,0.00024242424242424234
+mh,muse-spark-open / exo,0.00024242424242424234
+mh,muse-spark-open / grok-build,0.00024242424242424234
+mh,muse-spark-open / hermes,0.00024242424242424234
+mh,muse-spark-open / kimi-code,0.00024242424242424234
+mh,muse-spark-open / maka,0.00024242424242424234
+mh,muse-spark-open / mini-swe-agent,0.00024242424242424234
+mh,muse-spark-open / minimax-code,0.00024242424242424234
+mh,muse-spark-open / oh-my-pi,0.00024242424242424234
+mh,muse-spark-open / opencode,0.00024242424242424234
+mh,muse-spark-open / opencode-2,0.00024242424242424234
+mh,muse-spark-open / pi,0.00024242424242424234
+mh,muse-spark-open / zcode,0.00024242424242424234
+mh,qwen3-coder-480b-a35b-instruct-fp8 / aone-agent,0.00010840108401084008
+mh,qwen3-coder-480b-a35b-instruct-fp8 / openhands,0.00010840108401084008
+mh,qwen3-coder-480b-a35b-instruct-fp8 / terminus-2,0.00010840108401084008
+mh,qwen3-max / qwen-coder,0.02484794397892165
+mh,qwen3-max / terminus-2,0.023220849016700608
+mh,qwen3.5-35b-a3b / swelike,0.0010256410256410252
+mh,qwen3.6-27b / swelike,0.0010256410256410252
+mh,qwen3.6-35b-a3b / swelike,0.0010256410256410252
+mh,qwen3.8-27b / claude-code,0.0004627008954433355
+mh,qwen3.8-27b / codex,0.0004627008954433355
+mh,qwen3.8-27b / goose,0.0004627008954433355
+mh,qwen3.8-27b / hermes,0.0004627008954433355
+mh,qwen3.8-27b / nanobot,0.00046188986543522516
+mh,qwen3.8-27b / openclaw,0.0004627008954433355
+mh,qwen3.8-27b / opencode,0.0004627008954433355
+mh,ripple-65b-preview / claude-code,0.0012121212121212121
+mh,ripple-65b-preview / codex,0.0012121212121212121
+mh,ripple-65b-preview / deepseek-harness,0.0012121212121212121
+mh,ripple-65b-preview / grok-build,0.0012121212121212121
+mh,ripple-65b-preview / hermes,0.0012121212121212121
+mh,ripple-65b-preview / kimi-code,0.0012121212121212121
+mh,ripple-65b-preview / mini-swe-agent,0.0012121212121212121
+mh,ripple-65b-preview / openclaw,0.0012121212121212121
+mh,ripple-65b-preview / opencode-2,0.0012121212121212121
+mh,ripple-65b-preview / pi,0.0012121212121212121
+mh,ripple-65b-preview / qwen-coder,0.0012121212121212121

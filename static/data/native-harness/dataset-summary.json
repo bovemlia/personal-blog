@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-11-17",
+  "scored_runs": 926588,
+  "model_identities": 72,
+  "harness_configurations": 54,
+  "benchmark_strata": 75,
+  "benchmark_count_definition": "Distinct source-qualified benchmark labels, including versions and subsets; not a count of independent benchmark suites.",
+  "native_comparison_models": 31,
+  "ranking_connected_models": 70,
+  "ranking_connected_harnesses": 52,
+  "ranking_observed_pairs": 373,
+  "positive_simultaneous_models": [
+    "claude-haiku-4-5",
+    "gpt-5",
+    "gpt-5-mini",
+    "gpt-5.1-codex",
+    "gpt-5.4"
+  ]
+}

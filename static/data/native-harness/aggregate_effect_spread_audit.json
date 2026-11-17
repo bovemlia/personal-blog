@@ -1,0 +1,21 @@
+{
+  "quantity": "Weighted finite-population standard deviation of each group contribution to predicted log odds, calculated separately for each joint posterior draw.",
+  "point_estimate": "Posterior median of the standard deviation. The SD at the posterior mode is also exported separately; it is not used as the median.",
+  "interval": "Approximate 95% marginal posterior interval from 512 saved joint Laplace draws.",
+  "reference": "Equal benchmark strata, equal models within benchmark, equal tasks within benchmark/model, equal observed harnesses within benchmark/model/task; repeated attempts do not increase reference weight.",
+  "reference_rows": 231740,
+  "benchmarks": 75,
+  "model_unchanged": true,
+  "omitted_from_chart": [
+    "task",
+    "study"
+  ],
+  "intercept": "Zero spread by definition because the intercept is constant across all reference rows. Its baseline log odds are not plotted.",
+  "limitations": [
+    "This measures effect magnitude, not average direction. A group can have zero signed mean and large spread.",
+    "Spread is nonnegative. Positive credible bounds alone are not a valid test against a zero-variance null.",
+    "This finite-population spread is derived from the existing coefficients; it is not a newly learned random-effect variance hyperparameter.",
+    "Groups can be correlated and their variances do not add to a unique explained-variance decomposition.",
+    "Allocation between main and interaction effects depends on the existing parameterization and fixed priors; this chart does not establish causal or out-of-sample importance."
+  ]
+}

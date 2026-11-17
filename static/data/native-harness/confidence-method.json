@@ -1,0 +1,26 @@
+{
+  "draws": 100000,
+  "seed": 20261117,
+  "models": 31,
+  "method": "Paired hierarchical percentile bootstrap: source-qualified benchmark strata, then matched task rows; equal stratum weights; native and alternative outcomes resampled jointly. Independent task resamples for repeated selected strata.",
+  "simultaneous_method": "Bonferroni across all 31 model contrasts: each interval uses 0.05/31 total tail probability; approximate 95% simultaneous coverage under bootstrap assumptions.",
+  "label_rule": "Label every positive contrast whose simultaneous lower bound exceeds zero.",
+  "scope": "Conditional on observed model, study settings, harness alternatives and recorded repeated-trial means. These intervals do not establish an intrinsic model preference or family-wide effect.",
+  "positive_pointwise": [
+    "claude-haiku-4-5",
+    "claude-opus-5",
+    "deepseek-v4.1-flash",
+    "gpt-5",
+    "gpt-5-mini",
+    "gpt-5.1-codex",
+    "gpt-5.4",
+    "qwen3-max"
+  ],
+  "positive_simultaneous": [
+    "claude-haiku-4-5",
+    "gpt-5",
+    "gpt-5-mini",
+    "gpt-5.1-codex",
+    "gpt-5.4"
+  ]
+}
