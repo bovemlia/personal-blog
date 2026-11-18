@@ -1,5 +1,5 @@
 +++
-title = "About 92% of cost per task can be predicted by cost per token"
+title = "92% of cost per task can be predicted by cost per token"
 date = "2026-11-18T12:17:45-06:00"
 slug = "cost-per-task-vs-token"
 draft = false
