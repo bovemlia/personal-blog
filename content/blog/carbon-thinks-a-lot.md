@@ -1,7 +1,8 @@
 +++
 title = "Carbon beats opponents when it thinks more than them, but not more in total"
 date = "2026-11-18T17:18:00-06:00"
-slug = "carbon-thinks-a-lot"
+slug = "carbon-beats-opponents-when-it-thinks-more-than-them-but-not-more-in-total"
+aliases = ["/blog/carbon-thinks-a-lot/"]
 draft = false
 showFooter = true
 description = ""
