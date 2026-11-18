@@ -1,5 +1,5 @@
 +++
-title = "Carbon does well when it thinks a lot, but not on larger tasks"
+title = "Carbon beats opponents when it thinks more than them, but not more in total"
 date = "2026-11-18T17:18:00-06:00"
 slug = "carbon-thinks-a-lot"
 draft = false
