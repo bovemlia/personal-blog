@@ -1,5 +1,5 @@
 +++
-title = "Carbon is that slow"
+title = "Yes, Gemini Carbon is that slow"
 date = "2026-11-18T00:00:00-06:00"
 slug = "carbon-is-that-slow"
 draft = false
