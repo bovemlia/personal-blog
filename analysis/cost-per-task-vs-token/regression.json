@@ -1,0 +1,11 @@
+{
+  "method": "Unweighted ordinary least squares, intercept plus one predictor; original USD units, no log transforms.",
+  "observations": 14,
+  "observation_unit": "model average",
+  "response": "Mean inference cost per model task (USD)",
+  "predictor": "Realized inference cost per million input-plus-output tokens (USD), including cached input",
+  "intercept": 0.06945003537616135,
+  "slope": 3.7625495290292648,
+  "r_squared": 0.9150739642297513,
+  "caveat": "Descriptive in-sample fit across model averages. Both axes share total spend as numerator; this does not establish causality or validate list token prices as an independent predictor."
+}

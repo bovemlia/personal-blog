@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "startedAt": "2026-11-18T17:36:17.184Z",
+    "completedAt": "2026-11-18T17:36:39.000Z",
+    "excluded": {
+      "missingData": 20,
+      "failures": 227,
+      "subagents": 66,
+      "byok": 384,
+      "stopped": 53
+    },
+    "eligibleBeforeQwen": 2569,
+    "rows": 2569,
+    "active": [
+      "Claude Fable 5.2",
+      "Claude Opus 5.5",
+      "GPT-6 Astra",
+      "GPT-6.1 Sol",
+      "Kimi K3.1 Pro",
+      "Muse Wonder",
+      "Grok 4.7",
+      "Qwen 3.8 Max",
+      "Gemini Carbon",
+      "DeepSeek V4.1 Flash 1017",
+      "MiMo-V2.6 Flash"
+    ],
+    "missingRuns": 0,
+    "tokenDifferences": 0,
+    "partialServerTokens": 4,
+    "method": "Current public leaderboard eligibility across all historical models; no extra model exclusion. Cost and input/output tokens use the same complete server generation rows or the same run snapshot fallback. Metadata only; no prompts, responses or account IDs. Nontransactional read; new assignments bounded by export start."
+  },
+  "models": [
+    {
+      "model": "Claude Fable 5.1",
+      "name": "Claude Fable 5.1 (retired) \u00b7 344 battles",
+      "battles": 344,
+      "tasks": 344,
+      "excludedTasks": 0,
+      "totalCost": 2460.1725415,
+      "totalTokens": 1383019751,
+      "usdPerMillionTokens": 1.7788412202509465,
+      "usdPerTask": 7.1516643648255815,
+      "retired": true,
+      "sources": {
+        "server": 343,
+        "snapshot": 1
+      }
+    },
+    {
+      "model": "Claude Fable 5.2",
+      "name": "Claude Fable 5.2 \u00b7 166 battles",
+      "battles": 166,
+      "tasks": 166,
+      "excludedTasks": 0,
+      "totalCost": 849.2557548,
+      "totalTokens": 459291069,
+      "usdPerMillionTokens": 1.849057846147668,
+      "usdPerTask": 5.115998522891566,
+      "retired": false,
+      "sources": {
+        "server": 166
+      }
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "name": "Claude Opus 5.5 \u00b7 529 battles",
+      "battles": 529,
+      "tasks": 529,
+      "excludedTasks": 0,
+      "totalCost": 1433.899328,
+      "totalTokens": 1861353271,
+      "usdPerMillionTokens": 0.770353135184084,
+      "usdPerTask": 2.710584741020794,
+      "retired": false,
+      "sources": {
+        "server": 529
+      }
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017",
+      "name": "DeepSeek V4.1 Flash 1017 \u00b7 570 battles",
+      "battles": 570,
+      "tasks": 570,
+      "excludedTasks": 0,
+      "totalCost": 104.0874796152,
+      "totalTokens": 3852985322,
+      "usdPerMillionTokens": 0.027014761520339887,
+      "usdPerTask": 0.18260961336,
+      "retired": false,
+      "sources": {
+        "server": 570
+      }
+    },
+    {
+      "model": "GPT-6 Astra",
+      "name": "GPT-6 Astra \u00b7 161 battles",
+      "battles": 161,
+      "tasks": 161,
+      "excludedTasks": 0,
+      "totalCost": 1572.146262,
+      "totalTokens": 719386726,
+      "usdPerMillionTokens": 2.1853979301808804,
+      "usdPerTask": 9.764883614906832,
+      "retired": false,
+      "sources": {
+        "server": 161
+      }
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "name": "GPT-6.1 Sol \u00b7 312 battles",
+      "battles": 312,
+      "tasks": 312,
+      "excludedTasks": 0,
+      "totalCost": 763.7195875,
+      "totalTokens": 2459506792,
+      "usdPerMillionTokens": 0.31051737282618574,
+      "usdPerTask": 2.447819190705128,
+      "retired": false,
+      "sources": {
+        "server": 312
+      }
+    },
+    {
+      "model": "Gemini 4 Argon",
+      "name": "Gemini 4 Argon (retired) \u00b7 411 battles",
+      "battles": 411,
+      "tasks": 410,
+      "excludedTasks": 1,
+      "totalCost": 569.8027148,
+      "totalTokens": 1546432270,
+      "usdPerMillionTokens": 0.368462768046091,
+      "usdPerTask": 1.3897627190243902,
+      "retired": true,
+      "sources": {
+        "server": 410
+      }
+    },
+    {
+      "model": "Gemini Carbon",
+      "name": "Gemini Carbon \u00b7 190 battles",
+      "battles": 190,
+      "tasks": 190,
+      "excludedTasks": 0,
+      "totalCost": 319.0475422,
+      "totalTokens": 715674111,
+      "usdPerMillionTokens": 0.44580003285881054,
+      "usdPerTask": 1.679197590526316,
+      "retired": false,
+      "sources": {
+        "server": 190
+      }
+    },
+    {
+      "model": "Grok 4.7",
+      "name": "Grok 4.7 \u00b7 469 battles",
+      "battles": 469,
+      "tasks": 469,
+      "excludedTasks": 0,
+      "totalCost": 1468.279756,
+      "totalTokens": 1727979560,
+      "usdPerMillionTokens": 0.8497089838261744,
+      "usdPerTask": 3.130660460554371,
+      "retired": false,
+      "sources": {
+        "server": 469
+      }
+    },
+    {
+      "model": "Kimi K3",
+      "name": "Kimi K3 (retired) \u00b7 176 battles",
+      "battles": 176,
+      "tasks": 176,
+      "excludedTasks": 0,
+      "totalCost": 435.72302881,
+      "totalTokens": 797017468,
+      "usdPerMillionTokens": 0.5466919437830942,
+      "usdPerTask": 2.4756990273295454,
+      "retired": true,
+      "sources": {
+        "server": 176
+      }
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "name": "Kimi K3.1 Pro \u00b7 350 battles",
+      "battles": 350,
+      "tasks": 350,
+      "excludedTasks": 0,
+      "totalCost": 410.72773331999997,
+      "totalTokens": 1085311429,
+      "usdPerMillionTokens": 0.3784422814919053,
+      "usdPerTask": 1.173507809485714,
+      "retired": false,
+      "sources": {
+        "server": 350
+      }
+    },
+    {
+      "model": "MiMo-V2.6 Flash",
+      "name": "MiMo-V2.6 Flash \u00b7 454 battles",
+      "battles": 454,
+      "tasks": 452,
+      "excludedTasks": 2,
+      "totalCost": 33.85732606772,
+      "totalTokens": 1221475828,
+      "usdPerMillionTokens": 0.027718375829963622,
+      "usdPerTask": 0.07490558864539823,
+      "retired": false,
+      "sources": {
+        "server": 451,
+        "snapshot": 1
+      }
+    },
+    {
+      "model": "Muse Wonder",
+      "name": "Muse Wonder \u00b7 499 battles",
+      "battles": 499,
+      "tasks": 499,
+      "excludedTasks": 0,
+      "totalCost": 1349.1799664,
+      "totalTokens": 1614784488,
+      "usdPerMillionTokens": 0.8355170466561974,
+      "usdPerTask": 2.703767467735471,
+      "retired": false,
+      "sources": {
+        "server": 499
+      }
+    },
+    {
+      "model": "Qwen 3.8 Max",
+      "name": "Qwen 3.8 Max \u00b7 445 battles",
+      "battles": 445,
+      "tasks": 445,
+      "excludedTasks": 0,
+      "totalCost": 687.173278,
+      "totalTokens": 1676654275,
+      "usdPerMillionTokens": 0.4098479264605698,
+      "usdPerTask": 1.544209613483146,
+      "retired": false,
+      "sources": {
+        "server": 445
+      }
+    }
+  ]
+}
