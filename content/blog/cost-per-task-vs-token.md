@@ -1,5 +1,5 @@
 +++
-title = "Cost per token explains 92% of a model's cost per task."
+title = "Cost per token explains 92% of a model's cost per task"
 date = "2026-11-18T12:17:45-06:00"
 slug = "cost-per-task-vs-token"
 draft = false
