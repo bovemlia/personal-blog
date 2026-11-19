@@ -1,5 +1,5 @@
 +++
-title = "Front page of Hacker News, by the numbers (and blogs are dead)"
+title = "Front page of Hacker News, by the numbers"
 date = "2026-11-19T00:00:00-06:00"
 slug = "front-page-of-hacker-news-by-the-numbers"
 draft = false
