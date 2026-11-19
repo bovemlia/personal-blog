@@ -53,3 +53,15 @@
     }
   }
 </style>
+{{ if .Params.compactCodeBlocks }}
+<style>
+  content p:has(+ .highlight) {
+    margin-bottom: 0;
+  }
+
+  content p + .highlight,
+  content .highlight pre {
+    margin-top: 0;
+  }
+</style>
+{{ end }}
