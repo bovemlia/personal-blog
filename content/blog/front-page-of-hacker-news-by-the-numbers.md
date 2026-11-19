@@ -1,5 +1,5 @@
 +++
-title = "Front page of Hacker News, by the numbers"
+title = "People don't subscribe to blogs"
 date = "2026-11-19T00:00:00-06:00"
 slug = "front-page-of-hacker-news-by-the-numbers"
 draft = false
@@ -7,7 +7,7 @@ showFooter = true
 compactCodeBlocks = true
 +++
 
-Yesterday, a blog post I wrote hit the front page of Hacker News (highest position: #3). It gathered N points and M comments.
+Yesterday, a blog post I wrote hit the front page of Hacker News (highest position: #3). It gathered [249 points and 78 comments](https://news.ycombinator.com/item?id=50554374).
 
 As a long time Hacker News user, I've always been curious about what this looks like from the content creator side, so while I was analyzing these numbers today, I thought I'd share them with the community.
 
@@ -16,6 +16,10 @@ Main stats
 Article visits: 7,421
 New blog subscribers: 2
 ```
+
+I was surprised to see only 2 new subscribers. This is a 0.027% subscription rate. Yes I confirmed that the subscription flow is not broken.
+
+Some other stats:
 
 Devices
 ```text {linenos=false,style=monokai}
