@@ -1,0 +1,87 @@
+{
+  "snapshot_generated_at": "2026-11-18T22:58:54.926Z",
+  "analysis_source": "outputs/identity-speed-projections/tree-interactions/neon-elo.json",
+  "population": "All 2580 eligible battles in the frozen November 18 analysis snapshot, including early votes. Elo was fitted over all 20 historical models and the chart displays the 11 active models named in that snapshot plus synthetic Neon.",
+  "records": [
+    {
+      "model": "Claude Fable 5.2",
+      "elo": 1095.2424658981881,
+      "synthetic": false
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "elo": 1078.3833149643622,
+      "synthetic": false
+    },
+    {
+      "model": "Gemini 4 Neon (projected)",
+      "elo": 1064.614879237837,
+      "synthetic": true
+    },
+    {
+      "model": "GPT-6 Astra",
+      "elo": 1037.9572902325062,
+      "synthetic": false
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017",
+      "elo": 1028.8087693946127,
+      "synthetic": false
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "elo": 1026.341734487467,
+      "synthetic": false
+    },
+    {
+      "model": "Gemini Carbon",
+      "elo": 1025.5593246823303,
+      "synthetic": false
+    },
+    {
+      "model": "Muse Wonder",
+      "elo": 1013.127686312885,
+      "synthetic": false
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "elo": 1001.8125262119553,
+      "synthetic": false
+    },
+    {
+      "model": "Qwen 3.8 Max",
+      "elo": 997.0261622371211,
+      "synthetic": false
+    },
+    {
+      "model": "MiMo-V2.6 Flash",
+      "elo": 990.8783323238273,
+      "synthetic": false
+    },
+    {
+      "model": "Grok 4.7",
+      "elo": 963.2125665536327,
+      "synthetic": false
+    }
+  ],
+  "synthetic": {
+    "name": "Gemini 4 Neon",
+    "elo": 1064.614879237837,
+    "position_among_displayed_point_estimates": 3,
+    "assumed_quality": "Gemini Carbon",
+    "assumed_tps": 122,
+    "projected_win_rate": 0.5343348941071282,
+    "carbon_elo": 1025.5593246823303,
+    "elo_gain": 39.05555455550666,
+    "opponent_matchups": 191
+  },
+  "method": "Reconstruct leaderboard identity-only MAP Elo from all 2580 eligible frozen battles, prior SD 400 Elo and midpoint 1000. Hold opponent ratings fixed; solve one Neon rating whose average Elo expected score against Carbon\u2019s 191 speed-valid opponents equals the interaction regression projection. No Neon actual observations or new leaderboard refit.",
+  "live_endpoint": "https://agentduel.com/api/leaderboard-page",
+  "live_endpoint_usage": "The published endpoint was inspected earlier, but no current live endpoint ratings are used in this chart. User chose the later frozen analysis snapshot to keep the projection and comparison models on the same fitted Elo scale.",
+  "caveats": [
+    "Neon is synthetic: Carbon identity at 122 TPS, with Carbon\u2019s original opponent, position and early-vote mix held fixed. No measured Neon rating or fabricated battle outcomes.",
+    "All marks are point estimates. Confidence intervals are omitted for all models; the third-place position is not a statistically established rank.",
+    "The historical snapshot includes inactive models in the underlying Elo fit; only its active model set is displayed.",
+    "These ratings must not be presented as the currently published live leaderboard values."
+  ]
+}

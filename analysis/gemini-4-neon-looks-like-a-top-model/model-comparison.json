@@ -1,0 +1,376 @@
+{
+  "n": 2560,
+  "early_battles": 411,
+  "method": "Five identical random battle folds; tree depth and minimum leaf size selected by three inner folds separately within each training set. Log-loss selection. Developers may occur in train and test. All early/stopped battles with usable TPS retained; ties are half a win. Tree receives categorical model A/B identity, log2 TPS A/B, log2 TPS ratio, and early flag.",
+  "tree_configs": [
+    {
+      "depth": 2,
+      "leaf": 20
+    },
+    {
+      "depth": 2,
+      "leaf": 60
+    },
+    {
+      "depth": 3,
+      "leaf": 20
+    },
+    {
+      "depth": 3,
+      "leaf": 60
+    },
+    {
+      "depth": 5,
+      "leaf": 20
+    },
+    {
+      "depth": 5,
+      "leaf": 60
+    }
+  ],
+  "fold_choices": [
+    {
+      "fold": 0,
+      "chosen": {
+        "depth": 2,
+        "leaf": 20
+      },
+      "inner_log_losses": [
+        0.683625076886551,
+        0.6843465506555078,
+        0.6837558196879725,
+        0.6838475269058858,
+        0.6905216131923098,
+        0.687129622254174
+      ]
+    },
+    {
+      "fold": 1,
+      "chosen": {
+        "depth": 3,
+        "leaf": 60
+      },
+      "inner_log_losses": [
+        0.6863969703265662,
+        0.6858486756049208,
+        0.6877258622474387,
+        0.6853438852314007,
+        0.6957294793975914,
+        0.6919431916864992
+      ]
+    },
+    {
+      "fold": 2,
+      "chosen": {
+        "depth": 3,
+        "leaf": 60
+      },
+      "inner_log_losses": [
+        0.6788256848884904,
+        0.6798647589272308,
+        0.6794115256735405,
+        0.6770742897332136,
+        0.687173103668423,
+        0.6810279267330592
+      ]
+    },
+    {
+      "fold": 3,
+      "chosen": {
+        "depth": 2,
+        "leaf": 60
+      },
+      "inner_log_losses": [
+        0.6853918198247095,
+        0.6851291020758978,
+        0.6862824931868318,
+        0.6853182214346317,
+        0.6859722707132431,
+        0.6876691704248089
+      ]
+    },
+    {
+      "fold": 4,
+      "chosen": {
+        "depth": 2,
+        "leaf": 20
+      },
+      "inner_log_losses": [
+        0.6811018919321067,
+        0.6849516331435042,
+        0.6847666124543639,
+        0.6836673111572815,
+        0.6927590387986281,
+        0.6885459239907404
+      ]
+    }
+  ],
+  "final_tree_config": {
+    "depth": 3,
+    "leaf": 20
+  },
+  "metrics": [
+    {
+      "model": "Regression",
+      "held_out_log_loss": 0.6875831113373998,
+      "held_out_r2": 0.011664947004937587,
+      "decisive_accuracy": 0.5445711871567385,
+      "training_r2": 0.030697510109754744,
+      "log_loss_gain_vs_regression": 0.0,
+      "gain_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "model": "Regression + speed \u00d7 early",
+      "held_out_log_loss": 0.6763248038424836,
+      "held_out_r2": 0.035301585669038404,
+      "decisive_accuracy": 0.5732995352767216,
+      "training_r2": 0.05475786792606541,
+      "log_loss_gain_vs_regression": 0.011258307494916225,
+      "gain_ci": [
+        0.004459871394799205,
+        0.015788731752459276
+      ]
+    },
+    {
+      "model": "Boosted trees",
+      "held_out_log_loss": 0.6828928419504401,
+      "held_out_r2": 0.02109322061993002,
+      "decisive_accuracy": 0.5517532741867343,
+      "training_r2": 0.14319626041037503,
+      "log_loss_gain_vs_regression": 0.004690269386959654,
+      "gain_ci": [
+        -0.0021421834688279146,
+        0.008546934836218129
+      ]
+    }
+  ],
+  "uncertainty": "95% developer-block bootstrap of held-out loss differences, fixed fitted predictions; 5000 draws. Positive gain means improvement. No refitting in this bootstrap.",
+  "interaction_coefficients": {
+    "speed_non_early": 0.03853847929207605,
+    "speed_early": 0.6461340038643726,
+    "speed_times_early": 0.6075955245722965
+  },
+  "neon_scenarios": [
+    {
+      "tps": 24,
+      "Regression": 0.4382948019447381,
+      "Regression + speed \u00d7 early": 0.44502162429152814,
+      "Boosted trees": 0.40299441887525556
+    },
+    {
+      "tps": 32,
+      "Regression": 0.45495258307178593,
+      "Regression + speed \u00d7 early": 0.45900514933549513,
+      "Boosted trees": 0.4243915738545253
+    },
+    {
+      "tps": 48.22422325216095,
+      "Regression": 0.4788650533344707,
+      "Regression + speed \u00d7 early": 0.4808380149945171,
+      "Boosted trees": 0.47922309997300655
+    },
+    {
+      "tps": 64,
+      "Regression": 0.49542994289169995,
+      "Regression + speed \u00d7 early": 0.49686863190250935,
+      "Boosted trees": 0.5104053581817446
+    },
+    {
+      "tps": 96,
+      "Regression": 0.5191708691427308,
+      "Regression + speed \u00d7 early": 0.520455088688853,
+      "Boosted trees": 0.50227117939011
+    },
+    {
+      "tps": 122,
+      "Regression": 0.5331718427128591,
+      "Regression + speed \u00d7 early": 0.5343348941071282,
+      "Boosted trees": 0.5000690123854056
+    },
+    {
+      "tps": 160,
+      "Regression": 0.5489496118789525,
+      "Regression + speed \u00d7 early": 0.5496247477727763,
+      "Boosted trees": 0.4974593744627696
+    },
+    {
+      "tps": 200,
+      "Regression": 0.561863537560552,
+      "Regression + speed \u00d7 early": 0.5616764315227747,
+      "Boosted trees": 0.515594610609628
+    },
+    {
+      "tps": 256,
+      "Regression": 0.576054434176569,
+      "Regression + speed \u00d7 early": 0.5742769469371468,
+      "Boosted trees": 0.5281518468130854
+    }
+  ],
+  "calibration": {
+    "Regression": [
+      {
+        "n": 256,
+        "projected": 0.36594657493020555,
+        "observed": 0.384765625
+      },
+      {
+        "n": 256,
+        "projected": 0.41922511467541523,
+        "observed": 0.478515625
+      },
+      {
+        "n": 256,
+        "projected": 0.44838003162972834,
+        "observed": 0.478515625
+      },
+      {
+        "n": 256,
+        "projected": 0.47530366803677226,
+        "observed": 0.46875
+      },
+      {
+        "n": 256,
+        "projected": 0.5003506393842017,
+        "observed": 0.5625
+      },
+      {
+        "n": 256,
+        "projected": 0.5255229540128203,
+        "observed": 0.455078125
+      },
+      {
+        "n": 256,
+        "projected": 0.5496723924945439,
+        "observed": 0.548828125
+      },
+      {
+        "n": 256,
+        "projected": 0.5756436888770902,
+        "observed": 0.52734375
+      },
+      {
+        "n": 256,
+        "projected": 0.6034677410566945,
+        "observed": 0.626953125
+      },
+      {
+        "n": 256,
+        "projected": 0.6564511969112098,
+        "observed": 0.583984375
+      }
+    ],
+    "Regression + speed \u00d7 early": [
+      {
+        "n": 256,
+        "projected": 0.2954900837878921,
+        "observed": 0.294921875
+      },
+      {
+        "n": 256,
+        "projected": 0.4126152823666548,
+        "observed": 0.47265625
+      },
+      {
+        "n": 256,
+        "projected": 0.44922376770037076,
+        "observed": 0.47265625
+      },
+      {
+        "n": 256,
+        "projected": 0.47766054710821293,
+        "observed": 0.474609375
+      },
+      {
+        "n": 256,
+        "projected": 0.5042287774017745,
+        "observed": 0.509765625
+      },
+      {
+        "n": 256,
+        "projected": 0.5309035292691011,
+        "observed": 0.560546875
+      },
+      {
+        "n": 256,
+        "projected": 0.5539924136368245,
+        "observed": 0.525390625
+      },
+      {
+        "n": 256,
+        "projected": 0.5813203702622982,
+        "observed": 0.560546875
+      },
+      {
+        "n": 256,
+        "projected": 0.6134242348390211,
+        "observed": 0.59765625
+      },
+      {
+        "n": 256,
+        "projected": 0.700159183248746,
+        "observed": 0.646484375
+      }
+    ],
+    "Boosted trees": [
+      {
+        "n": 256,
+        "projected": 0.3284670565613484,
+        "observed": 0.349609375
+      },
+      {
+        "n": 256,
+        "projected": 0.4027904911101846,
+        "observed": 0.470703125
+      },
+      {
+        "n": 256,
+        "projected": 0.44062659672644633,
+        "observed": 0.517578125
+      },
+      {
+        "n": 256,
+        "projected": 0.4699569145731137,
+        "observed": 0.521484375
+      },
+      {
+        "n": 256,
+        "projected": 0.4940070390723394,
+        "observed": 0.470703125
+      },
+      {
+        "n": 256,
+        "projected": 0.5194735641212461,
+        "observed": 0.484375
+      },
+      {
+        "n": 256,
+        "projected": 0.5466460516044527,
+        "observed": 0.50390625
+      },
+      {
+        "n": 256,
+        "projected": 0.5786923182754953,
+        "observed": 0.51171875
+      },
+      {
+        "n": 256,
+        "projected": 0.6243563882287935,
+        "observed": 0.611328125
+      },
+      {
+        "n": 256,
+        "projected": 0.7014352389067235,
+        "observed": 0.673828125
+      }
+    ]
+  },
+  "limitations": [
+    "Early status is known after battle start and is held fixed for the Neon scenario.",
+    "Held-out results cover new battles among observed developers, not unseen developers or a future temporal holdout.",
+    "Exploratory comparison on data already inspected in previous modeling rounds.",
+    "Neon scenario assumes Carbon quality and its actual opponent/side/early mix; observational speed associations do not establish causality."
+  ]
+}

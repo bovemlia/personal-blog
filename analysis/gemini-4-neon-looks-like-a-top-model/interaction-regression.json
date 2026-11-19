@@ -1,0 +1,133 @@
+{
+  "n": 2560,
+  "metrics": {
+    "model": "Regression + speed \u00d7 early",
+    "held_out_log_loss": 0.6763248038424836,
+    "held_out_r2": 0.035301585669038404,
+    "decisive_accuracy": 0.5732995352767216,
+    "training_r2": 0.05475786792606541,
+    "log_loss_gain_vs_regression": 0.011258307494916225,
+    "gain_ci": [
+      0.004459871394799205,
+      0.015788731752459276
+    ]
+  },
+  "importance": [
+    {
+      "feature": "Speed (TPS)",
+      "columns": [
+        20
+      ],
+      "mean_log_loss_increase": 0.03045748567744045,
+      "ci": [
+        0.005867337802219612,
+        0.0508037815413578
+      ],
+      "shuffle_sd": 0.004098344948316421
+    },
+    {
+      "feature": "Early vote",
+      "columns": [
+        22
+      ],
+      "mean_log_loss_increase": 0.023705537697091713,
+      "ci": [
+        0.014019204600970767,
+        0.02974528006592244
+      ],
+      "shuffle_sd": 0.0028586410444587824
+    },
+    {
+      "feature": "Model identity",
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "mean_log_loss_increase": 0.016740327852121005,
+      "ci": [
+        0.010772036828294428,
+        0.026013925660334357
+      ],
+      "shuffle_sd": 0.003028551610623022
+    }
+  ],
+  "calibration": [
+    {
+      "n": 256,
+      "projected": 0.2954900837878921,
+      "observed": 0.294921875
+    },
+    {
+      "n": 256,
+      "projected": 0.4126152823666548,
+      "observed": 0.47265625
+    },
+    {
+      "n": 256,
+      "projected": 0.44922376770037076,
+      "observed": 0.47265625
+    },
+    {
+      "n": 256,
+      "projected": 0.47766054710821293,
+      "observed": 0.474609375
+    },
+    {
+      "n": 256,
+      "projected": 0.5042287774017745,
+      "observed": 0.509765625
+    },
+    {
+      "n": 256,
+      "projected": 0.5309035292691011,
+      "observed": 0.560546875
+    },
+    {
+      "n": 256,
+      "projected": 0.5539924136368245,
+      "observed": 0.525390625
+    },
+    {
+      "n": 256,
+      "projected": 0.5813203702622982,
+      "observed": 0.560546875
+    },
+    {
+      "n": 256,
+      "projected": 0.6134242348390211,
+      "observed": 0.59765625
+    },
+    {
+      "n": 256,
+      "projected": 0.700159183248746,
+      "observed": 0.646484375
+    }
+  ],
+  "method": "Grouped held-out permutation importance, 100 shuffles per group within each of the five test folds; exact existing fold-specific interaction regressions. Difference in fractional-label log loss, averaged over all battles and shuffles.",
+  "groups": {
+    "Model identity": "Jointly shuffle the model-identity contrast vector, equivalent to moving model A/B as a pair.",
+    "Speed (TPS)": "Shuffle log2 TPS ratio and recompute speed \u00d7 early using the unchanged early flag.",
+    "Early vote": "Shuffle the battle-level early-vote boolean and recompute speed \u00d7 early using the unchanged speed ratio."
+  },
+  "intervals": "95% developer-block bootstrap intervals on mean per-battle loss increase, 5000 draws. Conditional on fixed fitted models and permutation averages; no retraining.",
+  "interpretation": "Larger means greater predictive reliance by this fitted model. Groups are correlated and interact: importances are not additive, not shares of variance, and not causal effects. Marginal shuffles can create identity/speed combinations unlike observed data.",
+  "validation": "Each battle predicted without its own outcome in training; developers may occur in training and test. Early status is only known afterward."
+}

@@ -1,0 +1,58 @@
+{
+  "snapshot": "2026-11-18T22:58:54.926Z",
+  "point": {
+    "neon_elo": 1064.6145639908787,
+    "opus_elo": 1078.3829349732703,
+    "neon_minus_opus_elo": -13.768370982391616,
+    "elo_implied_head_to_head_score": 0.48019608714011175
+  },
+  "difference_ci90": [
+    -96.19749319736269,
+    66.19277089235482
+  ],
+  "difference_ci95": [
+    -111.52765025531448,
+    84.54991278152954
+  ],
+  "head_to_head_ci90": [
+    0.36499313039288983,
+    0.5941230019784642
+  ],
+  "illustrative_equivalence_margins": [
+    {
+      "margin_elo": 20,
+      "implied_head_to_head_range": [
+        0.4712494361077314,
+        0.5287505638922686
+      ],
+      "ci90_entirely_inside": false
+    },
+    {
+      "margin_elo": 25,
+      "implied_head_to_head_range": [
+        0.4640840730548977,
+        0.5359159269451023
+      ],
+      "ci90_entirely_inside": false
+    },
+    {
+      "margin_elo": 35,
+      "implied_head_to_head_range": [
+        0.449800646746463,
+        0.550199353253537
+      ],
+      "ci90_entirely_inside": false
+    },
+    {
+      "margin_elo": 50,
+      "implied_head_to_head_range": [
+        0.4285368825916186,
+        0.5714631174083815
+      ],
+      "ci90_entirely_inside": false
+    }
+  ],
+  "bootstrap_draws": 1000,
+  "method": "Joint developer-block bootstrap of interaction regression on 2560 usable-throughput battles and identity-only leaderboard MAP on all2580. Same cluster multiplicities in both fits. For each draw, project Carbon identity at122TPS across fixed191Carbon matchups/early flags, solve syntheticNeon Elo against that draw\u2019s opponent ratings, subtract that draw\u2019s Opus5.5 Elo. Percentile intervals. PriorSD400Elo.",
+  "interpretation": "Exploratory model-conditional uncertainty, not direct experimental evidence about Neon. Margins20/25/35/50 are illustrations, not preregistered practical-equivalence bounds. Includes estimation covariance; excludes uncertainty that Neon quality differs from Carbon, throughput changes, or early-vote behavior changes."
+}
