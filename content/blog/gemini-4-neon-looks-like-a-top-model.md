@@ -26,8 +26,8 @@ And surprisingly, speed seems to be pretty much as important as model identity (
 
 ## Projecting Gemini 4 Neon performance
 
-If you assume the same performance as Gemini 4 Carbon (which is reasonable given even better benchmark scores), and [122 tps](https://openrouter.ai/google/gemini-4-neon), we would project an Elo on the [Agent Duel leaderboard](https://agentduel.com/leaderboard) of 1,065, just below Opus 5.5 at 1,078 in our later analysis snapshot.
+If you assume the same performance as Gemini 4 Carbon (which is reasonable given even better benchmark scores), and [127 tps](https://openrouter.ai/google/gemini-4-neon), we would project an Elo on the [Agent Duel leaderboard](https://agentduel.com/leaderboard) of 1,066, just below Opus 5.5 at 1,078 in our later analysis snapshot.
 
-[![Synthetic Neon Elo projection](/images/gemini-4-neon-looks-like-a-top-model/synthetic-elo.png)](/images/gemini-4-neon-looks-like-a-top-model/synthetic-elo.png)
+[![Synthetic Neon Elo projection](/images/gemini-4-neon-looks-like-a-top-model/synthetic-elo.png?v=127)](/images/gemini-4-neon-looks-like-a-top-model/synthetic-elo.png?v=127)
 
-The 90% interval for the projected Elo difference between Gemini 4 Neon and Opus 5.5 is -96 to +66, with Neon projected to win 48% of the time against Opus (counting ties as half a win).
+The 90% interval for the projected Elo difference between Gemini 4 Neon and Opus 5.5 is -94 to +68, with Neon projected to win 48.3% of the time against Opus (counting ties as half a win).

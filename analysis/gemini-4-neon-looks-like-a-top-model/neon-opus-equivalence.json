@@ -1,22 +1,23 @@
 {
+  "assumed_tps": 127,
   "snapshot": "2026-11-18T22:58:54.926Z",
   "point": {
-    "neon_elo": 1064.6145639908787,
+    "neon_elo": 1066.241186358955,
     "opus_elo": 1078.3829349732703,
-    "neon_minus_opus_elo": -13.768370982391616,
-    "elo_implied_head_to_head_score": 0.48019608714011175
+    "neon_minus_opus_elo": -12.141748614315247,
+    "elo_implied_head_to_head_score": 0.48253372894988245
   },
   "difference_ci90": [
-    -96.19749319736269,
-    66.19277089235482
+    -93.95917035124037,
+    68.0611053307877
   ],
   "difference_ci95": [
-    -111.52765025531448,
-    84.54991278152954
+    -108.79899138589244,
+    83.98105790336244
   ],
   "head_to_head_ci90": [
-    0.36499313039288983,
-    0.5941230019784642
+    0.36798464860038577,
+    0.5967138237032313
   ],
   "illustrative_equivalence_margins": [
     {
@@ -53,6 +54,6 @@
     }
   ],
   "bootstrap_draws": 1000,
-  "method": "Joint developer-block bootstrap of interaction regression on 2560 usable-throughput battles and identity-only leaderboard MAP on all2580. Same cluster multiplicities in both fits. For each draw, project Carbon identity at122TPS across fixed191Carbon matchups/early flags, solve syntheticNeon Elo against that draw\u2019s opponent ratings, subtract that draw\u2019s Opus5.5 Elo. Percentile intervals. PriorSD400Elo.",
+  "method": "Joint developer-block bootstrap of interaction regression on 2560 usable-throughput battles and identity-only leaderboard MAP on all2580. Same cluster multiplicities in both fits. For each draw, project Carbon identity at127TPS across fixed191Carbon matchups/early flags, solve syntheticNeon Elo against that draw\u2019s opponent ratings, subtract that draw\u2019s Opus5.5 Elo. Percentile intervals. PriorSD400Elo.",
   "interpretation": "Exploratory model-conditional uncertainty, not direct experimental evidence about Neon. Margins20/25/35/50 are illustrations, not preregistered practical-equivalence bounds. Includes estimation covariance; excludes uncertainty that Neon quality differs from Carbon, throughput changes, or early-vote behavior changes."
 }

@@ -191,6 +191,12 @@
       "Boosted trees": 0.5000690123854056
     },
     {
+      "tps": 127,
+      "Regression": 0.5355138504427355,
+      "Regression + speed \u00d7 early": 0.5366344054101272,
+      "Boosted trees": 0.49661025044426654
+    },
+    {
       "tps": 160,
       "Regression": 0.5489496118789525,
       "Regression + speed \u00d7 early": 0.5496247477727763,
