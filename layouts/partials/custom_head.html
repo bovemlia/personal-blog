@@ -3,15 +3,51 @@
     box-sizing: border-box;
     max-width: 34rem;
     margin-top: 1.5rem;
-    padding: 0.75rem;
-    overflow: hidden;
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 4px;
   }
 
-  .subscribe-form iframe {
+  .subscribe-form label {
     display: block;
+    margin-bottom: 0.4rem;
+  }
+
+  .subscribe-fields {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .subscribe-fields input,
+  .subscribe-fields button {
+    box-sizing: border-box;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid var(--text-color);
+    border-radius: 4px;
+    background: var(--background-color);
+    color: var(--text-color);
+    font: inherit;
+  }
+
+  .subscribe-fields input {
+    flex: 1 1 14rem;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .subscribe-fields button {
+    font-weight: bold;
+  }
+
+  .subscribe-fields :focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 3px;
+  }
+
+  .subscribe-form p {
+    font-size: 0.85em;
+  }
+
+  .subscribe-provider {
+    margin-bottom: 1.5rem;
   }
 
   .site-footer {

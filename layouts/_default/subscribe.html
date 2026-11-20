@@ -2,16 +2,17 @@
 <h1>Subscribe</h1>
 <p>Get new posts by email.</p>
 
-<div class="subscribe-form">
-  <iframe
-    src="https://tally.so/embed/WO7K1k?alignLeft=1&hideTitle=1&transparentBackground=1"
-    loading="lazy"
-    width="100%"
-    height="240"
-    frameborder="0"
-    marginheight="0"
-    marginwidth="0"
-    title="Subscribe by email"
-  ></iframe>
-</div>
+<form class="subscribe-form" action="https://simple-newsletter.com/v1/subscriptions/" method="get">
+  <input type="hidden" name="uri" value="{{ "index.xml" | absURL }}">
+  <input type="hidden" name="return" value="{{ .Permalink }}">
+  <label for="subscriber-email">Email address</label>
+  <div class="subscribe-fields">
+    <input id="subscriber-email" type="email" name="email" autocomplete="email" required aria-describedby="subscribe-help">
+    <button type="submit">Subscribe</button>
+  </div>
+  <p id="subscribe-help">Check your email to confirm. New posts are delivered in a daily digest. Unsubscribe anytime.</p>
+  <p class="subscribe-provider">Email delivery by <a href="https://simple-newsletter.com/">Simple Newsletter</a>. By subscribing, you agree to its <a href="https://simple-newsletter.com/terms/">terms</a> and <a href="https://simple-newsletter.com/privacy/">privacy policy</a>.</p>
+</form>
+
+<p>Prefer a feed reader? <a href="{{ "index.xml" | relURL }}">Subscribe via RSS</a>.</p>
 {{ end }}

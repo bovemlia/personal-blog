@@ -1,0 +1,26 @@
+{{- $posts := where .Site.RegularPages "Section" "blog" -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Site.Home.Permalink }}</link>
+    <description>{{ .Site.Params.description }}</description>
+    <language>{{ .Site.Language.Locale }}</language>
+    {{ with $posts.ByDate.Reverse }}
+    <lastBuildDate>{{ (index . 0).Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{ end }}
+    {{ with .OutputFormats.Get "rss" }}
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    {{ end }}
+    {{ range $posts.ByDate.Reverse }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      {{/* Preserve existing item IDs so switching canonical links to HTTPS does not replay old posts. */}}
+      <guid isPermaLink="false">{{ replace .Permalink "https://micjm.com/" "http://micjm.com/" }}</guid>
+      <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
+    </item>
+    {{ end }}
+  </channel>
+</rss>
