@@ -7,30 +7,32 @@ showFooter = true
 description = ""
 +++
 
-Today, OpenAI released [a blog post](https://openai.com/index/perplexity-and-intelligence/) claiming that perplexity drops can be a universal measurement of intelligence. The core of the post is a chart showing perplexity values of their models dropping over time.
+Today, OpenAI released [a blog post](https://openai.com/index/perplexity-and-intelligence/) showing the perplexity of their models over time. The drop is impressive, and the claim is that perplexity itself can be a universal measure of intelligence.
 
 [![OpenAI's chart of base model log-perplexity falling from GPT-3.5 to an internal model](/images/perplexity-data-mix/openai-base-model-log-perplexity.png)](https://openai.com/index/perplexity-and-intelligence/)
 
-The immediate question that comes to mind seeing the chart is: perplexity against what? The answer to this is buried in a footer. It's perplexity against a fixed corpus of code.
+After seeing this chart, the thought that came to mind was: perplexity against what? Perplexity is a measure of how well token likelihoods predict the actual next token. Perplexity is meaningless without knowing what text the model is trying to predict.
 
-But the problem with this is that maybe the proportion of their pre-training mix that is code is increasing.
+The answer was buried in a footnote. The chart is based on models predicting a fixed corpus of code.
 
-## Lowering perplexity without scaling
+So the problem here is obvious. Could this chart just be a reflection of OpenAI models being increasingly trained on code?
 
-So I set out to show that I could lower perplexity by just changing the pretraining mix. As I spun an agent up to get started with this, it helpfully pointed out that it had already been done in [this 2025 paper](https://arxiv.org/abs/2403.16952). (Funny enough, this was Astra 6.2, it certainly wasn't perplexed by the task.)
+## Keeping the model the same but changing the training mix
 
-The authors trained models on five mixes of GitHub code and web text, with the same architecture and the same model size (160M parameters), then tested each on held-out code:
+I set about investigating this. My plan was to find an open source repo with a tiny model and a documented training set, then monkey with it. While getting started, my agent found [an existing paper](https://arxiv.org/abs/2403.16952) that already did this. (The agent was Astra 6.2, funny enough. It must have low perplexity on this kind of tomfoolery.)
+
+The authors of the paper ran five training sets on a 160M model, varying only the proportion of the training data that was code. Here is what they found:
 
 [![As code rises from 25% to 75% of training data, log-perplexity on held-out GitHub code falls from 1.213 to 1.041](/images/perplexity-data-mix/loss-by-code-share.png)](/images/perplexity-data-mix/loss-by-code-share.png)
 
-Spoiler: the "internal model" here is the same 160M model with 75% of training corpus being code.
+Spoiler: the "internal model" here is the same 160M model with 75% of the training corpus being code.
 
-## Raising perplexity without scaling
+As expected, if you look at perplexity on non-code text, it increases dramatically:
 
-As expected, the same effect holds in reverse. The same paper shows increases in performance on text only as the code share decreases.
+[![Two crossing lines, relative to the 50/50 mix: as code share rises, log-perplexity falls when tested on code and rises when tested on web text](/images/perplexity-data-mix/code-vs-text.png)](/images/perplexity-data-mix/code-vs-text.png)
 
 ## Conclusions
 
-The obvious rebuttal to all of this is that the 160M model with 75% code in training mix is almost certainly more intelligent in terms of code than the 25% model. So what's my point? Only that perplexity loss only measures something meaningful in the context of what text is chosen to generate the loss. And that OpenAI's post needs a few qualifications [1].
+Obviously, the model here with 75% code in the training corpus almost certainly is smarter at code. The point here isn't that OpenAI's chart measures nothing, only that their post should have a lot more qualifications [1].
 
-[1] Funny enough, OpenAI admits as such in a footnote, saying in reference to GPT-2 and GPT-3: "how well they predict code is a poor proxy for their general capabilities." Why they didn't redo this analysis with a more general corpus is anyone's guess.
+[1] Funny enough, OpenAI does qualify in a single footnote about GPT-2 and GPT-3, saying "how well they predict code is a poor proxy for their general capabilities." Why they didn't expand this to the rest of the models is anyone's guess.
