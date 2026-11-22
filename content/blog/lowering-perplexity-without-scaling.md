@@ -1,5 +1,5 @@
 +++
-title = "Lowering perplexity without scaling"
+title = "I, too, can make a chart of perplexity drops"
 date = "2026-11-22T13:58:44-06:00"
 slug = "lowering-perplexity-without-scaling"
 draft = false
