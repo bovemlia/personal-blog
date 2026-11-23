@@ -8,9 +8,9 @@ description = ""
 
 It’s unclear whether harness really matters for coding agents. I frequently see claims that it does matter. Meanwhile I’ve done [my own analysis showing that it doesn’t matter much](/blog/on-model-harness-interactions/).
 
-One recent claim about harnesses came from Ramp. (Yes, the B2B SaaS. Anything that gets attention will be used to promote B2B SaaS). In [their post](https://x.com/ramplabs/status/2123114999874994596), they ran agents both in their own harnesses and in a generic harness. Here is their chart of the differences:
+One recent claim about harnesses came from Ramp. (Yes, the B2B SaaS. Anything that gets attention will be used to promote B2B SaaS). In [their post](https://builders.ramp.com/post/building-llm-judges-to-judge-llms), they ran agents both in their own harnesses and in a generic harness. Here is their chart of the differences:
 
-[![Ramp’s SWE-Bench v2 chart comparing solve rate and mean cost per task with Bash-only and native harnesses.](/images/harness-gain-vs-model-intelligence/ramp-original-chart.jpg)](https://x.com/ramplabs/status/2123114999874994596)
+[![Ramp’s SWE-Bench v2 chart comparing solve rate and mean cost per task with Bash-only and native harnesses.](/images/harness-gain-vs-model-intelligence/ramp-original-chart.jpg)](https://builders.ramp.com/post/building-llm-judges-to-judge-llms)
 
 What struck me looking at this chart was how the really good models didn’t seem to lose much in the generic harness. To investigate further, I inspected the top losers and gainers by being put in a generic harness:
 
