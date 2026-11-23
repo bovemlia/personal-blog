@@ -1,0 +1,1231 @@
+{
+  "metadata": {
+    "startedAt": "2026-11-23T16:41:24.371Z",
+    "futureVotesRemoved": 0,
+    "completedAt": "2026-11-23T16:41:43.674Z",
+    "excluded": {
+      "missingData": 20,
+      "failures": 234,
+      "subagents": 66,
+      "byok": 384,
+      "stopped": 57
+    },
+    "eligibleBeforeDateCutoff": 2881,
+    "rows": 2881,
+    "active": [
+      "Claude Fable 5.2",
+      "Claude Opus 5.5",
+      "DeepSeek V4.1 Flash 1017",
+      "GPT-6.2 Astra",
+      "GPT-6.2 Sol",
+      "Gemini 4 Neon",
+      "Gemini Carbon",
+      "Grok 4.7",
+      "Kimi K3.1 Pro",
+      "MiMo-V2.6 Flash",
+      "Muse Wonder",
+      "Qwen 4 Max"
+    ],
+    "activeSource": "https://agentduel.com/leaderboard",
+    "eligibilityLoaderGitBlob": "5881cbdd93dff279a20d681137f856e8883e5ac6",
+    "missingRuns": 0,
+    "tokenDifferences": 222,
+    "partialServerTokens": 4,
+    "method": "Current public leaderboard eligibility across all historical models. All model families included, including Qwen 4 Max. Metadata only; no prompts, responses or account IDs. Nontransactional read; new assignments bounded by export start."
+  },
+  "sourceSha256": "62f0d7d5d8349230fb6581255bc1f9e94d8832950116ad08bfffe94c925649b5",
+  "classification": {
+    "Claude Fable 5.1": {
+      "country": "American",
+      "developer": "Anthropic",
+      "active": false
+    },
+    "Claude Fable 5.2": {
+      "country": "American",
+      "developer": "Anthropic",
+      "active": true
+    },
+    "Claude Opus 5": {
+      "country": "American",
+      "developer": "Anthropic",
+      "active": false
+    },
+    "Claude Opus 5.5": {
+      "country": "American",
+      "developer": "Anthropic",
+      "active": true
+    },
+    "DeepSeek V4.1 Flash 1017": {
+      "country": "Chinese",
+      "developer": "DeepSeek",
+      "active": true
+    },
+    "GPT-6 Astra": {
+      "country": "American",
+      "developer": "OpenAI",
+      "active": false
+    },
+    "GPT-6.1 Sol": {
+      "country": "American",
+      "developer": "OpenAI",
+      "active": false
+    },
+    "GPT-6.2 Astra": {
+      "country": "American",
+      "developer": "OpenAI",
+      "active": true
+    },
+    "GPT-6.2 Sol": {
+      "country": "American",
+      "developer": "OpenAI",
+      "active": true
+    },
+    "Gemini 3.8 Flash": {
+      "country": "American",
+      "developer": "Google",
+      "active": false
+    },
+    "Gemini 4 Argon": {
+      "country": "American",
+      "developer": "Google",
+      "active": false
+    },
+    "Gemini 4 Neon": {
+      "country": "American",
+      "developer": "Google",
+      "active": true
+    },
+    "Gemini Carbon": {
+      "country": "American",
+      "developer": "Google",
+      "active": true
+    },
+    "Grok 4.7": {
+      "country": "American",
+      "developer": "xAI",
+      "active": true
+    },
+    "Kimi K3": {
+      "country": "Chinese",
+      "developer": "Moonshot AI",
+      "active": false
+    },
+    "Kimi K3.1 Pro": {
+      "country": "Chinese",
+      "developer": "Moonshot AI",
+      "active": true
+    },
+    "MiMo-V2.6 Flash": {
+      "country": "Chinese",
+      "developer": "Xiaomi",
+      "active": true
+    },
+    "Muse Spark 1.3": {
+      "country": "American",
+      "developer": "Meta",
+      "active": false
+    },
+    "Muse Wonder": {
+      "country": "American",
+      "developer": "Meta",
+      "active": true
+    },
+    "Qwen 3.8 Max": {
+      "country": "Chinese",
+      "developer": "Alibaba",
+      "active": false
+    },
+    "Qwen 4 Max": {
+      "country": "Chinese",
+      "developer": "Alibaba",
+      "active": true
+    }
+  },
+  "method": {
+    "classification": "Country of model developer; not inference host or researcher nationality.",
+    "chartCohort": "Models with >100 eligible votes; matched opponents from the same completed battles, including same-country opponents.",
+    "headToHeadCohort": "Exactly one Chinese and one American model; each battle counted once. Both complete, no early vote, no stopped run. No >100-vote threshold.",
+    "duration": "Recorded active-request durationMs / 1000, with timestamp fallback when unavailable; not necessarily wall-clock time.",
+    "tokens": "Reported completion tokens, including reasoning where reported by provider; server assignment totals when valid, otherwise run snapshot. Not a separately measured reasoning-token count.",
+    "interpretation": "Descriptive, battle-weighted comparison of this model/task/provider mix. Completed-only selection can exclude slow canceled runs; not a causal country effect or a test of overthinking.",
+    "exclusion": "Uses public leaderboard eligibility; unlike the predecessor, includes Qwen 4 Max.",
+    "statistics": "Ratio of medians and median of within-battle Chinese/American ratios are distinct statistics. The ratio chart uses the latter; American zero-denominator pairs are omitted from ratios only."
+  },
+  "counts": {
+    "eligibleBattles": 2881,
+    "crossCountryBattles": 1510,
+    "completedCrossCountryBattles": 1243,
+    "excludedCrossCountryBattles": 267,
+    "crossCountryEarly": 244,
+    "crossCountryStopped": 23,
+    "crossCountryNotBothComplete": 258,
+    "validBothMetricsPairs": 1241
+  },
+  "headToHead": {
+    "seconds": {
+      "pairs": 1243,
+      "chineseMedian": 167.998,
+      "americanMedian": 163.451,
+      "ratioOfMedians": 1.0278187346666585,
+      "medianPairedRatio": 0.9835513418187661,
+      "positiveAmericanDenominatorPairs": 1243,
+      "chineseHigher": 611,
+      "equal": 0,
+      "chineseLower": 632,
+      "chineseHigherShare": 0.4915526950925181,
+      "medianPairedDifference": -0.8760000000000003,
+      "confidenceIntervals": {
+        "80": [
+          0.9570869838366607,
+          1.0503039980381033
+        ],
+        "95": [
+          0.9317215002481636,
+          1.1017216832400583
+        ],
+        "method": "user-cluster percentile bootstrap",
+        "replicates": 20000,
+        "seed": 20261123,
+        "clusters": 29,
+        "clustersWithValidRatios": 29,
+        "ratioPairs": 1243
+      }
+    },
+    "tokens": {
+      "pairs": 1241,
+      "chineseMedian": 7615,
+      "americanMedian": 7162,
+      "ratioOfMedians": 1.06325048869031,
+      "medianPairedRatio": 0.9919171507956555,
+      "positiveAmericanDenominatorPairs": 1241,
+      "chineseHigher": 615,
+      "equal": 2,
+      "chineseLower": 624,
+      "chineseHigherShare": 0.49556809024979853,
+      "medianPairedDifference": -6,
+      "confidenceIntervals": {
+        "80": [
+          0.9167887489012599,
+          1.0986421101919774
+        ],
+        "95": [
+          0.8732497790832265,
+          1.1419380439530005
+        ],
+        "method": "user-cluster percentile bootstrap",
+        "replicates": 20000,
+        "seed": 20261123,
+        "clusters": 29,
+        "clustersWithValidRatios": 29,
+        "ratioPairs": 1241
+      }
+    },
+    "tools": {
+      "pairs": 1243,
+      "chineseMedian": 14,
+      "americanMedian": 15,
+      "ratioOfMedians": 0.9333333333333333,
+      "medianPairedRatio": 1.0,
+      "positiveAmericanDenominatorPairs": 1118,
+      "chineseHigher": 538,
+      "equal": 169,
+      "chineseLower": 536,
+      "chineseHigherShare": 0.4328238133547868,
+      "medianPairedDifference": 0,
+      "confidenceIntervals": {
+        "80": [
+          0.963209056232312,
+          1.0
+        ],
+        "95": [
+          0.926829268292683,
+          1.0091414141414097
+        ],
+        "method": "user-cluster percentile bootstrap",
+        "replicates": 20000,
+        "seed": 20261123,
+        "clusters": 29,
+        "clustersWithValidRatios": 29,
+        "ratioPairs": 1118
+      }
+    }
+  },
+  "byChineseModel": {
+    "DeepSeek V4.1 Flash 1017": {
+      "seconds": {
+        "pairs": 351,
+        "chineseMedian": 136.511,
+        "americanMedian": 176.923,
+        "ratioOfMedians": 0.7715842485148906,
+        "medianPairedRatio": 0.7652710170918274,
+        "positiveAmericanDenominatorPairs": 351,
+        "chineseHigher": 103,
+        "equal": 0,
+        "chineseLower": 248,
+        "chineseHigherShare": 0.2934472934472934,
+        "medianPairedDifference": -22.93900000000002
+      },
+      "tokens": {
+        "pairs": 351,
+        "chineseMedian": 12496,
+        "americanMedian": 7529,
+        "ratioOfMedians": 1.6597157657059372,
+        "medianPairedRatio": 1.3001702748722939,
+        "positiveAmericanDenominatorPairs": 351,
+        "chineseHigher": 215,
+        "equal": 2,
+        "chineseLower": 134,
+        "chineseHigherShare": 0.6125356125356125,
+        "medianPairedDifference": 1032
+      },
+      "tools": {
+        "pairs": 351,
+        "chineseMedian": 20,
+        "americanMedian": 17,
+        "ratioOfMedians": 1.1764705882352942,
+        "medianPairedRatio": 1.203448275862069,
+        "positiveAmericanDenominatorPairs": 322,
+        "chineseHigher": 195,
+        "equal": 35,
+        "chineseLower": 121,
+        "chineseHigherShare": 0.5555555555555556,
+        "medianPairedDifference": 1
+      }
+    },
+    "Kimi K3": {
+      "seconds": {
+        "pairs": 103,
+        "chineseMedian": 46.189,
+        "americanMedian": 78.762,
+        "ratioOfMedians": 0.5864376222036007,
+        "medianPairedRatio": 0.7808328698553949,
+        "positiveAmericanDenominatorPairs": 103,
+        "chineseHigher": 34,
+        "equal": 0,
+        "chineseLower": 69,
+        "chineseHigherShare": 0.3300970873786408,
+        "medianPairedDifference": -7.182
+      },
+      "tokens": {
+        "pairs": 103,
+        "chineseMedian": 1520,
+        "americanMedian": 3812,
+        "ratioOfMedians": 0.3987408184679958,
+        "medianPairedRatio": 0.47048509643483344,
+        "positiveAmericanDenominatorPairs": 103,
+        "chineseHigher": 23,
+        "equal": 0,
+        "chineseLower": 80,
+        "chineseHigherShare": 0.22330097087378642,
+        "medianPairedDifference": -1252
+      },
+      "tools": {
+        "pairs": 103,
+        "chineseMedian": 5,
+        "americanMedian": 5,
+        "ratioOfMedians": 1.0,
+        "medianPairedRatio": 0.8834610472541506,
+        "positiveAmericanDenominatorPairs": 86,
+        "chineseHigher": 32,
+        "equal": 25,
+        "chineseLower": 46,
+        "chineseHigherShare": 0.3106796116504854,
+        "medianPairedDifference": 0
+      }
+    },
+    "Kimi K3.1 Pro": {
+      "seconds": {
+        "pairs": 199,
+        "chineseMedian": 167.087,
+        "americanMedian": 192.176,
+        "ratioOfMedians": 0.869447797851969,
+        "medianPairedRatio": 0.9813103005823512,
+        "positiveAmericanDenominatorPairs": 199,
+        "chineseHigher": 97,
+        "equal": 0,
+        "chineseLower": 102,
+        "chineseHigherShare": 0.48743718592964824,
+        "medianPairedDifference": -1.1509999999999998
+      },
+      "tokens": {
+        "pairs": 199,
+        "chineseMedian": 4128,
+        "americanMedian": 7823,
+        "ratioOfMedians": 0.5276748050619967,
+        "medianPairedRatio": 0.6166026365348399,
+        "positiveAmericanDenominatorPairs": 199,
+        "chineseHigher": 48,
+        "equal": 0,
+        "chineseLower": 151,
+        "chineseHigherShare": 0.24120603015075376,
+        "medianPairedDifference": -2498
+      },
+      "tools": {
+        "pairs": 199,
+        "chineseMedian": 12,
+        "americanMedian": 17,
+        "ratioOfMedians": 0.7058823529411765,
+        "medianPairedRatio": 0.8,
+        "positiveAmericanDenominatorPairs": 188,
+        "chineseHigher": 60,
+        "equal": 28,
+        "chineseLower": 111,
+        "chineseHigherShare": 0.3015075376884422,
+        "medianPairedDifference": -1
+      }
+    },
+    "MiMo-V2.6 Flash": {
+      "seconds": {
+        "pairs": 284,
+        "chineseMedian": 148.923,
+        "americanMedian": 165.478,
+        "ratioOfMedians": 0.8999564896844293,
+        "medianPairedRatio": 0.9924839340772528,
+        "positiveAmericanDenominatorPairs": 284,
+        "chineseHigher": 140,
+        "equal": 0,
+        "chineseLower": 144,
+        "chineseHigherShare": 0.49295774647887325,
+        "medianPairedDifference": -0.8884999999999983
+      },
+      "tokens": {
+        "pairs": 282,
+        "chineseMedian": 7249.0,
+        "americanMedian": 6585.5,
+        "ratioOfMedians": 1.1007516513552502,
+        "medianPairedRatio": 1.0275049067211433,
+        "positiveAmericanDenominatorPairs": 282,
+        "chineseHigher": 149,
+        "equal": 0,
+        "chineseLower": 133,
+        "chineseHigherShare": 0.5283687943262412,
+        "medianPairedDifference": 111.5
+      },
+      "tools": {
+        "pairs": 284,
+        "chineseMedian": 11.5,
+        "americanMedian": 14.0,
+        "ratioOfMedians": 0.8214285714285714,
+        "medianPairedRatio": 0.9640688259109311,
+        "positiveAmericanDenominatorPairs": 250,
+        "chineseHigher": 114,
+        "equal": 44,
+        "chineseLower": 126,
+        "chineseHigherShare": 0.4014084507042254,
+        "medianPairedDifference": 0.0
+      }
+    },
+    "Qwen 3.8 Max": {
+      "seconds": {
+        "pairs": 220,
+        "chineseMedian": 342.97,
+        "americanMedian": 133.7115,
+        "ratioOfMedians": 2.565000018696971,
+        "medianPairedRatio": 2.3181404005253246,
+        "positiveAmericanDenominatorPairs": 220,
+        "chineseHigher": 182,
+        "equal": 0,
+        "chineseLower": 38,
+        "chineseHigherShare": 0.8272727272727273,
+        "medianPairedDifference": 134.329
+      },
+      "tokens": {
+        "pairs": 220,
+        "chineseMedian": 9584.0,
+        "americanMedian": 6771.5,
+        "ratioOfMedians": 1.4153437200029535,
+        "medianPairedRatio": 1.6153409143687352,
+        "positiveAmericanDenominatorPairs": 220,
+        "chineseHigher": 148,
+        "equal": 0,
+        "chineseLower": 72,
+        "chineseHigherShare": 0.6727272727272727,
+        "medianPairedDifference": 2185.0
+      },
+      "tools": {
+        "pairs": 220,
+        "chineseMedian": 12.5,
+        "americanMedian": 13.0,
+        "ratioOfMedians": 0.9615384615384616,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 203,
+        "chineseHigher": 107,
+        "equal": 26,
+        "chineseLower": 87,
+        "chineseHigherShare": 0.4863636363636364,
+        "medianPairedDifference": 0.0
+      }
+    },
+    "Qwen 4 Max": {
+      "seconds": {
+        "pairs": 86,
+        "chineseMedian": 390.911,
+        "americanMedian": 302.418,
+        "ratioOfMedians": 1.2926181642627093,
+        "medianPairedRatio": 1.263484461721034,
+        "positiveAmericanDenominatorPairs": 86,
+        "chineseHigher": 55,
+        "equal": 0,
+        "chineseLower": 31,
+        "chineseHigherShare": 0.6395348837209303,
+        "medianPairedDifference": 22.218000000000004
+      },
+      "tokens": {
+        "pairs": 86,
+        "chineseMedian": 13561.5,
+        "americanMedian": 12709.5,
+        "ratioOfMedians": 1.0670364687831937,
+        "medianPairedRatio": 0.7340098979118357,
+        "positiveAmericanDenominatorPairs": 86,
+        "chineseHigher": 32,
+        "equal": 0,
+        "chineseLower": 54,
+        "chineseHigherShare": 0.37209302325581395,
+        "medianPairedDifference": -2582.0
+      },
+      "tools": {
+        "pairs": 86,
+        "chineseMedian": 16.0,
+        "americanMedian": 22.5,
+        "ratioOfMedians": 0.7111111111111111,
+        "medianPairedRatio": 0.72,
+        "positiveAmericanDenominatorPairs": 69,
+        "chineseHigher": 30,
+        "equal": 11,
+        "chineseLower": 45,
+        "chineseHigherShare": 0.3488372093023256,
+        "medianPairedDifference": -2.0
+      }
+    }
+  },
+  "sensitivity": {
+    "withoutQwen4Max": {
+      "seconds": {
+        "pairs": 1157,
+        "chineseMedian": 161.701,
+        "americanMedian": 158.582,
+        "ratioOfMedians": 1.0196680581654918,
+        "medianPairedRatio": 0.9760569131901907,
+        "positiveAmericanDenominatorPairs": 1157,
+        "chineseHigher": 556,
+        "equal": 0,
+        "chineseLower": 601,
+        "chineseHigherShare": 0.48055315471045806,
+        "medianPairedDifference": -1.4830000000000005
+      },
+      "tokens": {
+        "pairs": 1155,
+        "chineseMedian": 7472,
+        "americanMedian": 6977,
+        "ratioOfMedians": 1.0709473985953848,
+        "medianPairedRatio": 1.0103396133883689,
+        "positiveAmericanDenominatorPairs": 1155,
+        "chineseHigher": 583,
+        "equal": 2,
+        "chineseLower": 570,
+        "chineseHigherShare": 0.5047619047619047,
+        "medianPairedDifference": 17
+      },
+      "tools": {
+        "pairs": 1157,
+        "chineseMedian": 14,
+        "americanMedian": 15,
+        "ratioOfMedians": 0.9333333333333333,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 1049,
+        "chineseHigher": 508,
+        "equal": 158,
+        "chineseLower": 491,
+        "chineseHigherShare": 0.439066551426102,
+        "medianPairedDifference": 0
+      }
+    },
+    "bothMetricsSameCohort": {
+      "seconds": {
+        "pairs": 1241,
+        "chineseMedian": 168.48399999999998,
+        "americanMedian": 163.40300000000002,
+        "ratioOfMedians": 1.0310949003384269,
+        "medianPairedRatio": 0.9838743022534628,
+        "positiveAmericanDenominatorPairs": 1241,
+        "chineseHigher": 611,
+        "equal": 0,
+        "chineseLower": 630,
+        "chineseHigherShare": 0.492344883158743,
+        "medianPairedDifference": -0.8739999999999952
+      },
+      "tokens": {
+        "pairs": 1241,
+        "chineseMedian": 7615,
+        "americanMedian": 7162,
+        "ratioOfMedians": 1.06325048869031,
+        "medianPairedRatio": 0.9919171507956555,
+        "positiveAmericanDenominatorPairs": 1241,
+        "chineseHigher": 615,
+        "equal": 2,
+        "chineseLower": 624,
+        "chineseHigherShare": 0.49556809024979853,
+        "medianPairedDifference": -6
+      },
+      "tools": {
+        "pairs": 1241,
+        "chineseMedian": 14,
+        "americanMedian": 15,
+        "ratioOfMedians": 0.9333333333333333,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 1116,
+        "chineseHigher": 538,
+        "equal": 169,
+        "chineseLower": 534,
+        "chineseHigherShare": 0.43352135374697826,
+        "medianPairedDifference": 0
+      }
+    },
+    "chartModelsOnly": {
+      "seconds": {
+        "pairs": 1202,
+        "chineseMedian": 167.0405,
+        "americanMedian": 163.636,
+        "ratioOfMedians": 1.0208053240118313,
+        "medianPairedRatio": 0.9758739211323686,
+        "positiveAmericanDenominatorPairs": 1202,
+        "chineseHigher": 577,
+        "equal": 0,
+        "chineseLower": 625,
+        "chineseHigherShare": 0.4800332778702163,
+        "medianPairedDifference": -1.5505000000000004
+      },
+      "tokens": {
+        "pairs": 1200,
+        "chineseMedian": 7612.0,
+        "americanMedian": 7198.0,
+        "ratioOfMedians": 1.0575159766601834,
+        "medianPairedRatio": 0.9765041279931759,
+        "positiveAmericanDenominatorPairs": 1200,
+        "chineseHigher": 585,
+        "equal": 2,
+        "chineseLower": 613,
+        "chineseHigherShare": 0.4875,
+        "medianPairedDifference": -30.0
+      },
+      "tools": {
+        "pairs": 1202,
+        "chineseMedian": 14.0,
+        "americanMedian": 15.0,
+        "ratioOfMedians": 0.9333333333333333,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 1087,
+        "chineseHigher": 526,
+        "equal": 160,
+        "chineseLower": 516,
+        "chineseHigherShare": 0.43760399334442596,
+        "medianPairedDifference": 0.0
+      }
+    },
+    "activeModelsOnly": {
+      "seconds": {
+        "pairs": 633,
+        "chineseMedian": 161.231,
+        "americanMedian": 176.301,
+        "ratioOfMedians": 0.9145211881951889,
+        "medianPairedRatio": 0.9233592216437656,
+        "positiveAmericanDenominatorPairs": 633,
+        "chineseHigher": 283,
+        "equal": 0,
+        "chineseLower": 350,
+        "chineseHigherShare": 0.4470774091627172,
+        "medianPairedDifference": -4.9179999999999975
+      },
+      "tokens": {
+        "pairs": 633,
+        "chineseMedian": 8775,
+        "americanMedian": 8395,
+        "ratioOfMedians": 1.04526503871352,
+        "medianPairedRatio": 0.8739748496446146,
+        "positiveAmericanDenominatorPairs": 633,
+        "chineseHigher": 284,
+        "equal": 1,
+        "chineseLower": 348,
+        "chineseHigherShare": 0.4486571879936809,
+        "medianPairedDifference": -450
+      },
+      "tools": {
+        "pairs": 633,
+        "chineseMedian": 15,
+        "americanMedian": 15,
+        "ratioOfMedians": 1.0,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 567,
+        "chineseHigher": 283,
+        "equal": 86,
+        "chineseLower": 264,
+        "chineseHigherShare": 0.4470774091627172,
+        "medianPairedDifference": 0
+      }
+    },
+    "durationMsOnly": {
+      "seconds": {
+        "pairs": 1243,
+        "chineseMedian": 167.998,
+        "americanMedian": 163.451,
+        "ratioOfMedians": 1.0278187346666585,
+        "medianPairedRatio": 0.9835513418187661,
+        "positiveAmericanDenominatorPairs": 1243,
+        "chineseHigher": 611,
+        "equal": 0,
+        "chineseLower": 632,
+        "chineseHigherShare": 0.4915526950925181,
+        "medianPairedDifference": -0.8760000000000003
+      },
+      "tokens": {
+        "pairs": 1241,
+        "chineseMedian": 7615,
+        "americanMedian": 7162,
+        "ratioOfMedians": 1.06325048869031,
+        "medianPairedRatio": 0.9919171507956555,
+        "positiveAmericanDenominatorPairs": 1241,
+        "chineseHigher": 615,
+        "equal": 2,
+        "chineseLower": 624,
+        "chineseHigherShare": 0.49556809024979853,
+        "medianPairedDifference": -6
+      },
+      "tools": {
+        "pairs": 1243,
+        "chineseMedian": 14,
+        "americanMedian": 15,
+        "ratioOfMedians": 0.9333333333333333,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 1118,
+        "chineseHigher": 538,
+        "equal": 169,
+        "chineseLower": 536,
+        "chineseHigherShare": 0.4328238133547868,
+        "medianPairedDifference": 0
+      }
+    },
+    "withoutGeminiCarbon": {
+      "seconds": {
+        "pairs": 1147,
+        "chineseMedian": 167.087,
+        "americanMedian": 150.789,
+        "ratioOfMedians": 1.108084807247213,
+        "medianPairedRatio": 1.0466689212039229,
+        "positiveAmericanDenominatorPairs": 1147,
+        "chineseHigher": 601,
+        "equal": 0,
+        "chineseLower": 546,
+        "chineseHigherShare": 0.5239755884917175,
+        "medianPairedDifference": 3.852999999999998
+      },
+      "tokens": {
+        "pairs": 1145,
+        "chineseMedian": 7574,
+        "americanMedian": 6417,
+        "ratioOfMedians": 1.180302321957301,
+        "medianPairedRatio": 1.0638297872340425,
+        "positiveAmericanDenominatorPairs": 1145,
+        "chineseHigher": 605,
+        "equal": 2,
+        "chineseLower": 538,
+        "chineseHigherShare": 0.5283842794759825,
+        "medianPairedDifference": 161
+      },
+      "tools": {
+        "pairs": 1147,
+        "chineseMedian": 14,
+        "americanMedian": 14,
+        "ratioOfMedians": 1.0,
+        "medianPairedRatio": 1.0,
+        "positiveAmericanDenominatorPairs": 1026,
+        "chineseHigher": 520,
+        "equal": 162,
+        "chineseLower": 465,
+        "chineseHigherShare": 0.45335658238884047,
+        "medianPairedDifference": 0
+      }
+    }
+  },
+  "quality": {
+    "missingSecondsPairs": 0,
+    "missingTokensPairs": 2,
+    "missingToolPairs": 0,
+    "durationSources": {
+      "durationMs": 2486
+    },
+    "tokenSources": {
+      "server": 2483,
+      "snapshot": 3
+    }
+  },
+  "models": [
+    {
+      "model": "Qwen 3.8 Max",
+      "country": "Chinese",
+      "developer": "Alibaba",
+      "active": false,
+      "votes": 445,
+      "metrics": {
+        "tokens": {
+          "pairs": 319,
+          "modelMedian": 9424,
+          "opponentMedian": 6005,
+          "medianRatio": 1.5693588676103247
+        },
+        "seconds": {
+          "pairs": 319,
+          "modelMedian": 341.728,
+          "opponentMedian": 128.325,
+          "medianRatio": 2.6629885057471268
+        },
+        "tools": {
+          "pairs": 319,
+          "modelMedian": 12,
+          "opponentMedian": 12,
+          "medianRatio": 1.0
+        }
+      }
+    },
+    {
+      "model": "Gemini Carbon",
+      "country": "American",
+      "developer": "Google",
+      "active": true,
+      "votes": 231,
+      "metrics": {
+        "tokens": {
+          "pairs": 180,
+          "modelMedian": 19729.0,
+          "opponentMedian": 7855.5,
+          "medianRatio": 2.5114887658328557
+        },
+        "seconds": {
+          "pairs": 180,
+          "modelMedian": 417.6735,
+          "opponentMedian": 157.9795,
+          "medianRatio": 2.643846195234192
+        },
+        "tools": {
+          "pairs": 180,
+          "modelMedian": 23.0,
+          "opponentMedian": 13.0,
+          "medianRatio": 1.7692307692307692
+        }
+      }
+    },
+    {
+      "model": "Gemini 4 Neon",
+      "country": "American",
+      "developer": "Google",
+      "active": true,
+      "votes": 107,
+      "metrics": {
+        "tokens": {
+          "pairs": 93,
+          "modelMedian": 22023,
+          "opponentMedian": 11396,
+          "medianRatio": 1.9325201825201825
+        },
+        "seconds": {
+          "pairs": 93,
+          "modelMedian": 368.65000000000003,
+          "opponentMedian": 243.515,
+          "medianRatio": 1.5138697821489437
+        },
+        "tools": {
+          "pairs": 93,
+          "modelMedian": 32,
+          "opponentMedian": 30,
+          "medianRatio": 1.0666666666666667
+        }
+      }
+    },
+    {
+      "model": "Gemini 4 Argon",
+      "country": "American",
+      "developer": "Google",
+      "active": false,
+      "votes": 411,
+      "metrics": {
+        "tokens": {
+          "pairs": 335,
+          "modelMedian": 8146,
+          "opponentMedian": 7042,
+          "medianRatio": 1.1567736438511786
+        },
+        "seconds": {
+          "pairs": 337,
+          "modelMedian": 178.685,
+          "opponentMedian": 134.65,
+          "medianRatio": 1.3270330486446342
+        },
+        "tools": {
+          "pairs": 337,
+          "modelMedian": 15,
+          "opponentMedian": 13,
+          "medianRatio": 1.1538461538461537
+        }
+      }
+    },
+    {
+      "model": "GPT-6 Astra",
+      "country": "American",
+      "developer": "OpenAI",
+      "active": false,
+      "votes": 162,
+      "metrics": {
+        "tokens": {
+          "pairs": 128,
+          "modelMedian": 5457.0,
+          "opponentMedian": 7355.5,
+          "medianRatio": 0.7418938209503093
+        },
+        "seconds": {
+          "pairs": 128,
+          "modelMedian": 174.3625,
+          "opponentMedian": 155.55649999999997,
+          "medianRatio": 1.120894980280477
+        },
+        "tools": {
+          "pairs": 128,
+          "modelMedian": 29.5,
+          "opponentMedian": 16.0,
+          "medianRatio": 1.84375
+        }
+      }
+    },
+    {
+      "model": "Qwen 4 Max",
+      "country": "Chinese",
+      "developer": "Alibaba",
+      "active": true,
+      "votes": 126,
+      "metrics": {
+        "tokens": {
+          "pairs": 115,
+          "modelMedian": 15435,
+          "opponentMedian": 23192,
+          "medianRatio": 0.6655312176612626
+        },
+        "seconds": {
+          "pairs": 115,
+          "modelMedian": 461.479,
+          "opponentMedian": 416.693,
+          "medianRatio": 1.1074796072888193
+        },
+        "tools": {
+          "pairs": 115,
+          "modelMedian": 20,
+          "opponentMedian": 35,
+          "medianRatio": 0.5714285714285714
+        }
+      }
+    },
+    {
+      "model": "Grok 4.7",
+      "country": "American",
+      "developer": "xAI",
+      "active": true,
+      "votes": 469,
+      "metrics": {
+        "tokens": {
+          "pairs": 379,
+          "modelMedian": 5132,
+          "opponentMedian": 4816,
+          "medianRatio": 1.0656146179401993
+        },
+        "seconds": {
+          "pairs": 379,
+          "modelMedian": 118.76299999999999,
+          "opponentMedian": 115.447,
+          "medianRatio": 1.0287231370239156
+        },
+        "tools": {
+          "pairs": 379,
+          "modelMedian": 10,
+          "opponentMedian": 11,
+          "medianRatio": 0.9090909090909091
+        }
+      }
+    },
+    {
+      "model": "Claude Fable 5.2",
+      "country": "American",
+      "developer": "Anthropic",
+      "active": true,
+      "votes": 217,
+      "metrics": {
+        "tokens": {
+          "pairs": 186,
+          "modelMedian": 13179.5,
+          "opponentMedian": 10513.5,
+          "medianRatio": 1.2535787321063394
+        },
+        "seconds": {
+          "pairs": 186,
+          "modelMedian": 247.85500000000002,
+          "opponentMedian": 243.2885,
+          "medianRatio": 1.018769896645341
+        },
+        "tools": {
+          "pairs": 186,
+          "modelMedian": 18.0,
+          "opponentMedian": 17.0,
+          "medianRatio": 1.0588235294117647
+        }
+      }
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "country": "American",
+      "developer": "OpenAI",
+      "active": false,
+      "votes": 312,
+      "metrics": {
+        "tokens": {
+          "pairs": 277,
+          "modelMedian": 4433,
+          "opponentMedian": 7472,
+          "medianRatio": 0.5932815845824411
+        },
+        "seconds": {
+          "pairs": 277,
+          "modelMedian": 181.68699999999998,
+          "opponentMedian": 191.828,
+          "medianRatio": 0.9471349333778175
+        },
+        "tools": {
+          "pairs": 277,
+          "modelMedian": 20,
+          "opponentMedian": 15,
+          "medianRatio": 1.3333333333333333
+        }
+      }
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "country": "American",
+      "developer": "Anthropic",
+      "active": true,
+      "votes": 551,
+      "metrics": {
+        "tokens": {
+          "pairs": 465,
+          "modelMedian": 8398,
+          "opponentMedian": 8116,
+          "medianRatio": 1.0347461803844258
+        },
+        "seconds": {
+          "pairs": 465,
+          "modelMedian": 158.582,
+          "opponentMedian": 171.90300000000002,
+          "medianRatio": 0.9225086240496092
+        },
+        "tools": {
+          "pairs": 465,
+          "modelMedian": 13,
+          "opponentMedian": 15,
+          "medianRatio": 0.8666666666666667
+        }
+      }
+    },
+    {
+      "model": "MiMo-V2.6 Flash",
+      "country": "Chinese",
+      "developer": "Xiaomi",
+      "active": true,
+      "votes": 508,
+      "metrics": {
+        "tokens": {
+          "pairs": 411,
+          "modelMedian": 8871,
+          "opponentMedian": 7709,
+          "medianRatio": 1.150732909586198
+        },
+        "seconds": {
+          "pairs": 413,
+          "modelMedian": 153.69500000000002,
+          "opponentMedian": 173.218,
+          "medianRatio": 0.8872923137318295
+        },
+        "tools": {
+          "pairs": 413,
+          "modelMedian": 14,
+          "opponentMedian": 15,
+          "medianRatio": 0.9333333333333333
+        }
+      }
+    },
+    {
+      "model": "Claude Fable 5.1",
+      "country": "American",
+      "developer": "Anthropic",
+      "active": false,
+      "votes": 344,
+      "metrics": {
+        "tokens": {
+          "pairs": 289,
+          "modelMedian": 5038,
+          "opponentMedian": 6137,
+          "medianRatio": 0.8209222747270654
+        },
+        "seconds": {
+          "pairs": 289,
+          "modelMedian": 109.279,
+          "opponentMedian": 129.577,
+          "medianRatio": 0.8433518294141708
+        },
+        "tools": {
+          "pairs": 289,
+          "modelMedian": 7,
+          "opponentMedian": 12,
+          "medianRatio": 0.5833333333333334
+        }
+      }
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "country": "Chinese",
+      "developer": "Moonshot AI",
+      "active": true,
+      "votes": 368,
+      "metrics": {
+        "tokens": {
+          "pairs": 299,
+          "modelMedian": 4155,
+          "opponentMedian": 9739,
+          "medianRatio": 0.42663517814970736
+        },
+        "seconds": {
+          "pairs": 299,
+          "modelMedian": 167.087,
+          "opponentMedian": 204.688,
+          "medianRatio": 0.8163009067458766
+        },
+        "tools": {
+          "pairs": 299,
+          "modelMedian": 13,
+          "opponentMedian": 17,
+          "medianRatio": 0.7647058823529411
+        }
+      }
+    },
+    {
+      "model": "Muse Wonder",
+      "country": "American",
+      "developer": "Meta",
+      "active": true,
+      "votes": 503,
+      "metrics": {
+        "tokens": {
+          "pairs": 425,
+          "modelMedian": 4549,
+          "opponentMedian": 5725,
+          "medianRatio": 0.7945851528384279
+        },
+        "seconds": {
+          "pairs": 425,
+          "modelMedian": 115.882,
+          "opponentMedian": 145.635,
+          "medianRatio": 0.7957015827239332
+        },
+        "tools": {
+          "pairs": 425,
+          "modelMedian": 11,
+          "opponentMedian": 11,
+          "medianRatio": 1.0
+        }
+      }
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017",
+      "country": "Chinese",
+      "developer": "DeepSeek",
+      "active": true,
+      "votes": 607,
+      "metrics": {
+        "tokens": {
+          "pairs": 504,
+          "modelMedian": 12486.5,
+          "opponentMedian": 7905.0,
+          "medianRatio": 1.5795698924731183
+        },
+        "seconds": {
+          "pairs": 504,
+          "modelMedian": 140.24599999999998,
+          "opponentMedian": 196.45800000000003,
+          "medianRatio": 0.7138726852558814
+        },
+        "tools": {
+          "pairs": 504,
+          "modelMedian": 19.0,
+          "opponentMedian": 15.0,
+          "medianRatio": 1.2666666666666666
+        }
+      }
+    },
+    {
+      "model": "Kimi K3",
+      "country": "Chinese",
+      "developer": "Moonshot AI",
+      "active": false,
+      "votes": 176,
+      "metrics": {
+        "tokens": {
+          "pairs": 139,
+          "modelMedian": 1833,
+          "opponentMedian": 4168,
+          "medianRatio": 0.43977927063339733
+        },
+        "seconds": {
+          "pairs": 139,
+          "modelMedian": 51.608999999999995,
+          "opponentMedian": 88.38499999999999,
+          "medianRatio": 0.5839112971658087
+        },
+        "tools": {
+          "pairs": 139,
+          "modelMedian": 5,
+          "opponentMedian": 5,
+          "medianRatio": 1.0
+        }
+      }
+    },
+    {
+      "model": "GPT-6.2 Sol",
+      "country": "American",
+      "developer": "OpenAI",
+      "active": true,
+      "votes": 115,
+      "metrics": {
+        "tokens": {
+          "pairs": 101,
+          "modelMedian": 2385,
+          "opponentMedian": 15435,
+          "medianRatio": 0.15451895043731778
+        },
+        "seconds": {
+          "pairs": 101,
+          "modelMedian": 91.65400000000001,
+          "opponentMedian": 345.16900000000004,
+          "medianRatio": 0.2655336950884929
+        },
+        "tools": {
+          "pairs": 101,
+          "modelMedian": 13,
+          "opponentMedian": 31,
+          "medianRatio": 0.41935483870967744
+        }
+      }
+    }
+  ],
+  "inference": {
+    "estimator": "Battle-weighted median of within-battle Chinese/American ratios.",
+    "method": "Sample user accounts with replacement; retain all their completed cross-country battles and both sides together. Same account resamples across the three metrics. Percentile intervals at 10/90 and 2.5/97.5 percentiles.",
+    "replicates": 20000,
+    "seed": 20261123,
+    "clusters": 29,
+    "clusterSourceSha256": "002463b7e7e41c1be1d27500f83c784262a66f9e655579c8a415a3e997631a89",
+    "limitation": "Intervals account for repeated battles within users, not model/provider/time selection or completed-run selection. Descriptive comparison of this observed model mix; not a causal country effect."
+  }
+}

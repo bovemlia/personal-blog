@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "retrievedAt": "2026-11-23T17:13:51.129Z",
+    "frozenCohortAt": "2026-11-23T16:41:24.371Z",
+    "pairs": 319,
+    "definition": "Output tokens (including reported reasoning) / summed request latency seconds. Includes startup; not pure decode speed."
+  },
+  "model": "Qwen 3.8 Max",
+  "pairs": 319,
+  "modelMedianTPS": 32.32187070151307,
+  "opponentMedianTPS": 62.98226477598675
+}

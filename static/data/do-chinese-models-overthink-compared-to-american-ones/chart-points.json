@@ -1,0 +1,463 @@
+{
+  "output-tokens": [
+    {
+      "model": "Qwen 3.8 Max",
+      "x": 6.005,
+      "y": 9.424,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Gemini Carbon",
+      "x": 7.8555,
+      "y": 19.729,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "large outlier"
+    },
+    {
+      "model": "Gemini 4 Neon",
+      "x": 11.396,
+      "y": 22.023,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "large outlier"
+    },
+    {
+      "model": "Gemini 4 Argon",
+      "x": 7.042,
+      "y": 8.146,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "GPT-6 Astra",
+      "x": 7.3555,
+      "y": 5.457,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Qwen 4 Max",
+      "x": 23.192,
+      "y": 15.435,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Grok 4.7",
+      "x": 4.816,
+      "y": 5.132,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Claude Fable 5.2",
+      "x": 10.5135,
+      "y": 13.1795,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "x": 7.472,
+      "y": 4.433,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "x": 8.116,
+      "y": 8.398,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "MiMo-V2.6 Flash",
+      "x": 7.709,
+      "y": 8.871,
+      "country": "Chinese",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Claude Fable 5.1",
+      "x": 6.137,
+      "y": 5.038,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "x": 9.739,
+      "y": 4.155,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Muse Wonder",
+      "x": 5.725,
+      "y": 4.549,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017",
+      "x": 7.905,
+      "y": 12.4865,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Kimi K3",
+      "x": 4.168,
+      "y": 1.833,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "GPT-6.2 Sol",
+      "x": 15.435,
+      "y": 2.385,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    }
+  ],
+  "completion-time": [
+    {
+      "model": "Qwen 3.8 Max",
+      "x": 2.13875,
+      "y": 5.6954666666666665,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Gemini Carbon",
+      "x": 2.632991666666667,
+      "y": 6.961225,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "large outlier"
+    },
+    {
+      "model": "Gemini 4 Neon",
+      "x": 4.058583333333333,
+      "y": 6.144166666666667,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "large outlier"
+    },
+    {
+      "model": "Gemini 4 Argon",
+      "x": 2.2441666666666666,
+      "y": 2.978083333333333,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "GPT-6 Astra",
+      "x": 2.5926083333333327,
+      "y": 2.906041666666667,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Qwen 4 Max",
+      "x": 6.944883333333333,
+      "y": 7.691316666666666,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Grok 4.7",
+      "x": 1.9241166666666667,
+      "y": 1.9793833333333333,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Claude Fable 5.2",
+      "x": 4.054808333333333,
+      "y": 4.130916666666667,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "x": 3.1971333333333334,
+      "y": 3.0281166666666666,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "x": 2.8650500000000005,
+      "y": 2.6430333333333333,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "MiMo-V2.6 Flash",
+      "x": 2.8869666666666665,
+      "y": 2.5615833333333335,
+      "country": "Chinese",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Claude Fable 5.1",
+      "x": 2.1596166666666665,
+      "y": 1.8213166666666667,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "x": 3.4114666666666666,
+      "y": 2.784783333333333,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Muse Wonder",
+      "x": 2.42725,
+      "y": 1.9313666666666667,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017",
+      "x": 3.2743000000000007,
+      "y": 2.337433333333333,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Kimi K3",
+      "x": 1.473083333333333,
+      "y": 0.8601499999999999,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "GPT-6.2 Sol",
+      "x": 5.752816666666667,
+      "y": 1.5275666666666667,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    }
+  ],
+  "tool-calls": [
+    {
+      "model": "Qwen 3.8 Max",
+      "x": 12.0,
+      "y": 12.0,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Gemini Carbon",
+      "x": 13.0,
+      "y": 23.0,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Gemini 4 Neon",
+      "x": 30.0,
+      "y": 32.0,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "large outlier"
+    },
+    {
+      "model": "Gemini 4 Argon",
+      "x": 13.0,
+      "y": 15.0,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "GPT-6 Astra",
+      "x": 16.0,
+      "y": 29.5,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Qwen 4 Max",
+      "x": 35.0,
+      "y": 20.0,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Grok 4.7",
+      "x": 11.0,
+      "y": 10.0,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Claude Fable 5.2",
+      "x": 17.0,
+      "y": 18.0,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "x": 15.0,
+      "y": 20.0,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "x": 15.0,
+      "y": 13.0,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "MiMo-V2.6 Flash",
+      "x": 15.0,
+      "y": 14.0,
+      "country": "Chinese",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Claude Fable 5.1",
+      "x": 12.0,
+      "y": 7.0,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "x": 17.0,
+      "y": 13.0,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Muse Wonder",
+      "x": 11.0,
+      "y": 11.0,
+      "country": "American",
+      "labeled": false,
+      "labelReason": null
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017",
+      "x": 15.0,
+      "y": 19.0,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "Kimi K3",
+      "x": 5.0,
+      "y": 5.0,
+      "country": "Chinese",
+      "labeled": true,
+      "labelReason": "requested model"
+    },
+    {
+      "model": "GPT-6.2 Sol",
+      "x": 31.0,
+      "y": 13.0,
+      "country": "American",
+      "labeled": true,
+      "labelReason": "requested model"
+    }
+  ],
+  "head-to-head": [
+    {
+      "metric": "seconds",
+      "label": "Completion time",
+      "ratio": 0.9835513418187661,
+      "ci80": [
+        0.9570869838366607,
+        1.0503039980381033
+      ],
+      "ci95": [
+        0.9317215002481636,
+        1.1017216832400583
+      ],
+      "pairs": 1243,
+      "clusters": 29
+    },
+    {
+      "metric": "tokens",
+      "label": "Output tokens",
+      "ratio": 0.9919171507956555,
+      "ci80": [
+        0.9167887489012599,
+        1.0986421101919774
+      ],
+      "ci95": [
+        0.8732497790832265,
+        1.1419380439530005
+      ],
+      "pairs": 1241,
+      "clusters": 29
+    },
+    {
+      "metric": "tools",
+      "label": "Tool calls",
+      "ratio": 1.0,
+      "ci80": [
+        0.963209056232312,
+        1.0
+      ],
+      "ci95": [
+        0.926829268292683,
+        1.0091414141414097
+      ],
+      "pairs": 1118,
+      "clusters": 29
+    }
+  ]
+}
