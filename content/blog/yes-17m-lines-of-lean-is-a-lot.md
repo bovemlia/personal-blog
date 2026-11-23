@@ -7,6 +7,8 @@ showFooter = true
 description = ""
 +++
 
+> *AI disclosure: I wrote all text here, but used [Agent Duel](https://agentduel.com/leaderboard) (an [open source](https://github.com/bottomless/agent-duel) battle system on top of OpenCode) to research sources of Lean proofs and generate charts.*
+
 The recent proof of the Riemann hypothesis came with a statistic attached: the proof is 17 million lines of Lean. Beyond the philosophical questions of what it means to have a proof longer than any human could comprehend, I'm left with a simpler question: is that as large as it sounds?
 
 To investigate, I hunted for collections of Lean proofs online. I found two and charted the lengths of their proofs.
