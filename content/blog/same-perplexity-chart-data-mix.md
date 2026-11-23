@@ -1,5 +1,5 @@
 +++
-title = "The exact same perplexity chart, from data mix alone"
+title = "Perplexity, intelligence and pretraining corpus mix"
 date = "2026-11-22T17:05:36-06:00"
 slug = "same-perplexity-chart-data-mix"
 draft = false
@@ -20,3 +20,5 @@ The r² of this chart is 0.75 and the p-value of this relationship is about 4×1
 For fun, I asked an agent to cherrypick the data and generate a similar chart to OpenAI's, just using the various points here. We even have an impressive internal model (that's just 50% code in pretraining).
 
 [![OpenAI's base model log-perplexity curve, redrawn from 14 released RegMix models that share the same 1B architecture and 25B training tokens and differ only in training data mix, with code share rising from 1.2% to 49.4% left to right](/images/perplexity-data-mix/regmix-same-shape.png)](https://huggingface.co/sail/data-mixture-random-1b)
+
+Do we know that OpenAI is increasing the component of code in its pretraining over time? No, but I think it's a good bet. Can we say that this explains the full drop in log-perplexity? Absolutely not and it's unlikely. Can we say that there is some confounding here and that OpenAI should have used a more balanced corpus to generate log-perplexity? I think so.
