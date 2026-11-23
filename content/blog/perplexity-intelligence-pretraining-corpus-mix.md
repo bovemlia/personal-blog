@@ -1,7 +1,10 @@
 +++
 title = "Perplexity, intelligence and pretraining corpus mix"
 date = "2026-11-22T17:05:36-06:00"
-slug = "same-perplexity-chart-data-mix"
+slug = "perplexity-intelligence-pretraining-corpus-mix"
+aliases = ["/blog/same-perplexity-chart-data-mix/"]
+# Keeps the original feed id so subscribers are not re-sent this post after the URL change.
+rssGuid = "http://micjm.com/blog/same-perplexity-chart-data-mix/"
 draft = false
 showFooter = true
 description = ""

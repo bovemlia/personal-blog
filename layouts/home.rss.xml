@@ -18,7 +18,7 @@
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
       {{/* Preserve existing item IDs so switching canonical links to HTTPS does not replay old posts. */}}
-      <guid isPermaLink="false">{{ replace .Permalink "https://micjm.com/" "http://micjm.com/" }}</guid>
+      <guid isPermaLink="false">{{ with .Params.rssGuid }}{{ . }}{{ else }}{{ replace .Permalink "https://micjm.com/" "http://micjm.com/" }}{{ end }}</guid>
       <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
     </item>
     {{ end }}
