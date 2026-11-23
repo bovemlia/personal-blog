@@ -1,5 +1,5 @@
 +++
-title = "Chinese models do not overthink"
+title = "Chinese models do not overthink, Gemini 4 Neon does"
 date = "2026-11-23T00:00:00-06:00"
 slug = "do-chinese-models-overthink-compared-to-american-ones"
 draft = false
