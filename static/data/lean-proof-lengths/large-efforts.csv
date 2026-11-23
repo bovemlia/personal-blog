@@ -1,0 +1,19 @@
+repo,name,proves,lean_version,own_lines,imports_all_mathlib,mathlib_closure_lines,total_lines
+AlexKontorovich/PrimeNumberTheoremAnd,PNT+,Prime number theorem and strong forms,4,172343,True,2382405.0,2554748.0
+teorth/equational_theories,Equational theories,Full implication graph of 4694 magma laws,4,166898,False,1013778.0,1180676.0
+leanprover-community/lean-liquid,Liquid Tensor Experiment,Scholze's main theorem of liquid modules,3,98409,False,,
+ImperialCollegeLondon/FLT,Fermat's Last Theorem,Fermat's Last Theorem (ongoing),4,58809,True,2382405.0,2441214.0
+fpvandoorn/carleson,Carleson,Carleson's theorem,4,50197,False,998343.0,1048540.0
+leanprover-community/con-nf,Consistency of NF,Consistency of Quine's New Foundations,4,41693,False,224775.0,266468.0
+RemyDegenne/brownian-motion,Brownian motion,Construction of Brownian motion,4,28416,False,1044208.0,1072624.0
+flypitch/flypitch,Flypitch,Independence of the continuum hypothesis,3,26603,False,,
+teorth/pfr,PFR conjecture,Polynomial Freiman–Ruzsa conjecture,4,21881,False,1072975.0,1094856.0
+thefundamentaltheor3m/Sphere-Packing-Lean,Sphere packing (dim 8),Viazovska's sphere packing in dimension 8,4,15446,False,1103326.0,1118772.0
+leanprover-community/sphere-eversion,Sphere eversion,Existence of sphere eversions (h-principle),4,14923,False,912880.0,927803.0
+b-mehta/unit-fractions,Unit fractions,Bloom's density result for unit fractions,3,12405,False,,
+Ivan-Sergeyev/seymour,Seymour decomposition,Seymour's decomposition of regular matroids,4,9455,False,993884.0,1003339.0
+math-xmum/Brouwer,Brouwer / Nash,Brouwer fixed point and Nash equilibria via Scarf,4,7873,True,2382405.0,2390278.0
+YaelDillies/apap,Kelley–Meka,Kelley–Meka bound on 3-AP-free sets,4,6759,False,991765.0,998524.0
+leanprover-community/flt-regular,FLT for regular primes,Kummer's FLT for regular primes,4,3233,False,1205765.0,1208998.0
+Paul-Lez/PersistentDecomp,Persistence modules,Structure theorem for persistence modules,4,1597,False,470227.0,471824.0
+YaelDillies/chandra-furst-lipton,Chandra–Furst–Lipton,Corner-free sets and communication complexity,4,216,False,255663.0,255879.0

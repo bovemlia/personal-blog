@@ -1,0 +1,260 @@
+list,id,title,decls,modules,own_file_lines,closure_files,closure_lines
+100,63,Cantor’s Theorem,Function.cantor_surjective,Mathlib.Logic.Function.Basic,1273,72,18409
+100,60,Bezout’s Theorem,Nat.gcd_eq_gcd_ab,Mathlib.Data.Int.GCD,324,276,62296
+1000,Q869647,Szpilrajn extension theorem,extend_partialOrder,Mathlib.Order.Extension.Linear,99,241,74572
+100,11,The Infinitude of Primes,Nat.exists_infinite_primes,Mathlib.Data.Nat.Prime.Infinite,57,341,87239
+100,69,Greatest Common Divisor Algorithm,EuclideanDomain.gcd EuclideanDomain.gcd_dvd EuclideanDomain.dvd_gcd,Mathlib.Algebra.EuclideanDomain.Basic Mathlib.Algebra.EuclideanDomain.Defs,700,353,91653
+1000,Q4950096,Bourbaki–Witt theorem,ChainCompletePartialOrder.nonempty_fixedPoints_of_inflationary,Mathlib.Order.BourbakiWitt,296,342,91888
+1000,Q3527263,Kleene fixed-point theorem,fixedPoints.lfp_eq_sSup_iterate,Mathlib.Order.FixedPoints,286,379,104750
+1000,Q609612,Knaster–Tarski theorem,fixedPoints.completeLattice,Mathlib.Order.FixedPoints,286,379,104750
+100,25,Schroeder-Bernstein Theorem,Function.Embedding.schroeder_bernstein,Mathlib.SetTheory.Cardinal.SchroederBernstein,159,384,106034
+100,58,Formula for the Number of Combinations,Finset.card_powersetCard Finset.mem_powersetCard,Mathlib.Data.Finset.Powerset,387,453,127051
+100,52,The Number of Subsets of a Set,Finset.card_powerset,Mathlib.Data.Finset.Powerset,387,453,127051
+100,3,The Denumerability of the Rational Numbers,Rat.instDenumerable,Mathlib.Data.Rat.Denumerable,35,469,128195
+1000,Q1032886,Hales–Jewett theorem,Combinatorics.Line.exists_mono_in_high_dimension,Mathlib.Combinatorics.HalesJewett,515,469,128519
+1000,Q764287,Van der Waerden's theorem,Combinatorics.exists_mono_homothetic_copy,Mathlib.Combinatorics.HalesJewett,515,469,128519
+1000,Q872088,Boolean prime ideal theorem,DistribLattice.prime_ideal_of_disjoint_filter_ideal,Mathlib.Order.PrimeSeparator,127,480,137599
+1000,Q107710112,Cantor's isomorphism theorem,Order.iso_of_countable_dense,Mathlib.Order.CountableDenseLinearOrder,262,478,137635
+100,73,Ascending or Descending Sequences (Erdős–Szekeres Theorem),Theorems100.erdos_szekeres,Archive.Wiedijk100Theorems.AscendingDescendingSequences,168,515,147767
+1000,Q17005116,Birkhoff's representation theorem,LatticeHom.birkhoffSet,Mathlib.Order.Birkhoff,245,535,154906
+1000,Q2525646,Jordan–Hölder theorem,CompositionSeries.jordan_holder,Mathlib.Order.JordanHolder,473,555,158770
+1000,Q1933521,Kleene's recursion theorem,Nat.Partrec.Code.fixed_point₂,Mathlib.Computability.PartrecCode,1058,567,158927
+1000,Q1766814,Smn theorem,Nat.Partrec.Code.smn,Mathlib.Computability.PartrecCode,1058,567,158927
+1000,Q1893717,Rice's theorem,ComputablePred.rice,Mathlib.Computability.Halting,70,569,159243
+1000,Q1457052,Well-ordering theorem,exists_wellFoundedLT,Mathlib.SetTheory.Cardinal.Order,706,571,161803
+1000,Q1077462,König's theorem (set theory),Cardinal.sum_lt_prod,Mathlib.SetTheory.Cardinal.Order,706,571,161803
+100,68,Sum of an arithmetic series,Finset.sum_range_id,Mathlib.Algebra.BigOperators.Intervals,274,598,173151
+1000,Q1188392,Zeckendorf's theorem,Nat.zeckendorfEquiv,Mathlib.Data.Nat.Fib.Zeckendorf,181,635,176056
+1000,Q422187,Myhill–Nerode theorem,Language.isRegular_iff_finite_range_leftQuotient,Mathlib.Computability.MyhillNerode,109,664,176104
+100,42,Sum of the Reciprocals of the Triangular Numbers,Theorems100.inverse_triangle_sum,Archive.Wiedijk100Theorems.InverseTriangleSum,37,658,177315
+100,82,Dissection of Cubes (J.E. Littlewood’s ‘elegant’ proof),Theorems100.«82».cannot_cube_a_cube,Archive.Wiedijk100Theorems.CubingACube,556,651,177814
+1000,Q4878586,Beck's monadicity theorem,CategoryTheory.Monad.monadicOfCreatesGSplitCoequalizers,Mathlib.CategoryTheory.Monad.Monadicity,429,608,182257
+1000,Q1050203,Cantor's intersection theorem,IsCompact.nonempty_sInter_of_directed_nonempty_isCompact_isClosed,Mathlib.Topology.Compactness.Compact,1257,617,182991
+1000,Q1137014,Tychonoff's theorem,isCompact_pi_infinite,Mathlib.Topology.Compactness.Compact,1257,617,182991
+1000,Q288465,Orbit-stabilizer theorem,MulAction.orbitEquivQuotientStabilizer,Mathlib.GroupTheory.GroupAction.Quotient,471,658,185639
+1000,Q7432915,Schroeder–Bernstein theorem for measurable spaces,MeasurableEmbedding.schroederBernstein,Mathlib.MeasureTheory.MeasurableSpace.Embedding,853,653,187603
+1000,Q1065966,Isomorphism theorem,QuotientGroup.quotientKerEquivRange QuotientGroup.quotientInfEquivProdNormalQuotient QuotientGroup.quotientQuotientEquivQuotient,Mathlib.GroupTheory.QuotientGroup.Basic,507,659,190797
+1000,Q1187646,Fundamental theorem on homomorphisms,QuotientGroup.quotientKerEquivRange,Mathlib.GroupTheory.QuotientGroup.Basic,507,659,190797
+1000,Q3527189,Lattice theorem,QuotientGroup.quotientQuotientEquivQuotient,Mathlib.GroupTheory.QuotientGroup.Basic,507,659,190797
+100,88,Derangements Formula,card_derangements_eq_numDerangements numDerangements_sum,Mathlib.Combinatorics.Derangements.Finite,120,701,192147
+1000,Q2226786,Sperner's theorem,IsAntichain.sperner,Mathlib.Combinatorics.SetFamily.LYM,249,694,193256
+1000,Q1065257,Squeeze theorem,tendsto_of_tendsto_of_tendsto_of_le_of_le',Mathlib.Topology.Order.Basic,816,650,195290
+100,96,Principle of Inclusion/Exclusion,Finset.inclusion_exclusion_sum_biUnion Finset.inclusion_exclusion_card_biUnion Finset.inclusion_exclusion_sum_inf_compl Finset.inclusion_exclusion_card_inf_compl,Mathlib.Combinatorics.Enumerative.InclusionExclusion,187,730,196222
+1000,Q3527102,Kruskal–Katona theorem,Finset.kruskal_katona,Mathlib.Combinatorics.SetFamily.KruskalKatona,390,704,199660
+1000,Q718875,Erdős–Ko–Rado theorem,Finset.erdos_ko_rado,Mathlib.Combinatorics.SetFamily.KruskalKatona,390,704,199660
+1000,Q4695203,Four functions theorem,four_functions_theorem,Mathlib.Combinatorics.SetFamily.FourFunctions,401,716,201477
+1000,Q1566341,Hindman's theorem,Hindman.FP_partition_regular,Mathlib.Combinatorics.Hindman,276,672,203745
+1000,Q1535225,Łoś' theorem,FirstOrder.Language.Ultraproduct.sentence_realize,Mathlib.ModelTheory.Ultraproducts,168,706,204987
+100,79,The Intermediate Value Theorem,intermediate_value_Icc,Mathlib.Topology.Order.IntermediateValue,998,701,208024
+1000,Q179208,Cayley's theorem,Equiv.Perm.subgroupOfMulAction,Mathlib.GroupTheory.Perm.Subgroup,78,732,209960
+100,71,Order of a Subgroup,Subgroup.card_subgroup_dvd_card,Mathlib.GroupTheory.Coset.Card,99,728,210249
+100,44,The Binomial Theorem,add_pow,Mathlib.Data.Nat.Choose.Sum,269,783,213003
+100,85,Divisibility by 3 Rule,Nat.three_dvd_iff,Mathlib.Data.Nat.Digits.Div,71,775,213052
+1000,Q752375,Extreme value theorem,IsCompact.exists_isMinOn,Mathlib.Topology.Order.Compact,573,784,229061
+1000,Q765987,Heine–Cantor theorem,CompactSpace.uniformContinuous_of_continuous,Mathlib.Topology.UniformSpace.HeineCantor,154,779,232256
+1000,Q1149458,Compactness theorem,FirstOrder.Language.Theory.isSatisfiable_iff_isFinitelySatisfiable,Mathlib.ModelTheory.Satisfiability,537,791,233168
+1000,Q1068283,Löwenheim–Skolem theorem,FirstOrder.Language.exists_elementaryEmbedding_card_eq,Mathlib.ModelTheory.Satisfiability,537,791,233168
+100,54,Königsberg Bridges Problem,Konigsberg.not_isEulerian,Archive.Wiedijk100Theorems.Konigsberg,87,816,235883
+1000,Q619985,Multinomial theorem,Finset.sum_pow_eq_sum_piAntidiag_of_commute,Mathlib.Data.Nat.Choose.Multinomial,527,870,239195
+1000,Q1259814,Nielsen–Schreier theorem,Subgroup.isFreeGroupOfIsFreeGroup,Mathlib.GroupTheory.FreeGroup.NielsenSchreier,337,918,266523
+1000,Q1896455,Varignon's theorem,midpoint_midpoint_midpoint_rotate,Mathlib.LinearAlgebra.AffineSpace.Midpoint,274,942,270228
+1000,Q1551745,Binomial inverse theorem,Matrix.invOf_add_mul_mul',Mathlib.LinearAlgebra.Matrix.Invertible,253,961,277428
+1000,Q1047749,Turán's theorem,SimpleGraph.isTuranMaximal_iff_nonempty_iso_turanGraph,Mathlib.Combinatorics.SimpleGraph.Extremal.Turan,456,957,285123
+1000,Q1139041,Cauchy's theorem (group theory),exists_prime_orderOf_dvd_card,Mathlib.GroupTheory.Perm.Cycle.Type,792,1018,290488
+1000,Q510197,Tutte theorem,SimpleGraph.tutte,Mathlib.Combinatorics.SimpleGraph.Tutte,324,1011,297104
+1000,Q468391,Bolzano–Weierstrass theorem,tendsto_subseq_of_frequently_bounded tendsto_subseq_of_bounded,Mathlib.Topology.MetricSpace.Sequences,41,1017,297603
+1000,Q2226625,Commandino's theorem,Affine.Simplex.point_vsub_centroid_eq_smul_vsub,Mathlib.LinearAlgebra.AffineSpace.Simplex.Centroid,597,1046,306987
+1000,Q3527217,M. Riesz extension theorem,riesz_extension,Mathlib.Analysis.Convex.Cone.Extension,181,1082,311072
+100,91,The Triangle Inequality,norm_add_le,Mathlib.Analysis.Normed.Group.Basic,1304,1079,312602
+1000,Q2471737,Carathéodory's theorem (convex hull),convexHull_eq_union,Mathlib.Analysis.Convex.Caratheodory,190,1074,314043
+100,80,The Fundamental Theorem of Arithmetic,Nat.primeFactorsList_unique Int.euclideanDomain EuclideanDomain.instIsPrincipalIdealRing UniqueFactorizationMonoid UniqueFactorizationMonoid.factors_unique,Mathlib.Algebra.EuclideanDomain.Int Mathlib.Data.Nat.Factors Mathlib.RingTheory.PrincipalIdealDomain Mathlib.RingTheory.UniqueFactorizationDomain.Basic Mathlib.RingTheory.UniqueFactorizationDomain.Defs,1634,1135,327828
+1000,Q16251580,Matiyasevich's theorem,Pell.matiyasevic,Mathlib.NumberTheory.PellMatiyasevic,894,1160,337355
+1000,Q193878,Chinese remainder theorem,Ideal.quotientInfRingEquivPiQuotient ZMod.chineseRemainder,Mathlib.Data.ZMod.Basic Mathlib.RingTheory.Ideal.Quotient.Operations,2525,1178,345257
+1000,Q17098298,Jacobson density theorem,jacobson_density,Mathlib.RingTheory.SimpleModule.Basic,585,1183,348837
+100,23,Formula for Pythagorean Triples,PythagoreanTriple.classification,Mathlib.NumberTheory.PythagoreanTriples,628,1214,357084
+100,100,Descartes Rule of Signs,Polynomial.roots_countP_pos_le_signVariations,Mathlib.Algebra.Polynomial.RuleOfSigns,361,1213,360109
+1000,Q7433182,Schwartz–Zippel theorem,MvPolynomial.schwartz_zippel_sup_sum,Mathlib.Algebra.MvPolynomial.SchwartzZippel,204,1232,365662
+1000,Q3527205,Dimension theorem for vector spaces,mk_eq_mk_of_basis,Mathlib.LinearAlgebra.Dimension.StrongRankCondition,673,1252,371716
+1000,Q536640,Hall's marriage theorem,Finset.all_card_le_biUnion_card_iff_exists_injective SimpleGraph.exists_isPerfectMatching_of_forall_ncard_le,Mathlib.Combinatorics.Hall.Basic Mathlib.Combinatorics.SimpleGraph.Hall,342,1215,373439
+100,72,Sylow’s Theorem,Sylow.exists_subgroup_card_pow_prime Sylow.isPretransitive_of_finite Sylow.card_dvd_index card_sylow_modEq_one,Mathlib.GroupTheory.Sylow,944,1286,379056
+1000,Q2226800,Schur–Zassenhaus theorem,Subgroup.exists_left_complement'_of_coprime,Mathlib.GroupTheory.SchurZassenhaus,301,1289,380437
+1000,Q5463860,Focal subgroup theorem,Subgroup.commutator_inf_eq_focalSubgroup,Mathlib.GroupTheory.Focal,226,1290,380725
+100,89,The Factor and Remainder Theorems,Polynomial.dvd_iff_isRoot Polynomial.mod_X_sub_C_eq_C_eval,Mathlib.Algebra.Polynomial.Div Mathlib.Algebra.Polynomial.FieldDivision,1670,1272,381583
+1000,Q172298,Lasker–Noether theorem,Submodule.isPrimary_decomposition_pairwise_ne_radical,Mathlib.RingTheory.Lasker,279,1285,385212
+100,17,De Moivre’s Formula,Complex.cos_add_sin_mul_I_pow,Mathlib.Analysis.Complex.Trigonometric,1050,1295,386445
+1000,Q303402,Rank–nullity theorem,LinearMap.rank_range_add_rank_ker,Mathlib.LinearAlgebra.Dimension.RankNullity,303,1291,386520
+1000,Q656645,Hilbert's basis theorem,Polynomial.isNoetherianRing,Mathlib.RingTheory.Polynomial.Basic,1000,1286,387531
+1000,Q6783821,Mason–Stothers theorem,Polynomial.abc,Mathlib.NumberTheory.FLT.MasonStothers,100,1296,390012
+1000,Q570779,Vieta's formulas,Multiset.prod_X_add_C_eq_sum_esymm,Mathlib.RingTheory.Polynomial.Vieta,162,1314,394805
+1000,Q776578,Wedderburn–Artin theorem,IsSimpleRing.exists_algEquiv_matrix_divisionRing IsSemisimpleRing.exists_algEquiv_pi_matrix_divisionRing,Mathlib.RingTheory.SimpleModule.WedderburnArtin,256,1344,401329
+1000,Q1186808,Lucas's theorem,Choose.lucas_theorem,Mathlib.Data.Nat.Choose.Lucas,227,1340,406901
+100,97,Cramer’s Rule,Matrix.mulVec_cramer,Mathlib.LinearAlgebra.Matrix.Adjugate,520,1358,412391
+1000,Q595466,Dini's theorem,Monotone.tendstoLocallyUniformly_of_forall_tendsto,Mathlib.Topology.UniformSpace.Dini,166,1413,428145
+100,45,The Partition Theorem,Nat.Partition.card_odds_eq_card_distincts,Mathlib.Combinatorics.Enumerative.Partition.Glaisher,163,1390,428396
+1000,Q5566491,Glaisher's theorem,Nat.Partition.card_restricted_eq_card_countRestricted,Mathlib.Combinatorics.Enumerative.Partition.Glaisher,163,1390,428396
+100,66,Sum of a Geometric Series,geom_sum_Ico NNReal.hasSum_geometric,Mathlib.Algebra.Field.GeomSum Mathlib.Analysis.SpecificLimits.Basic,848,1433,435551
+1000,Q220680,Banach fixed-point theorem,ContractingWith.exists_fixedPoint,Mathlib.Topology.MetricSpace.Contracting,327,1438,436747
+1000,Q258374,Carathéodory's theorem (measure theory),MeasureTheory.OuterMeasure.caratheodory,Mathlib.MeasureTheory.OuterMeasure.Caratheodory,263,1443,438468
+1000,Q1477053,Arzelà–Ascoli theorem,BoundedContinuousFunction.arzela_ascoli,Mathlib.Topology.ContinuousMap.Bounded.ArzelaAscoli,125,1436,439316
+1000,Q1052678,Baire category theorem,BaireSpace.of_completelyPseudoMetrizable BaireSpace.of_t2Space_locallyCompactSpace,Mathlib.Topology.Baire.CompleteMetrizable Mathlib.Topology.Baire.LocallyCompactRegular,193,1444,439469
+100,22,The Non-Denumerability of the Continuum,Cardinal.not_countable_real,Mathlib.Analysis.Real.Cardinality,305,1458,445353
+1000,Q182505,Bayes' theorem,ProbabilityTheory.cond_eq_inv_mul_cond_mul,Mathlib.Probability.ConditionalProbability,311,1475,449759
+1000,Q1148215,Mitchell's embedding theorem,CategoryTheory.Abelian.freyd_mitchell,Mathlib.CategoryTheory.Abelian.FreydMitchell,173,1516,451473
+1000,Q2631152,Carathéodory's extension theorem,MeasureTheory.AddContent.measure MeasureTheory.AddContent.measure_eq,Mathlib.MeasureTheory.OuterMeasure.OfAddContent,180,1479,451704
+1000,Q656198,Maschke's theorem,MonoidAlgebra.Submodule.exists_isCompl,Mathlib.RepresentationTheory.Maschke,191,1490,452437
+1000,Q3229352,Vitali covering theorem,Vitali.exists_disjoint_covering_ae,Mathlib.MeasureTheory.Covering.Vitali,500,1483,453601
+1000,Q1568811,Hahn decomposition theorem,MeasureTheory.SignedMeasure.exists_isCompl_positive_negative,Mathlib.MeasureTheory.VectorMeasure.Decomposition.Hahn,448,1485,454413
+1000,Q226014,Poincaré recurrence theorem,MeasureTheory.Conservative.ae_mem_imp_frequently_image_mem,Mathlib.Dynamics.Ergodic.Conservative,231,1490,454917
+100,86,Lebesgue Measure and Integration,MeasureTheory.lintegral,Mathlib.MeasureTheory.Integral.Lebesgue.Basic,713,1494,458457
+1000,Q7660749,Sylvester's determinant theorem,Matrix.det_one_add_mul_comm,Mathlib.LinearAlgebra.Matrix.SchurComplement,446,1510,458577
+100,49,The Cayley-Hamilton Theorem,Matrix.aeval_self_charpoly,Mathlib.LinearAlgebra.Matrix.Charpoly.Basic,327,1522,463801
+1000,Q1632433,Helly's theorem,Convex.helly_theorem,Mathlib.Analysis.Convex.Radon,283,1511,467476
+1000,Q1471282,Radon's theorem,Convex.radon_partition,Mathlib.Analysis.Convex.Radon,283,1511,467476
+1000,Q1194053,Metrization theorems,TopologicalSpace.metrizableSpace_of_t3_secondCountable,Mathlib.Topology.Metrizable.Urysohn,132,1522,471174
+1000,Q5437947,Fatou–Lebesgue theorem,MeasureTheory.lintegral_liminf_le,Mathlib.MeasureTheory.Integral.Lebesgue.Add,504,1535,473015
+1000,Q3527219,Weierstrass preparation theorem,PowerSeries.exists_isWeierstrassFactorization,Mathlib.RingTheory.PowerSeries.WeierstrassPreparation,902,1559,473609
+100,61,Theorem of Ceva,Affine.Triangle.prod_dist_div_dist_eq_one_of_mem_line_of_mem_line,Mathlib.Analysis.Normed.Affine.Ceva,59,1537,479731
+1000,Q1191709,Egorov's theorem,MeasureTheory.tendstoUniformlyOn_of_ae_tendsto,Mathlib.MeasureTheory.Function.Egorov,271,1594,497696
+1000,Q3527166,Steinhaus theorem,MeasureTheory.Measure.div_mem_nhds_one_of_haar_pos,Mathlib.MeasureTheory.Measure.Haar.Basic,705,1624,507621
+100,30,The Ballot Problem,Ballot.ballot_problem,Archive.Wiedijk100Theorems.BallotProblem,366,1628,507732
+100,1,The Irrationality of the Square Root of 2,irrational_sqrt_two,Mathlib.NumberTheory.Real.Irrational,519,1621,508159
+1000,Q180345,Rational root theorem,num_dvd_of_is_root den_dvd_of_is_root,Mathlib.RingTheory.Polynomial.RationalRoot,149,1667,508793
+1000,Q180345X,Integral root theorem,isInteger_of_is_root_of_monic,Mathlib.RingTheory.Polynomial.RationalRoot,149,1667,508793
+1000,Q791663,Beatty's theorem,Irrational.beattySeq_symmDiff_beattySeq_pos compl_beattySeq,Mathlib.NumberTheory.Rayleigh,180,1627,509969
+1000,Q5638886,Hahn embedding theorem,hahnEmbedding_isOrderedAddMonoid,Mathlib.RingTheory.HahnSeries.HahnEmbedding,99,1625,511681
+1000,Q1426292,Banach–Steinhaus theorem,banach_steinhaus,Mathlib.Analysis.Normed.Operator.BanachSteinhaus,57,1634,512948
+1000,Q191693,Lebesgue's decomposition theorem,MeasureTheory.Measure.haveLebesgueDecomposition_of_sigmaFinite,Mathlib.MeasureTheory.Measure.Decomposition.Lebesgue,1106,1648,516813
+1000,Q1346677,Tietze extension theorem,BoundedContinuousFunction.exists_extension_norm_eq_of_isClosedEmbedding,Mathlib.Topology.TietzeExtension,528,1651,518157
+100,39,Solutions to Pell’s Equation,Pell.eq_pell Pell.exists_of_not_isSquare,Mathlib.NumberTheory.Pell Mathlib.NumberTheory.PellMatiyasevic,1559,1657,521506
+1000,Q1068085,Closed graph theorem,LinearMap.continuous_of_isClosed_graph,Mathlib.Analysis.Normed.Operator.Banach,645,1655,523525
+1000,Q944297,Open mapping theorem (functional analysis),ContinuousLinearMap.isOpenMap,Mathlib.Analysis.Normed.Operator.Banach,645,1655,523525
+100,10,Euler’s Generalization of Fermat’s Little Theorem,Nat.ModEq.pow_totient,Mathlib.FieldTheory.Finite.Basic,855,1729,525644
+1000,Q188295,Fermat's little theorem,ZMod.pow_card_sub_one_eq_one,Mathlib.FieldTheory.Finite.Basic,855,1729,525644
+100,19,Four Squares Theorem,Nat.sum_four_squares,Mathlib.NumberTheory.SumFourSquares,214,1730,525858
+100,51,Wilson’s Lemma,ZMod.wilsons_lemma,Mathlib.NumberTheory.Wilson,132,1732,525897
+1000,Q720469,Chevalley–Warning theorem,char_dvd_card_solutions_of_sum_lt,Mathlib.FieldTheory.ChevalleyWarning,197,1737,527516
+1000,Q716171,Erdős–Ginzburg–Ziv theorem,ZMod.erdos_ginzburg_ziv,Mathlib.Combinatorics.Additive.ErdosGinzburgZiv,204,1738,527720
+1000,Q318767,Abel's theorem,Complex.tendsto_tsum_powerSeries_nhdsWithin_stolzCone Real.tendsto_tsum_powerSeries_nhdsWithin_lt,Mathlib.Analysis.Complex.AbelLimit,278,1675,531084
+1000,Q2093886,Primitive element theorem,Field.exists_primitive_element,Mathlib.FieldTheory.PrimitiveElement,408,1754,532902
+1000,Q931001,Inverse function theorem,HasStrictFDerivAt.to_localInverse,Mathlib.Analysis.Calculus.InverseFunctionTheorem.FDeriv,207,1682,533680
+1000,Q1068976,Hilbert's Nullstellensatz,MvPolynomial.vanishingIdeal_zeroLocus_eq_radical,Mathlib.RingTheory.Nullstellensatz,188,1759,534400
+100,83,The Friendship Theorem,Theorems100.friendship_theorem,Archive.Wiedijk100Theorems.FriendshipGraphs,339,1752,534938
+100,20,All Primes (1 mod 4) Equal the Sum of Two Squares,Nat.Prime.sq_add_sq,Mathlib.NumberTheory.SumTwoSquares,235,1771,539504
+100,78,The Cauchy-Schwarz Inequality,inner_mul_inner_self_le norm_inner_le_norm,Mathlib.Analysis.InnerProductSpace.Basic,1049,1719,548354
+1000,Q727102,Fermat's theorem (stationary points),IsLocalExtr.deriv_eq_zero IsLocalExtr.fderiv_eq_zero,Mathlib.Analysis.Calculus.LocalExtr.Basic,264,1717,548647
+1000,Q18630480,Euler's quadrilateral theorem,EuclideanGeometry.dist_sq_add_dist_sq_add_dist_sq_add_dist_sq_eq_dist_sq_add_dist_sq_add_four_mul_dist_sq,Mathlib.Geometry.Euclidean.EulerQuadrilateral,73,1721,548685
+1000,Q193286,Rolle's theorem,exists_deriv_eq_zero,Mathlib.Analysis.Calculus.LocalExtr.Rolle,86,1721,549046
+1000,Q3527215,Hilbert projection theorem,exists_norm_eq_iInf_of_complete_convex,Mathlib.Analysis.InnerProductSpace.Projection.Minimal,309,1734,554733
+1000,Q2379132,Going-up and going-down theorems,Ideal.exists_ideal_over_prime_of_isIntegral_of_isDomain Ideal.exists_ideal_over_prime_of_isIntegral_of_isPrime Algebra.HasGoingDown.iff_generalizingMap_primeSpectrumComap Algebra.HasGoingDown.of_comap_localRingHom_surjective,Mathlib.RingTheory.Ideal.GoingDown Mathlib.RingTheory.Ideal.GoingUp,634,1795,555626
+1000,Q20971632,Lie's theorem,LieModule.exists_nontrivial_weightSpace_of_isSolvable,Mathlib.Algebra.Lie.LieTheorem,258,1826,560061
+1000,Q4830725,Ax–Grothendieck theorem,ax_grothendieck_zeroLocus,Mathlib.FieldTheory.AxGrothendieck,242,1840,561465
+1000,Q3527241,Krull's principal ideal theorem,Ideal.height_le_one_of_isPrincipal_of_mem_minimalPrimes,Mathlib.RingTheory.Ideal.KrullsHeightTheorem,519,1846,570102
+1000,Q660799,Darboux's theorem (analysis),exists_hasDerivWithinAt_eq_of_gt_of_lt exists_hasDerivWithinAt_eq_of_lt_of_gt Set.OrdConnected.image_hasDerivWithinAt Set.OrdConnected.image_derivWithin Set.OrdConnected.image_deriv Convex.image_hasDerivWithinAt Convex.image_derivWithin Convex.image_deriv exists_hasDerivWithinAt_eq_of_ge_of_le exists_hasDerivWithinAt_eq_of_le_of_ge,Mathlib.Analysis.Calculus.Darboux,146,1768,570336
+1000,Q1038716,Identity theorem,AnalyticOnNhd.eqOn_of_preconnected_of_frequently_eq,Mathlib.Analysis.Analytic.IsolatedZeros,362,1775,571778
+1000,Q25378679,Euler's theorem on homogeneous functions,HasFDerivAt.apply_self_eq_smul_of_eventuallyEq HasFDerivAt.apply_self_eq_smul_of_homogeneous HasFDerivAt.apply_self_eq_nsmul_of_homogeneous,Mathlib.Analysis.Calculus.LineDeriv.Basic,589,1775,572223
+1000,Q978688,Gershgorin circle theorem,eigenvalue_mem_ball,Mathlib.LinearAlgebra.Matrix.Gershgorin,76,1831,577197
+1000,Q1752621,Sylvester's law of inertia,QuadraticForm.equivalent_one_zero_neg_one_weighted_sum_squared,Mathlib.LinearAlgebra.QuadraticForm.Real,93,1841,581046
+100,38,Arithmetic Mean/Geometric Mean,Real.geom_mean_le_arith_mean_weighted,Mathlib.Analysis.MeanInequalities,1270,1819,586729
+100,75,The Mean Value Theorem,exists_deriv_eq_slope,Mathlib.Analysis.Calculus.Deriv.MeanValue,536,1826,588514
+1000,Q189136,Mean value theorem,exists_deriv_eq_slope exists_ratio_deriv_eq_ratio_slope,Mathlib.Analysis.Calculus.Deriv.MeanValue,536,1826,588514
+100,64,L’Hopital’s Rule,deriv.lhopital_zero_nhds,Mathlib.Analysis.Calculus.LHopital,465,1828,589213
+1000,Q939927,Stone–Weierstrass theorem,ContinuousMap.subalgebra_topologicalClosure_eq_top_of_separatesPoints,Mathlib.Topology.ContinuousMap.StoneWeierstrass,712,1863,597117
+1000,Q5171652,Corners theorem,corners_theorem_nat,Mathlib.Combinatorics.Additive.Corner.Roth,195,1864,599879
+1000,Q1816952,Schur's lemma,CategoryTheory.finrank_endomorphism_simple_eq_one,Mathlib.CategoryTheory.Preadditive.Schur,201,1960,605411
+1000,Q859122,Cauchy–Hadamard theorem,FormalMultilinearSeries.radius_inv_eq_limsup,Mathlib.Analysis.Analytic.RadiusLiminf,70,1877,605788
+1000,Q7888360,Structure theorem for finitely generated modules over a principal ideal domain,Module.equiv_free_prod_directSum,Mathlib.Algebra.Module.PID,284,1996,622888
+1000,Q1472120,Hellinger&ndash;Toeplitz theorem,LinearMap.IsSymmetric.continuous,Mathlib.Analysis.InnerProductSpace.Symmetric,376,1939,625838
+1000,Q4971339,British flag theorem,EuclideanGeometry.dist_sq_add_dist_sq_eq_dist_sq_add_dist_sq_of_angle_eq_pi_div_two,Mathlib.Geometry.Euclidean.BritishFlag,107,1969,637810
+1000,Q3527118,Mahler's theorem,PadicInt.hasSum_mahler,Mathlib.NumberTheory.Padics.MahlerBasis,412,2007,642535
+1000,Q2226868,Geometric mean theorem,EuclideanGeometry.dist_sq_eq_dist_mul_dist_of_angle_eq_pi_div_two,Mathlib.Geometry.Euclidean.Angle.Unoriented.RightAngle,520,2004,649965
+100,4,Pythagorean Theorem,EuclideanGeometry.dist_sq_eq_dist_sq_add_dist_sq_iff_angle_eq_pi_div_two,Mathlib.Geometry.Euclidean.Angle.Unoriented.RightAngle,520,2004,649965
+100,18,Liouville’s Theorem and the Construction of Transcendental Numbers,Liouville.transcendental,Mathlib.NumberTheory.Transcendental.Liouville.Basic,221,2016,655507
+1000,Q4116459,Niven's theorem,niven,Mathlib.NumberTheory.Niven,169,2057,655972
+100,98,Bertrand’s Postulate,Nat.bertrand,Mathlib.NumberTheory.Bertrand,247,2024,658831
+1000,Q3527230,Von Staudt–Clausen theorem,Bernoulli.vonStaudt_clausen,Mathlib.NumberTheory.Bernoulli,766,2098,660162
+100,77,Sum of kth powers,sum_range_pow sum_Ico_pow,Mathlib.NumberTheory.Bernoulli,766,2098,660162
+1000,Q420714,Akra–Bazzi theorem,AkraBazziRecurrence.isBigO_asympBound,Mathlib.Computability.AkraBazzi.AkraBazzi,680,2035,663922
+1000,Q642620,Krein–Milman theorem,closure_convexHull_extremePoints,Mathlib.Analysis.Convex.KreinMilman,125,2088,670898
+1000,Q866116,Hahn–Banach theorem,exists_extension_norm_eq,Mathlib.Analysis.Normed.Module.HahnBanach,104,2100,673771
+1000,Q848375,Implicit function theorem,ImplicitFunctionData.implicitFunction,Mathlib.Analysis.Calculus.Implicit,539,2110,679832
+1000,Q253214,Heine–Borel theorem,Metric.isCompact_iff_isClosed_bounded FiniteDimensional.proper,Mathlib.Analysis.Normed.Module.FiniteDimension Mathlib.Topology.MetricSpace.Bounded,1418,2122,683715
+1000,Q537618,Banach–Alaoglu theorem,WeakDual.isCompact_polar,Mathlib.Analysis.Normed.Module.WeakDual,455,2152,691901
+100,34,Divergence of the Harmonic Series,Real.tendsto_sum_range_one_div_nat_succ_atTop,Mathlib.Analysis.PSeries,476,2175,705365
+100,81,Divergence of the Prime Reciprocal Series,Theorems100.Real.tendsto_sum_one_div_prime_atTop not_summable_one_div_on_primes,Archive.Wiedijk100Theorems.SumOfPrimeReciprocalsDiverges Mathlib.NumberTheory.SumPrimeReciprocals,378,2185,708108
+1000,Q1357684,Riesz representation theorem,InnerProductSpace.toDual,Mathlib.Analysis.InnerProductSpace.Dual,241,2217,724074
+1000,Q9993851,Lax–Milgram theorem,IsCoercive.continuousLinearEquivOfBilin,Mathlib.Analysis.InnerProductSpace.LaxMilgram,117,2218,724191
+1000,Q739403,Stewart's theorem,EuclideanGeometry.dist_sq_mul_dist_add_dist_sq_mul_dist,Mathlib.Geometry.Euclidean.Triangle,555,2273,744932
+100,94,The Law of Cosines,EuclideanGeometry.dist_sq_eq_dist_sq_add_dist_sq_sub_two_mul_dist_mul_dist_mul_cos_angle,Mathlib.Geometry.Euclidean.Triangle,555,2273,744932
+1000,Q877489,Apollonius's theorem,EuclideanGeometry.dist_sq_add_dist_sq_eq_two_mul_dist_midpoint_sq_add_half_dist_sq,Mathlib.Geometry.Euclidean.Triangle,555,2273,744932
+100,27,Sum of the Angles of a Triangle,EuclideanGeometry.angle_add_angle_add_angle_eq_pi,Mathlib.Geometry.Euclidean.Triangle,555,2273,744932
+1000,Q5421989,Exterior angle theorem,EuclideanGeometry.exterior_angle_eq_angle_add_angle,Mathlib.Geometry.Euclidean.Triangle,555,2273,744932
+100,65,Isosceles Triangle Theorem,EuclideanGeometry.angle_eq_angle_of_dist_eq,Mathlib.Geometry.Euclidean.Triangle,555,2273,744932
+1000,Q154210,CPCTC,EuclideanGeometry.triangle_congruent_iff_dist_eq EuclideanGeometry.angle_eq_of_congruent,Mathlib.Geometry.Euclidean.Congruence,115,2275,745239
+1000,Q285719,Thales's theorem,EuclideanGeometry.Sphere.thales_theorem,Mathlib.Geometry.Euclidean.Angle.Sphere,618,2284,748870
+1000,Q2267175,Tangent-secant theorem,EuclideanGeometry.Sphere.dist_sq_eq_mul_dist_of_tangent_and_secant,Mathlib.Geometry.Euclidean.Sphere.Power,336,2292,751181
+100,55,Product of Segments of Chords,EuclideanGeometry.mul_dist_eq_mul_dist_of_cospherical_of_angle_eq_pi,Mathlib.Geometry.Euclidean.Sphere.Power,336,2292,751181
+1000,Q1727461,Intersecting secants theorem,EuclideanGeometry.mul_dist_eq_mul_dist_of_cospherical_of_angle_eq_zero,Mathlib.Geometry.Euclidean.Sphere.Power,336,2292,751181
+100,95,Ptolemy’s Theorem,EuclideanGeometry.mul_dist_add_mul_dist_eq_mul_dist_of_cospherical,Mathlib.Geometry.Euclidean.Sphere.Ptolemy,76,2293,751257
+1000,Q11352023,Vitali convergence theorem,MeasureTheory.tendstoInMeasure_iff_tendsto_Lp,Mathlib.MeasureTheory.Function.UnifTight,377,2311,759596
+1000,Q1153584,Monotone convergence theorem,MeasureTheory.integral_tendsto_of_tendsto_of_antitone MeasureTheory.lintegral_tendsto_of_tendsto_of_monotone,Mathlib.MeasureTheory.Integral.Bochner.Basic Mathlib.MeasureTheory.Integral.Lebesgue.Add,1938,2330,766471
+1000,Q1243340,Birkhoff–Von Neumann theorem,doublyStochastic_eq_convexHull_permMatrix,Mathlib.Analysis.Convex.Birkhoff,207,2355,771082
+1000,Q1191319,Radon–Nikodym theorem,MeasureTheory.Measure.absolutelyContinuous_iff_withDensity_rnDeriv_eq,Mathlib.MeasureTheory.Measure.Decomposition.RadonNikodym,671,2396,792238
+1000,Q2275191,Lebesgue differentiation theorem,VitaliFamily.ae_tendsto_lintegral_div,Mathlib.MeasureTheory.Covering.Differentiation,884,2399,793745
+1000,Q1067156X,Bounded convergence theorem,MeasureTheory.FiniteMeasure.tendsto_lintegral_nn_of_le_const MeasureTheory.tendsto_lintegral_nn_filter_of_le_const,Mathlib.MeasureTheory.Measure.FiniteMeasure Mathlib.MeasureTheory.Measure.HasOuterApproxClosed,1311,2407,794532
+1000,Q137164,Besicovitch covering theorem,Besicovitch.exists_disjoint_closedBall_covering_ae,Mathlib.MeasureTheory.Covering.Besicovitch,1111,2400,794856
+1000,Q842953,Lebesgue's density theorem,Besicovitch.ae_tendsto_measure_inter_div,Mathlib.MeasureTheory.Covering.Besicovitch,1111,2400,794856
+100,40,Minkowski’s Fundamental Theorem,MeasureTheory.exists_ne_zero_mem_lattice_of_measure_mul_two_pow_lt_measure,Mathlib.MeasureTheory.Group.GeometryOfNumbers,144,2422,805757
+1000,Q1149022,Fubini's theorem,MeasureTheory.integral_prod,Mathlib.MeasureTheory.Integral.Prod,648,2427,807622
+1000,Q1067156,Dominated convergence theorem,MeasureTheory.tendsto_integral_of_dominated_convergence,Mathlib.MeasureTheory.Integral.DominatedConvergence,719,2427,807702
+100,15,Fundamental Theorem of Integral Calculus,intervalIntegral.integral_hasStrictDerivAt_of_tendsto_ae_right intervalIntegral.integral_eq_sub_of_hasDeriv_right_of_le,Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus,1277,2454,818677
+1000,Q338886,Divergence theorem,MeasureTheory.integral_divergence_of_hasFDerivAt_off_countable,Mathlib.MeasureTheory.Integral.DivergenceTheorem,566,2458,820770
+1000,Q7249519,Prokhorov's theorem,isCompact_setOfPred_finiteMeasure_mass_le_compl_isCompact_le isCompact_setOfPred_finiteMeasure_mass_eq_compl_isCompact_le isCompact_setOfPred_probabilityMeasure_mass_eq_compl_isCompact_le isCompact_closure_of_isTightMeasureSet,Mathlib.MeasureTheory.Measure.Prokhorov,725,2464,821390
+1000,Q1227703,Dirichlet's approximation theorem,AddCircle.exists_norm_nsmul_le Real.exists_int_int_abs_mul_sub_le Real.exists_nat_abs_mul_sub_round_le Real.exists_rat_abs_sub_le_and_den_le,Mathlib.NumberTheory.DiophantineApproximation.Basic Mathlib.NumberTheory.WellApproximable,942,2480,825958
+100,37,The Solution of a Cubic,Theorems100.cubic_eq_zero_iff,Archive.Wiedijk100Theorems.SolutionOfCubicQuartic,256,2553,826377
+100,46,The Solution of the General Quartic Equation,Theorems100.quartic_eq_zero_iff,Archive.Wiedijk100Theorems.SolutionOfCubicQuartic,256,2553,826377
+100,9,The Area of a Circle,Theorems100.area_disc,Archive.Wiedijk100Theorems.AreaOfACircle,134,2534,851722
+1000,Q943246,Wedderburn's little theorem,littleWedderburn,Mathlib.RingTheory.LittleWedderburn,181,2632,855096
+1000,Q2919401,Ostrowski's theorem,Rat.AbsoluteValue.equiv_real_or_padic RatFunc.valuation_isEquiv_infty_or_adic,Mathlib.NumberTheory.Ostrowski Mathlib.NumberTheory.RatFunc.Ostrowski,734,2627,855851
+1000,Q1137206,Taylor's theorem,taylor_mean_remainder_lagrange taylor_mean_remainder_cauchy,Mathlib.Analysis.Calculus.Taylor,565,2546,859427
+100,35,Taylor’s Theorem,taylor_mean_remainder_lagrange taylor_mean_remainder_cauchy map_add_eq_sum_add_integral_iteratedFDeriv,Mathlib.Analysis.Calculus.Taylor Mathlib.Analysis.Calculus.TaylorIntegral,703,2547,859565
+100,7,Law of Quadratic Reciprocity,legendreSym.quadratic_reciprocity jacobiSym.quadratic_reciprocity,Mathlib.NumberTheory.LegendreSymbol.JacobiSymbol Mathlib.NumberTheory.LegendreSymbol.QuadraticReciprocity,771,2656,862433
+100,70,The Perfect Number Theorem,Theorems100.Nat.eq_two_pow_mul_prime_mersenne_of_even_perfect,Archive.Wiedijk100Theorems.PerfectNumbers,126,2661,863303
+100,90,Stirling’s Formula,Stirling.tendsto_stirlingSeq_sqrt_pi,Mathlib.Analysis.SpecialFunctions.Stirling,282,2569,865770
+100,26,Leibniz’s Series for Pi,Real.tendsto_sum_pi_div_four,Mathlib.Analysis.Real.Pi.Leibniz,62,2575,866787
+1000,Q530152,Picard–Lindelöf theorem,IsPicardLindelof.exists_eq_forall_mem_Icc_hasDerivWithinAt,Mathlib.Analysis.ODE.ExistUnique,351,2574,867333
+1000,Q282649,Pentagonal number theorem,PowerSeries.WithPiTopology.hasProd_one_sub_X_pow hasProd_eulerFunction,Mathlib.Combinatorics.Enumerative.Pentagonal.EulerFunction Mathlib.Combinatorics.Enumerative.Pentagonal.PowerSeries,349,2592,873107
+1000,Q1140119,Morera's theorem,Complex.isConservativeOn_and_continuousOn_iff_isDifferentiableOn,Mathlib.Analysis.Complex.HasPrimitives,315,2608,880740
+1000,Q576478,Liouville's theorem (complex analysis),Differentiable.apply_eq_apply_of_bounded,Mathlib.Analysis.Complex.Liouville,208,2610,881223
+1000,Q1306095,Whitney embedding theorem,exists_embedding_euclidean_of_compact,Mathlib.Geometry.Manifold.WhitneyEmbedding,139,2606,881337
+1000,Q4378868,Phragmén–Lindelöf theorem,PhragmenLindelof.horizontal_strip,Mathlib.Analysis.Complex.PhragmenLindelof,829,2617,882663
+1000,Q3229335,Borel–Carathéodory theorem,Complex.borelCaratheodory,Mathlib.Analysis.Complex.BorelCaratheodory,125,2624,883155
+1000,Q3527250,Hadamard three-lines theorem,Complex.HadamardThreeLines.norm_le_interpStrip_of_mem_verticalClosedStrip,Mathlib.Analysis.Complex.Hadamard,624,2618,883287
+1000,Q3984053,Fourier inversion theorem,Continuous.fourierInv_fourier_eq,Mathlib.Analysis.Fourier.Inversion,197,2640,890323
+1000,Q179467,Fourier theorem,MeasureTheory.Integrable.fourierInv_fourier_eq Continuous.fourierInv_fourier_eq,Mathlib.Analysis.Fourier.Inversion,197,2640,890323
+1000,Q6813106,Mellin inversion theorem,mellinInv_mellin_eq,Mathlib.Analysis.MellinInversion,124,2642,890906
+100,57,Heron’s Formula,Affine.Triangle.volume_eq_sqrt_mul_sub_mul_sub_mul_sub,Mathlib.Geometry.Euclidean.Volume.Triangle,97,2643,891475
+1000,Q132427,Rademacher's theorem,LipschitzOnWith.ae_differentiableWithinAt,Mathlib.Analysis.Calculus.Rademacher,404,2637,891813
+100,93,The Birthday Problem,Theorems100.birthday Theorems100.birthday_measure,Archive.Wiedijk100Theorems.BirthdayProblem,66,2719,901814
+100,62,Fair Games Theorem,MeasureTheory.submartingale_iff_expected_stoppedValue_mono,Mathlib.Probability.Martingale.OptionalStopping,223,2760,918215
+100,59,The Laws of Large Numbers,ProbabilityTheory.strong_law_ae,Mathlib.Probability.StrongLaw,869,2764,921225
+1000,Q5165492,Continuous mapping theorem,MeasureTheory.TendstoInDistribution.continuous_comp,Mathlib.MeasureTheory.Function.ConvergenceInDistribution,347,2777,926349
+1000,Q643826,Slutsky's theorem,MeasureTheory.TendstoInDistribution.continuous_comp_prodMk_of_tendstoInMeasure_const,Mathlib.MeasureTheory.Function.ConvergenceInDistribution,347,2777,926349
+100,2,Fundamental Theorem of Algebra,Complex.exists_root,Mathlib.Analysis.Complex.Polynomial.Basic,208,2765,930961
+1000,Q192760,Fundamental theorem of algebra,Complex.isAlgClosed,Mathlib.Analysis.Complex.Polynomial.Basic,208,2765,930961
+1000,Q1008566,Gauss–Lucas theorem,Polynomial.rootSet_derivative_subset_convexHull_rootSet Polynomial.eq_centerMass_of_eval_derivative_eq_zero,Mathlib.Analysis.Complex.Polynomial.GaussLucas,107,2766,931068
+1000,Q967972,Open mapping theorem (complex analysis),AnalyticOnNhd.is_constant_or_isOpen,Mathlib.Analysis.Complex.OpenMapping,278,2775,932491
+100,76,Fourier Series,AddCircle.fourierCoeff AddCircle.hasSum_fourier_series_L2,Mathlib.Analysis.Fourier.AddCircle,759,2785,933528
+1000,Q1443036,Parseval's theorem,AddCircle.tsum_sq_fourierCoeff,Mathlib.Analysis.Fourier.AddCircle,759,2785,933528
+100,16,Insolvability of General Higher Degree Equations (Abel-Ruffini Theorem),AbelRuffini.exists_not_solvable_by_rad,Archive.Wiedijk100Theorems.AbelRuffini,175,2787,936850
+1000,Q2226677,Gelfand–Mazur theorem,NormedRing.algEquivComplexOfComplete NormedAlgebra.Complex.algEquivOfNormMul NormedAlgebra.Real.nonempty_algEquiv_or,Mathlib.Analysis.Normed.Algebra.GelfandFormula Mathlib.Analysis.Normed.Algebra.GelfandMazur,652,2783,937335
+1000,Q25378690,Ionescu-Tulcea theorem,ProbabilityTheory.Kernel.traj,Mathlib.Probability.Kernel.IonescuTulcea.Traj,793,2820,939989
+100,99,Buffon Needle Problem,BuffonsNeedle.buffon_short BuffonsNeedle.buffon_long,Archive.Wiedijk100Theorems.BuffonsNeedle,354,2834,945739
+100,14,Euler’s Summation of 1 + (1/2)^2 + (1/3)^2 + ….,hasSum_zeta_two,Mathlib.NumberTheory.ZetaValues,481,2860,958099
+1000,Q1227702,Dirichlet's unit theorem,NumberField.Units.basisModTorsion NumberField.Units.exist_unique_eq_mul_prod,Mathlib.NumberTheory.NumberField.Units.DirichletTheorem,535,2916,975380
+1000,Q7208500,Poisson limit theorem,ProbabilityTheory.tendsto_choose_mul_pow_of_tendsto_mul_atTop,Mathlib.Probability.Distributions.Poisson.PoissonLimitThm,89,2940,978497
+1000,Q5445112,Fernique's theorem,ProbabilityTheory.IsGaussian.exists_integrable_exp_sq,Mathlib.Probability.Distributions.Gaussian.Fernique,259,2935,979864
+1000,Q1966978,Lévy continuity theorem,MeasureTheory.ProbabilityMeasure.tendsto_iff_tendsto_charFun,Mathlib.MeasureTheory.Measure.LevyConvergence,257,2944,986640
+1000,Q2096184,Plancherel theorem,SchwartzMap.integral_inner_fourier_fourier,Mathlib.Analysis.Distribution.SchwartzSpace.Fourier,324,2944,994854
+100,47,The Central Limit Theorem,ProbabilityTheory.tendstoInDistribution_inv_sqrt_mul_sum_sub,Mathlib.Probability.CentralLimitTheorem,154,2987,1001252
+100,48,Dirichlet’s Theorem,Nat.infinite_setOfPred_prime_and_eq_mod,Mathlib.NumberTheory.LSeries.PrimesInAP,484,3527,1188670
+1000,Q386292,Prime number theorem,Nat.isEquivalent_primeCounting Chebyshev.isEquivalent_theta_id,Mathlib.NumberTheory.LSeries.WeakPNT,249,3548,1194595

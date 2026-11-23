@@ -1,0 +1,956 @@
+package,repo,description,stars,lean_bytes,lean_lines_est
+Qiuzhen-CFSG/CFSG,Qiuzhen-CFSG/CFSG,Lean formalization of CFSG,21,3881412380.0,87934026.0
+CBirkbeck/LeanBridge,CBirkbeck/LeanBridge,Link LMFDB and Lean,8,1587428868.0,35963458.0
+anthropics/flt_e2e,anthropics/fermats-last-theorem,,1326,1170622459.0,26520641.0
+LeanPool/lean-pool,LeanPool/lean-pool,,156,705837489.0,15990863.0
+competemath/tengoku,competemath/tengoku,An AI-first formal mathematics library for Lean 4 agentic theorem provers.,2,548495060.0,12426244.0
+TauCetiProject/TauCeti,TauCetiProject/TauCeti,"An AIs-welcome Lean library downstream of Mathlib: AI handle the implementation and review, humans write the roadmaps and review rubrics",260,484500801.0,10976444.0
+the-omega-institute/trureturing,the-omega-institute/trureturing,"A library for discovering truth: questions, computation, reusable proofs, and an open frontier.",16,408122343.0,9246078.0
+nikhgarg/AppliedModelingLib,nikhgarg/AppliedModelingLib,AI-assisted Lean formalization for Economics and Computation research,39,113608421.0,2573817.0
+SauersML/GroupApproximation,SauersML/group-approximation,,3,110504191.0,2503490.0
+leanprover-community/mathlib,leanprover-community/mathlib4,The math library of Lean 4,4570,103945441.0,2354901.0
+xiyin137/PhysicsLogic,xiyin137/PhysicsLogic,,3,82732865.0,1874326.0
+argumentcomputer/ix,argumentcomputer/ix,a zero-knowledge proof-carrying code protocol for Lean 4,109,82541785.0,1869998.0
+subfish-zhou/goldbach,subfish-zhou/goldbach-lean,A Lean 4 formalization of Chen's theorem (Goldbach 1+2).,23,64809798.0,1468276.0
+Verified-zkEVM/EvmAsm,Verified-zkEVM/evm-asm,,62,64110794.0,1452440.0
+CBirkbeck/AINTLIB,CBirkbeck/AINTLIB,Atlas of formalised number theory in Lean (Verso blueprint),5,64108989.0,1452400.0
+kim-em/Hex,kim-em/hex-dev,"Development monorepo for Hex: verified computational algebra in Lean 4 (polynomial factoring, LLL, and friends). Released aggregate: https://github.com/leanprover/hex",25,61511799.0,1393560.0
+QudeLeap/QuantumAlg,QudeLeap/Lean-QuantumAlg,,7,57627697.0,1305565.0
+LionSR/TNLean,LionSR/TNLean,"Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",49,56763827.0,1285994.0
+linglib-community/linglib,linglib-community/linglib,"A Lean 4 library for formal linguistics: semantics, syntax, pragmatics, morphology, phonology, and processing — formalized across competing frameworks for high interconnection density.",36,55626844.0,1260235.0
+PierreSenellart/descriptive-complexity,PierreSenellart/descriptive-complexity,"Descriptive complexity in Lean 4: machine-model-free NP-completeness via first-order reductions, and the polynomial hierarchy via second-order alternation",17,49209476.0,1114849.0
+edemaine/lean_canny,edemaine/lean-canny,∃ℝ ⊆ PSPACE formalized in Lean,2,47810827.0,1083162.0
+n-yamaguchi-0729/Nyll,n-yamaguchi-0729/ClassFieldTheory,Local class field theory and global class field theory for number fields and function fields in Lean 4.,3,47212990.0,1069618.0
+yawara/OddOrder,yawara/odd-order,"The Feit–Thompson odd order theorem in Lean 4, with the finite group theory library it required — Hall, Fitting, Frobenius groups, transfer, ZJ, Dade isometry, coherence",9,45317143.0,1026667.0
+SamuelSchlesinger/complexitylib-v1,SamuelSchlesinger/complexitylib-v1,Legacy Complexitylib V1; development continues at cslib-community/complexitylib.,31,40539317.0,918425.0
+AlexeyMilovanov/kolmogorov_complexity,AlexeyMilovanov/kolmogorov-complexity-lean,Formalization of Algorithmic Information Theory  in Lean 4,11,40105162.0,908589.0
+emberian/minidregg,emberian/minidregg,Condensed & experimental proof systems for zk/fhe and semantics for agent coordination,2,37759037.0,855437.0
+openai/NavierStokesAndEuler,openai/NavierStokesAndEuler,Lean certificates accompanying Navier-Stokes and Euler results,2139,33721830.0,763974.0
+khanukov/pnp3,khanukov/p-np2,Lean 4 infrastructure for complexity-theory research and proof-route audits. Ongoing work; no unconditional P vs NP proof.,17,33311226.0,754671.0
+google-deepmind/Cryptids,google-deepmind/cryptids,Some Cryptids and Lean proofs,75,32213375.0,729799.0
+mo271/Apery,mo271/Zeta5,,39,30253584.0,685400.0
+strata-org/Strata,strata-org/Strata,,297,27608615.0,625478.0
+spitters/catcryptCore,spitters/CatCrypt-core,Core of Catcrypt,2,27083720.0,613586.0
+Shilun-Allan-Li/tCSlib,Shilun-Allan-Li/tcslib,Lean 4 Theoretical Computer Science Library,4,25060782.0,567756.0
+zblore/csd-lean4,zblore/csd-lean4,Lean 4 formalisation of a deterministic reconstruction of finite-dimensional quantum mechanics: the Born rule as a Liouville volume ratio,7,23888885.0,541207.0
+AxiomMath/ClusterAlgebras,AxiomMath/ClusterAlgebras,,3,23661148.0,536047.0
+resolutionorg/hironaka,resolutionorg/hironaka,"Hironaka's resolution of singularities in characteristic zero, formalized in Lean 4 over Mathlib.",4,23006117.0,521207.0
+project-numina/kakeya,project-numina/kakeya-3d,,32,22320481.0,505674.0
+Verified-zkEVM/VCVio,Verified-zkEVM/VCVio,"Machine-checked cryptographic proofs in Lean, built on Mathlib: oracle computations, probability semantics, program logic, and lattice- and hash-based schemes.",177,20958979.0,474829.0
+Verified-zkEVM/Arklib,Verified-zkEVM/ArkLib,Formally Verified Arguments of Knowledge in Lean,359,20480755.0,463995.0
+leanprover-community/Physlib,leanprover-community/physlib,A project to digitalise results from physics into Lean.,867,20303413.0,459977.0
+int-y1/proofs,int-y1/proofs,random proofs in lean 4,2,20215690.0,457990.0
+mccorvie/ClassificationOfSurfaces,mccorvie/classification-of-surfaces,,6,20090104.0,455145.0
+lean-dojo/TorchLean,lean-dojo/TorchLean,"Neural network specification, execution, and verification in Lean 4.",215,19471709.0,441135.0
+brettkoonce/lean4-mlir,brettkoonce/lean4-mlir,Lean specification of neural architectures with verified GPU codegen.,50,18591380.0,421191.0
+proximity-prize/proximity-prize,proximity-prize/proximity-prize,,10,16512897.0,374102.0
+opencompl/SSA,opencompl/lean-mlir,A minimal development of SSA theory,281,15847421.0,359026.0
+Gusarich/tvm-lean,Gusarich/tvm-lean,,3,14603747.0,330850.0
+LayerZero-Labs/JoltBytecode,LayerZero-Labs/jolt-qed,Formal Verification Of Jolt zk-VM,3,13521068.0,306322.0
+elazarg/GameTheory,elazarg/GameTheory,"Formalized game theory: static forms, sequential execution protocols, information models, mechanisms, and the standard equilibrium concepts.",7,12391243.0,280726.0
+TauCetiProject/TauCetiRoadmap,TauCetiProject/TauCetiRoadmap,"Human-controlled roadmaps for Tau Ceti, an AIs-welcome Lean library downstream of Mathlib.",58,11558189.0,261853.0
+lana-agents/iut,lana-agents/iut,Inter-universal Teichmüller theory: the ABC/IUT trunk.,4,11453550.0,259482.0
+CBirkbeck/UniformSheafyTateDomains,CBirkbeck/uniform-sheafy-tate-domains-lean,"Lean 4 formalisation of the two examples in 'Uniform sheafy Tate rings that are not stably uniform' (Birkbeck-Torzewski), kernel-certified with leanprover/comparator",2,11085484.0,251143.0
+davidturturean/Erdos870,davidturturean/erdos-870,"Erdős Problem #870: paper and sorry-free, axiom-clean Lean 4 formalization.",21,10582966.0,239759.0
+formal-applied-math/MathFin,formal-applied-math/formal-mathfin,The Lean Financial Mathematics Library,51,10142208.0,229773.0
+typednotes/linen,typednotes/linen,Lean Standard Library,3,10135782.0,229628.0
+scottnarmstrong/EscauriazaSereginSverak,scottnarmstrong/EscauriazaSereginSverak,"The Escauriaza–Seregin–Šverák theorem, formalized in Lean 4",4,9859059.0,223359.0
+fushanbobfan/proofnet-ir,fushanbobfan/proofnet-ir,Verified proof-geometry IR experiments for AI-guided theorem proving in Lean 4,2,9858173.0,223339.0
+AlexKontorovich/PrimeNumberTheoremAnd,AlexKontorovich/PrimeNumberTheoremAnd,Blueprint for the PNT+ Project,357,9702140.0,219804.0
+Beneficial-AI-Foundation/Vericoding,Beneficial-AI-Foundation/vericoding,tools and benchmarks for verified coding,35,9662635.0,218909.0
+apnelson1/Matroid,apnelson1/Matroid,,17,9317021.0,211079.0
+Beneficial-AI-Foundation/FloatSpec,Beneficial-AI-Foundation/FloatSpec,Formally Verified Float Implementation with lean4,25,9220547.0,208893.0
+nielstron/langlib,nielstron/langlib,Library for formal language theory in Lean 4,5,9203588.0,208509.0
+Verified-zkEVM/PolyFun,Verified-zkEVM/PolyFun,"Lean 4 library for polynomial functors, interaction trees, and frameworks for modeling interactive and effectful protocols",20,8694946.0,196985.0
+mbrcic/ai-safety-formalization-atlas,mbrcic/ai-safety-formalization-atlas,"The open workbench for AI safety, made formal. Turn safety questions into machine-checked Lean proofs — a shared launchpad where researchers and AI agents build provable safety together.",14,8536413.0,193394.0
+NethermindEth/risczero-fv,NethermindEth/risczero-fv,,15,8526198.0,193162.0
+google-deepmind/formal_conjectures,google-deepmind/formal-conjectures,A collection of formalized statements of conjectures in Lean.,1375,8436135.0,191122.0
+solanaqubits/lean-verification-components,solanaqubits/leanbook,"Formally verified domain-specific invariants in Lean 4: DeFi, quantum information, cryptography, and distributed systems",3,8404599.0,190408.0
+Robby955/formal-slt,Robby955/FormalSLT,"Machine-checked statistical learning theory in Lean 4: empirical-Bernstein and time-uniform PAC-Bayes, Markov risk, Rademacher/VC, and Dudley chaining.",33,8207864.0,185950.0
+VTrelat/BEer,VTrelat/BEer,Higher-order encoder for B proof obligations to SMT-LIB 2.7,6,8040291.0,182154.0
+dwrensha/compfiles,dwrensha/compfiles,Catalog Of Math Problems Formalized In Lean,257,7570239.0,171505.0
+PierreSenellart/provenance,PierreSenellart/provenance-lean,"Database provenance in Lean 4: the semiring framework, an annotated relational algebra with difference and aggregation, ProvSQL's provenance-aware query rewriting, and HAVING provenance",18,7455343.0,168902.0
+VerifiedQC/Fast_multiplication,VerifiedQC/ForShor,,3,7130997.0,161554.0
+Verilean/sparkle,Verilean/sparkle,"A type-safe, formally verifiable HDL compiler in Lean 4. Inspired by Clash, built for high-assurance hardware synthesis.",183,7121747.0,161344.0
+jaypantone/superpermutation_upper_bound,jaypantone/superperm-upper-43-80,"Lean proofs of the 43/80 upper bound for superpermutations, with explicit words on 8-13 symbols",3,7042659.0,159553.0
+Verified-zkEVM/CompPoly,Verified-zkEVM/CompPoly,Computable Polynomials in Lean.,49,6214421.0,140789.0
+gdanezis/leandag,gdanezis/lean-dag,"A Lean 4 + Mathlib formalization of uncertified DAG consensus (Mysticeti-style): machine-checked safety, liveness from eventual DAG synchrony, and five further arcs",13,6197699.0,140410.0
+etheorem/Etheorem,etheorem/etheorem,"A Lean 4 implementation of the Ethereum consensus specification for the Fulu, Gloas, Heze forks.",35,6151794.0,139370.0
+mkaratarakis/HopfieldNet,mkaratarakis/HopfieldNet,,8,6043680.0,136921.0
+Vilin97/Autoformalization,Vilin97/Autoformalization,OpenClaw-style theorem proving,29,6012800.0,136221.0
+LionSR/MIPStarRE,LionSR/MIPStarRE,,9,5999407.0,135918.0
+stormj-UH/SpivakCalculus,stormj-UH/spivak-lean,"Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions",46,5848669.0,132503.0
+CloK-Lab/OpenGALib,CloK-Lab/OpenGA,"Geometric analysis and geometric measure theory in Lean 4, built on Mathlib.",8,5690881.0,128928.0
+cavargar/SHSLib,cavargar/SHSLib,Stochastic Hybrid Systems core definitions formalized in Lean,5,5394439.0,122212.0
+alerad/LeanCert,alerad/leancert,"Verified interval arithmetic for Lean 4 — prove bounds on exp, sin, cos, find roots, all machine-checked",51,5338762.0,120951.0
+succinctlabs/sp1-clean-native,succinctlabs/sp1-lean,,29,4908196.0,111196.0
+rupakm/leslie,rupakm/leslie,,16,4777758.0,108241.0
+starkware-libs/verification,starkware-libs/formal-proofs,,77,4749904.0,107610.0
+mrdouglasny/pphi2,mrdouglasny/pphi2,Construction of phi^4_2 quantum field theory in Lean 4,3,4723580.0,107013.0
+leanprover/verso-manual,leanprover/reference-manual,The Lean reference manual,141,4631228.0,104921.0
+varosi/bitmap,varosi/Bitmap,"Lean 4 bitmap utilities with PNG encode/decode support, plus a small widget for visualization.",3,4378274.0,99191.0
+timbrigham/zero_paradox,timbrigham/ZeroParadox,"Machine-verified in Lean 4: the Binary Snap (⊥ → ε₀) is a theorem, not an axiom, and it holds independently across algebra, topology, information theory, functional analysis, set theory, category theory, and computability. A formal ontology of the bottom element ⊥.",2,4357185.0,98713.0
+AxiomMath/PrimeNumberTheoremAnd,AxiomMath/PrimeNumberTheoremAnd,Axiom fork of https://github.com/AlexKontorovich/PrimeNumberTheoremAnd,2,4195144.0,95042.0
+Verilean/Hesper,Verilean/hesper,"Verified GPU programming framework for Lean 4. Write type-safe WebGPU shaders with formal verification, hardware-accelerated matrix ops, and cross-platform support (Metal/Vulkan/D3D12). Build provably correct GPU compute and ML inference engines.",52,4092702.0,92721.0
+Corrram/copula,Corrram/copula,"Finite-dimensional copulas, dependence orders, and rank correlations in Lean 4",2,4047098.0,91688.0
+Lean-MoDS/StatsMLlib,Lean-MoDS/StatsMLlib,"Verified probability, statistics, and learning theory in Lean 4",32,4032769.0,91363.0
+AxiomMath/PrimeGapsLib,AxiomMath/PrimeGapsLib,Lean formalization of bounded gaps between primes,49,4000672.0,90636.0
+leanprover-community/iris-lean,leanprover-community/iris-lean,"Lean 4 port of Iris, a higher-order concurrent separation logic framework",256,3984797.0,90276.0
+ilyasergey/langlib,ilyasergey/langlib,"Esoteric Programming Languages, Formally",63,3910007.0,88582.0
+deancureton/MovingSofa,deancureton/MovingSofa,Autoformalization of Baek's solution to the moving sofa problem: the Gerver sofa is optimal,9,3726794.0,84431.0
+jyh/saltworks,jyh/saltworks,"Kernel-checked hardware: the Batcher-banyan fabric, the verified HDL chain, and the silicon leg (private until the public gate)",5,3703171.0,83896.0
+shosonoda/lean-ridgelet,shosonoda/lean-ridgelet,Lean formalization and Blueprint for integral-representation neural networks and ridgelet transforms,3,3694318.0,83695.0
+physicslib/Physicslib,physicslib/physicslib4,Solving Hilbert's sixth problem in Lean,3,3610134.0,81788.0
+powdr-labs/apc-optimizer,powdr-labs/apc-optimizer,,10,3502073.0,79340.0
+rkirov/jordan_pick,rkirov/jordan_pick,,2,3466122.0,78526.0
+rhovision-org/QuantumLogicalFramework,rhovision-org/quantum-logical-framework,quantum genesis constructive possibilist quantum logical synthesis,16,3412342.0,77307.0
+leanprover/lean-eval,leanprover/lean-eval,Comparator-based Lean formal mathematics eval,52,3390267.0,76807.0
+UAI-VUT-Brno/ECRuntime,UAI-VUT-Brno/Runtime-analysis-of-evolutionary-computation-algorithms,"Formally verified runtime analysis of evolutionary algorithms in Lean 4 and Mathlib, checked theorem by theorem against the literature.",2,3361397.0,76153.0
+FormalizedFormalLogic/Foundation,FormalizedFormalLogic/Foundation,Formalization of Mathematical Logic,300,3289863.0,74532.0
+verse-lab/veil,verse-lab/veil,A verifier for automated and interactive proofs about transition systems.,433,3133308.0,70986.0
+agenticsnz/unsorry,agenticsnz/unsorry,"Autonomous agents proving theorems in Lean 4 - SETI@Home but for maths proofs using LLMs. Git is the queue, the kernel is the gate, no sorry survives.",47,3079907.0,69776.0
+chrisflav/orchestra,chrisflav/orchestra,A daemon running agentic coding tasks queried from listeners.,3,3054762.0,69206.0
+dududuguo/HighDimProb,dududuguo/HighDimProb,"Lean 4 formalizations for high-dimensional probability, random matrices, concentration inequalities, and matrix Bernstein bounds.",6,3042980.0,68939.0
+input-output-hk/PlutusCore,input-output-hk/PlutusCoreBlaster,"Plutus Core, CEK Machine in Lean 4, tailored for Blaster usage",15,2970731.0,67302.0
+mrdouglasny/GaussianField,mrdouglasny/gaussian-field,,5,2885823.0,65379.0
+manuelpuebla/amo-lean,manuelpuebla/amo-lean,,5,2880763.0,65264.0
+etheorem/leanp2p,etheorem/leanp2p,,20,2823408.0,63965.0
+teorth/equational_theories,teorth/equational_theories,A project to map out the relations between different equational theories of Magmas.,572,2810280.0,63667.0
+ImperialCollegeLondon/FLT,ImperialCollegeLondon/FLT,Ongoing Lean formalisation of the proof of Fermat's Last Theorem,1061,2790712.0,63224.0
+okcontract/oksolcSemantics,okcontract/solidity-spec,Solidity Spec is an executable formal model of Solidity in Lean,5,2735581.0,61975.0
+leanprover/beam,leanprover/lean-beam,Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tree Search.,58,2721972.0,61667.0
+uda-lab/lerayHopf,uda-lab/leray-hopf,"Lean 4 formalization of Leray-Hopf weak-solution existence for the incompressible Navier-Stokes equations on the periodic 3-torus and on R^3, via the Galerkin method. Two capstone theorems are proved kernel-only (no project axioms, no sorryAx); see README.md for the exact modeling scope and claims table.",10,2703272.0,61243.0
+lecopivo/scilean,lecopivo/SciLean,Scientific computing in Lean 4,550,2678377.0,60679.0
+smmercuri/Zeta,smmercuri/zeta,"Formal verification of the Riemann hypothesis up to bounded height by Lean's kernel, reaching height 10⁸",2,2674519.0,60592.0
+scottnarmstrong/DeGiorgi,scottnarmstrong/DeGiorgi,Lean 4 formalization of De Giorgi-Nash-Moser theory,43,2671688.0,60528.0
+Shreyas4991/Algolean,Shreyas4991/Algolean,"Algorithms and Complexity Library using the lightweight query combinator framework called ""Prog""",33,2592988.0,58745.0
+jcreinhold/lean-fmt,jcreinhold/lean-fmt,"Code formatter and linter for Lean 4, with editor and CI integration.",3,2577748.0,58399.0
+plclub/SFL,plclub/sf-in-lean,Development repo for translating Software Foundations to Lean,215,2520388.0,57100.0
+Polarnova/ProbabilityApproximation,Polarnova/ProbabilityApproximation,Lean 4 and Mathlib formalization of nonuniform Berry–Esseen bounds and Bentkus's multivariate Gaussian approximation over convex sets.,3,2499850.0,56635.0
+digama0/lean4lean,digama0/lean4lean,Lean 4 kernel / 'external checker' written in Lean 4,285,2497455.0,56580.0
+eic/EpsilonEridani,eic/EpsilonEridani,"An AIs-welcome Lean library downstream of Mathlib, Physlib, and Tau Ceti: AI handle the implementation and review, humans write the roadmaps and review rubrics",3,2494283.0,56508.0
+siddhartha-gadgil/leanaide,siddhartha-gadgil/LeanAide,Tools based on AI for helping with Lean 4,125,2474487.0,56060.0
+momonpya/eggshell,momonpya/eggshell,Local memory for Codex. Reuse work across chats without LLM calls to organize it.,30,2464188.0,55827.0
+leanprover/verso,leanprover/verso,Lean documentation authoring tool,411,2462902.0,55797.0
+fpvandoorn/carleson,fpvandoorn/carleson,A formalized proof of Carleson's theorem in Lean,116,2436665.0,55203.0
+input-output-hk/Blaster,input-output-hk/Lean-blaster,SMT-based reasoning core for Lean4,63,2409029.0,54577.0
+Arthur742Ramos/Metatheory,Arthur742Ramos/Metatheory,,7,2379755.0,53914.0
+Verified-zkEVM/Clean,Verified-zkEVM/clean,Lean circuit DSL,211,2337631.0,52959.0
+Beneficial-AI-Foundation/Curve25519Dalek,Beneficial-AI-Foundation/curve25519-dalek-lean-verify,Verifying curve25519-dalek using Lean,14,2309857.0,52330.0
+fplaunchpad/sal,fplaunchpad/sal,Multimodal verification of Replicated Data Types in Lean,11,2291042.0,51904.0
+leanprover/cslib,leanprover/cslib,The Lean Computer Science Library (CSLib),842,2281678.0,51692.0
+Clap-lang/clap,Clap-lang/clap-lean,Implementation of the Clap language for ZK Circuits in the Lean proof-assistant,16,2228677.0,50491.0
+riccardobrasca/KummerCriterion,riccardobrasca/KummerCriterion,Proof of Kummer's criterion for regularity of a prime in Lean,3,2147172.0,48645.0
+teorth/Analysis,teorth/analysis,A Lean companion to Analysis I,1991,2137297.0,48421.0
+duckki/leanfmt,duckki/leanfmt,A structure-preserving code formatter for Lean,5,2020121.0,45766.0
+DominikPeters/hardness_reductions,DominikPeters/HardnessReductionsLean,A Lean4 project based on mathlib formalizing NP-hardness reductions,6,2019155.0,45744.0
+leanprover-community/auto,leanprover-community/lean-auto,Experiments on automation for Lean,198,2018844.0,45737.0
+strata-org/specimen,strata-org/specimen,,13,1969239.0,44613.0
+mo271/FormalBook,mo271/FormalBook,"Formalizing ""Proofs from THE BOOK""",97,1927550.0,43669.0
+leanprover/lnsym,leanprover/LNSym,Armv8 Native Code Symbolic Simulator in Lean,124,1926743.0,43651.0
+mrdouglasny/MarkovSemigroups,mrdouglasny/markov-semigroups,"Markov semigroups, functional inequalities, and convergence to equilibrium in Lean 4",3,1923872.0,43586.0
+okcontract/zean,okcontract/zean,Translate Zig functions into executable Lean models and prove their behavior,34,1909398.0,43258.0
+opencompl/fp-lean,opencompl/fp-lean,Floating Point Semantics Mechanization for Lean,30,1902748.0,43107.0
+Timeroot/quantumInfo,Timeroot/Lean-QuantumInfo,Quantum information theory in Lean 4,151,1880128.0,42595.0
+mattrobball/BridgelandStability,mattrobball/BridgelandStability,,8,1777585.0,40271.0
+bjbraams/Main,bjbraams/lean-SCV,Lean formalization of fundamental analytic theory of several complex variables,4,1771824.0,40141.0
+stat-lib/Statlib,stat-lib/statlib,LEAN library supporting statistics formalization,25,1759531.0,39862.0
+QECLean/QEC,QECLean/QECLean,Formalization project on Quantum Error Correction in Lean,51,1729918.0,39192.0
+mortarsanjaya/IMOSLLean4,mortarsanjaya/IMOSLLean4,Formalization of IMO shortlist problems in Lean 4,28,1717045.0,38900.0
+lexzaiello/Dcc,lexzaiello/DCC,The dependently-typed combinator calculus (DCC).,4,1712894.0,38806.0
+katzenpost/cryptlib,katzenpost/cryptlib,Lean cryptography library for prototyping/modeling protocols and proving protocol properties.,2,1685685.0,38189.0
+leanprover-community/ConNF,leanprover-community/con-nf,A formal consistency proof of Quine's set theory New Foundations,89,1661832.0,37649.0
+JJYYY-JJY/NormalForms,JJYYY-JJY/lean-normal-forms,"Executable Hermite and Smith Normal Forms in Lean 4 over Euclidean Domains, with a PID bridge to mathlib.",2,1660472.0,37618.0
+hardenedlinux/CedarPooSpec,hardenedlinux/cedar-poo-spec,"Formal Cedar Spec integration and incremental proof reuse with Lean-POO, and maintained several vertical exmaples in seucirty field",2,1659126.0,37588.0
+DiagonaLean/DiagonaLean,DiagonaLean/DiagonaLean,A compositional toolkit for mechanised undecidability in Lean 4.,2,1655731.0,37511.0
+typednotes/infra,typednotes/infra,"Terraform-style infrastructure as code in Lean 4: dependently-typed target and observed cloud state, so an unrealisable target is a compile error",7,1647975.0,37335.0
+m4lvin/pdl,m4lvin/lean4-pdl,"Propositional Dynamic Logic in Lean 4, showing Craig Interpolation via Tableau",16,1634325.0,37026.0
+mrdouglasny/OSforGFF,mrdouglasny/OSforGFF,A Lean 4 formalization of the Gaussian Free Field in d=4 and proof of the Osterwalder-Schrader axioms,28,1609073.0,36454.0
+AfonsoBitoque/LeanServer,AfonsoBitoque/LeanServer,"Verified HTTPS server in Lean 4 — TLS 1.3, HTTP/2, QUIC, WebSocket, gRPC — 914 machine-checked theorems, zero sorry. Pure library available (LeanServerPure).",1,1608597.0,36443.0
+typednotes/hale,typednotes/hale,Haskell-inspired libraries for Lean 4 with maximalist typing,9,1573909.0,35657.0
+palladin/lean_cloud,palladin/lean-cloud,Cloud programming for Lean,34,1534293.0,34760.0
+VCA-EPFL/graphiti,VCA-EPFL/graphiti,Verified graph rewriting (for dataflow circuits).,29,1525065.0,34551.0
+alok/LeanPlot,alok/LeanPlot,Plotting for Lean 4: a zero-dependency figure/layout core with deterministic SVG and anti-aliased PNG backends,26,1523009.0,34504.0
+sinhp/hottlean,sinhp/HoTTLean,,86,1519601.0,34427.0
+teorth/sendov,teorth/sendov,,41,1511428.0,34242.0
+girving/ray,girving/ray,Formalizing results about the Mandelbrot set in Lean,30,1497819.0,33933.0
+Happyves/LeanGrowAlpha,Happyves/LeanGrowAlpha,,4,1482961.0,33597.0
+dappalumbo91/fsot-lean,dappalumbo91/FSOT-2.1-Lean,Lean 4 formalization of Fluid Spacetime Omni-Theory (FSOT) 2.1 by Damian Arthur Palumbo,4,1449421.0,32837.0
+themathqueen/Monlib,themathqueen/monlib4,Formalising non-commutative graph theory in Lean,2,1442274.0,32675.0
+or4nge19/NeuralNetworks,or4nge19/NeuralNetworks,Formalization of Neural Networks in Lean 4,10,1427531.0,32341.0
+RemyDegenne/BrownianMotion,RemyDegenne/brownian-motion,Construction of a Brownian Motion in Lean,67,1418435.0,32135.0
+lean-ja/verso-manual,lean-ja/reference-manual-ja,「The Lean Language Reference」の日本語訳（作業中）,2,1416169.0,32084.0
+yezhuoyang/LogicQ,yezhuoyang/LogicQ,An IR language for fault-tolerant quantum programming,4,1383442.0,31342.0
+leanprover-community/batteries,leanprover-community/batteries,"The ""batteries included"" extended library for the Lean programming language and theorem prover",439,1359949.0,30810.0
+rbeauchamp/regula,rbeauchamp/regula,"A checker of Lean builds: proof holes, project axioms, native proofs, axioms outside a profile, unsafe and partial declarations, Lean's loop constructs, constants whose compiled code is replaced, constants whose value mentions a panic form, and a closed language checked before anything is compiled.",2,1340630.0,30372.0
+etheorem/LeanSha256,etheorem/LeanSha256,"Pure-Lean SHA-256 reference implementation: NIST CAVP-validated, kernel-reducible, no FFI.",4,1335203.0,30249.0
+verse-lab/velvet,verse-lab/velvet,An auto-active program verifier in Lean,143,1331606.0,30168.0
+gaearon/ConwayRefinement,gaearon/conway-refinement,A proof of Conway's refinement conjecture in Lean,58,1320229.0,29910.0
+theorem-press/imprimatur,theorem-press/imprimatur,Keep a paper's LaTeX in step with a Lean 4 development: render declarations into .tex and check prose against Lean,2,1317493.0,29848.0
+JonRademacher/SigmaR,JonRademacher/standing-algebra,Standing Algebra (Σᴿ): A Closure-Theoretic Operator for Constraining Domination and Preserving Autonomy,2,1300433.0,29462.0
+Hayata-Yamasaki-Group/Quantum,Hayata-Yamasaki-Group/lean-quantum,Lean formalization of the theory of quantum information and quantum computation,42,1272166.0,28821.0
+GasStationManager/ArtificialAlgorithms,GasStationManager/ArtificialAlgorithms,"Verified algorithms in Lean, implemented and proved by AIs",12,1260561.0,28558.0
+z-tech/sumcheck,z-tech/z-lean,,11,1256084.0,28457.0
+lambdaclass/SuperTensor,lambdaclass/supertensor_lean,Verified tensor graph optimization in Lean 4: constructive soundness proofs + equality saturation + verified extraction via e-graph↔circuit bijection + multi-target code generation.,7,1249742.0,28313.0
+mtoohey31/tabular-types,mtoohey31/tabular-types,Proofs for Extensible Data Types with Ad-Hoc Polymorphism,9,1241659.0,28130.0
+imbrem/DeBruijnSSA,imbrem/debruijn-ssa,A formalization of SSA in Lean 4,12,1231453.0,27899.0
+leanprover-community/Duper,leanprover-community/duper,,121,1216115.0,27551.0
+cameronfreer/exchangeability,cameronfreer/exchangeability,"Formalization of exchangeability and three proofs of de Finetti's theorem in Lean 4, following Probabilistic Symmetries and Invariance Principles by Olav Kallenberg",11,1214488.0,27514.0
+monsterkrampe/ExistentialRules,monsterkrampe/Existential-Rules-in-Lean,This repo contains formalizations around Existential Rules (aka. Tuple-Generating Dependencies) with disjunctions and the Chase algorithm. Mostly this will be about (basics of) my own formal works.,5,1206070.0,27324.0
+plasma-ai/Erdos173,plasma-ai/erdos-173,A proof of Erdős Problem #173.,2,1182392.0,26787.0
+jaalonso/Calculemus2,jaalonso/Calculemus2,Proof exercises in Lean4 and Isabelle/HOL,10,1178886.0,26708.0
+leansolving/CSP,leansolving/leancsp,,4,1178252.0,26693.0
+ufmg-smite/smt,ufmg-smite/lean-smt,Tactics for discharging Lean goals into SMT solvers.,324,1147962.0,26007.0
+FawadHa1der/leanui,FawadHa1der/leanui,"Web user interfaces written in Lean 4, compiled to WebAssembly (Memory64), with a native Lean server for SSR",2,1141182.0,25854.0
+leanprover/KLR,leanprover/KLR,A formalization of ML kernel languages,53,1139497.0,25815.0
+Lean-zh/protobuf,Lean-zh/protobuf,protobuf implementation for Lean 4,15,1126360.0,25518.0
+micah541/TJK,micah541/kaczynski-mathematical-works,,4,1123411.0,25451.0
+selanavot/omega_le_nine_quarters_all_rings,selanavot/omega_le_nine_quarters_all_rings,Matrix multiplication over rings through integer coefficient schemes,2,1122972.0,25441.0
+FormalizedFormalLogic/ProvabilityLogic,FormalizedFormalLogic/ProvabilityLogic,Lean 4 Mechanization about Provability Logics,6,1122698.0,25435.0
+Corrram/leanify,Corrram/leanify,"Mathematical articles in LaTeX, compiled and checked by Lean",5,1114102.0,25240.0
+leonardoalt/evmSmith,leonardoalt/evm-smith,"A framework for AI systems to write EVM bytecode and prove it safe, built on NethermindEth/EVMYulLean.",39,1102730.0,24983.0
+teorth/PFR,teorth/pfr,Repository for formalization of the Polynomial Freiman Ruzsa conjecture (and related results),246,1099621.0,24912.0
+cryspen/hax,cryspen/hax-lean,Hax Lean library (automatically generated from cryspen/hax),7,1092267.0,24745.0
+Th0rgal/morpho-verity,Th0rgal/morpho-verity,Formal verification of Morpho Blue lending protocol using Verity (Lean 4),4,1077842.0,24419.0
+Mathias-Stout/many-sorted-model-theory,Mathias-Stout/Many-sorted-model-theory,"A lean repository for building many-sorted logic, with a view towards model theory of valued fields",14,1070002.0,24241.0
+joehattori/crosvm-verif,joehattori/crosvm-verif,,3,1062013.0,24060.0
+lean-ja/Lean by Example,lean-ja/lean-by-example,プログラミング言語であるとともに定理証明支援系でもある Lean 言語と、その主要なライブラリの使い方を豊富なコード例とともに解説した資料です。,197,1059685.0,24007.0
+imbrem/discretion,imbrem/discretion,"Utilities for formalizing programming languages in Lean 4, along with other tidbits",4,1046528.0,23709.0
+EgoFakeFantasy/pcfAlephOmega4,EgoFakeFantasy/PCFAlephOmega4,A Lean 4 formalization of the PCF bound 2^aleph_omega < aleph_(omega_4) under the strong-limit hypothesis.,2,1029320.0,23319.0
+TataSatyaPratheek/MathPhysics,TataSatyaPratheek/mathematical-physics-lean,"From Groups to Gravitational Waves: a pure-Lean-4 (no Mathlib), dimension-parametric formalization of mathematical physics through general relativity. 0 sorry; the n>=4 gravitational-wave threshold formalized.",2,1023134.0,23179.0
+auto-res/FoML,auto-res/lean-rademacher,Lean Formalization of Generalization Error Bound by Rademacher Complexity,24,1014386.0,22981.0
+chenle02/TotalColoring,chenle02/total-coloring-lean,Lean 4 formalization and certificate checking for total coloring and auxiliary rainbow edge-coloring reductions,2,1013929.0,22971.0
+FormalSAT/trestle,FormalSAT/trestle,,25,1006827.0,22810.0
+vihdzp/CombinatorialGames,vihdzp/combinatorial-games,Combinatorial game library in Lean 4,115,972240.0,22026.0
+Verilean/lean-tea,Verilean/lean-tea,A full-stack web and TUI framework inspired by Yesod and Elm.,6,966596.0,21898.0
+jessealama/thales,jessealama/thales,TypeScript compiler and JavaScript engine in Lean,71,946333.0,21439.0
+chrisflav/proetale,chrisflav/proetale,Proétale cohomology in Lean,17,934343.0,21168.0
+LeanMachineLearning/LeanMachineLearning,LeanMachineLearning/LML,The Lean Machine Learning Library,52,923117.0,20913.0
+dagurtomas/LeanCondensed,dagurtomas/LeanCondensed,,5,918785.0,20815.0
+jaalonso/Calculemus2_es,jaalonso/Calculemus2_es,Ejercicios de demostración con Lean4 e Isabelle/HOL.,2,912096.0,20664.0
+incremental-computing/autoinc,incremental-computing/autoinc-lean,,3,893609.0,20245.0
+or4nge19/MCMC,or4nge19/MCMC,Formalization of Markov Chain Monte Carlo in Lean 4,6,872157.0,19759.0
+Bacon-labs/tamago,Bacon-labs/tamago,"Common EVM smart contracts similar to solady/solmate, formally verified using Tama + Verity",7,861355.0,19514.0
+FormalizedFormalLogic/arithmetization,FormalizedFormalLogic/Arithmetization,Formalization of Arithmetization of Mathematics/Metamathematics,14,842841.0,19095.0
+fpvandoorn/LeanCourse25,fpvandoorn/LeanCourse25,,21,833000.0,18872.0
+leanprover/LeanSAT,leanprover/leansat,This package provides an interface and foundation for verified SAT reasoning,57,831735.0,18843.0
+pandaman64/lean-regex,pandaman64/lean-regex,,113,809497.0,18339.0
+JD-Jones-ASES/persistentSos,JD-Jones-ASES/persistent-sos,"Explicit persistent failure of Euclidean quartic sum-of-squares exactness, formalized in Lean.",2,802045.0,18170.0
+alexeikolesnikov/lean-seminar,alexeikolesnikov/lean-seminar,Files for Lean Seminar at Towson University,2,801463.0,18157.0
+optsuite/optlib,optsuite/optlib,,116,793773.0,17983.0
+pannous/Hyper,pannous/hyper-lean,Hyperreal Numbers in Lean 4,4,793176.0,17970.0
+leanprover-community/aesop,leanprover-community/aesop,White-box automation for Lean 4,417,779672.0,17664.0
+zksecurity/sigma,zksecurity/bulletproofs-formal-verification,Formal verification of knowledge soundness for Generalized Bulletproofs,2,775357.0,17566.0
+abdoo8080/cvc5,abdoo8080/lean-cvc5,A Foreign Function Interface (FFI) to cvc5 solver in Lean.,28,767925.0,17397.0
+suomela/Distributed2Coloring,suomela/2-coloring-1-round,2-Coloring Cycles in One Round: Formalization in Lean 4,3,762228.0,17268.0
+palladin/lean-linq,palladin/lean-linq,"Type-safe, deeply-embedded SQL query DSL for Lean 4 — LINQ-style pipelines and query! comprehensions compiling to parameterized SQL for SQLite, PostgreSQL, and SQL Server",30,759848.0,17214.0
+girving/interval,girving/interval,Conservative floating point interval arithmetic in Lean,29,733880.0,16626.0
+rzrn/GroundZero,rzrn/ground_zero,Ground Zero: Lean 4 HoTT Library,87,733603.0,16620.0
+verified-optimization/CvxLean,verified-optimization/CvxLean,Convex optimization modeling in Lean 4,83,727460.0,16481.0
+hhu-adam/Game,hhu-adam/Robo,A game for learning Lean 4 where a cute little smart-elf joins you on your exploration of the Leaniverse.,46,700744.0,15875.0
+mroximut/dLean,mroximut/dLean,,2,695867.0,15765.0
+alok/lean-inf,alok/lean-inf,Levi-Civita field implementation in Lean 4 for computing with infinities and infinitesimals.,11,690480.0,15643.0
+AlexKontorovich/Game,AlexKontorovich/RealAnalysisGame,RealAnalysisGame,74,683461.0,15484.0
+leanprover-community/SphereEversion,leanprover-community/sphere-eversion,Formalization of the existence of sphere eversions,50,676234.0,15320.0
+carlok/LeanFrontier,carlok/LeanFrontier,"A Lean 4 library of machine-generated, kernel-verified mathematics.",8,665920.0,15087.0
+lean-dojo/problems,lean-dojo/LeanMillenniumPrizeProblems,Formalization of the Millennium Problems in Lean 4,71,661085.0,14977.0
+thefundamentaltheor3m/SpherePacking,thefundamentaltheor3m/Sphere-Packing-Lean,A Lean formalisation of Maryna Viazovska's Fields Medal-winning solution to the sphere packing problem in dimension 8.,112,656012.0,14862.0
+glams-lean-2024/Formal2024,glams-lean-2024/formal-2024,Course repository for GlaMS - Formalising Mathematics in Lean (2024),9,654754.0,14834.0
+RemyDegenne/TestingLowerBounds,RemyDegenne/testing-lower-bounds,"Information theory and hypothesis testing, in Lean",16,651545.0,14761.0
+catskillsresearch/scott_models,catskillsresearch/scott_models,,2,645362.0,14621.0
+cslib-community/AlgoLib,cslib-community/AlgoLib,This is the repository for algorithm design.,11,644958.0,14612.0
+avigad/mil,avigad/mathematics_in_lean_source,Source code for the Mathematics in Lean tutorial.,228,643194.0,14572.0
+girafe-ai/formalising-mathematics,girafe-ai/lean-course,Course on theorem proving with Lean,7,642620.0,14559.0
+marcellop71/redisLean,marcellop71/redis-lean,Lean bindings for redis/hiredis,7,640458.0,14510.0
+intgrah/qdt,intgrah/qdt,Query-based Dependent Type Elaborator,9,639666.0,14492.0
+xroblot/SKW,xroblot/SKW,,2,633378.0,14349.0
+Volland/lean-elpi,Volland/lean-elpi,"λProlog inside Lean 4: write tactics, commands and proof search as logic programs, share types with Lean both ways, and get kernel-checked proofs.",6,633144.0,14344.0
+2540825244/m2r-group-7,2540825244/m2r-group-7,Classifying Groups of Order up to 31 in Lean 4 - Imperial Maths Year 2 Research Project Group 7 - 2026,3,630680.0,14288.0
+NethermindEth/foxglove,NethermindEth/Foxglove,"A formalisation of Foxglove, a modification of the Bluebell paper (See https://arxiv.org/pdf/2402.18708), adapted to functional programs.",2,614230.0,13915.0
+b-mehta/FormalisingMathematics2026,b-mehta/formalising-mathematics-notes,Course notes for Formalising Mathematics 2026,142,609471.0,13808.0
+jcreedcmu/Noperthedron,jcreedcmu/Noperthedron,The Noperthedron does not have Rupert Property: a proof in Lean4,22,605332.0,13714.0
+leanprover/sampcert,leanprover/SampCert,SampCert : Verified Differential Privacy,110,592391.0,13421.0
+Whysoserioushah/BrauerGroup,Whysoserioushah/BrauerGroup,,7,590381.0,13375.0
+lambdaclass/optisat,lambdaclass/truth_research,"Formally verified equality saturation engine in Lean 4, parameterized by typeclasses. OptiSat provides a domain-agnostic e-graph with 248 theorems",15,590375.0,13375.0
+fpvandoorn/LeanCourse,fpvandoorn/LeanCourse24,Bonn Lean course for winter 24/25,44,589397.0,13353.0
+leanprover/human-eval-lean,leanprover/human-eval-lean,Hand-written verified Lean solutions for the HumanEval benchmark,34,579178.0,13121.0
+argumentcomputer/yatima,argumentcomputer/yatima,A zero-knowledge Lean4 compiler and kernel,149,578113.0,13097.0
+ImperialCollegeLondon/formalising-mathematics-2024,ImperialCollegeLondon/formalising-mathematics-2024,Formalising Mathematics; a course for undergraduate mathematicians. Ran between January and March 2024.,264,578057.0,13096.0
+bergmannjg/Regex,bergmannjg/regex,A PCRE2 compatible regular expression engine written in Lean 4.,20,566321.0,12830.0
+AxiomMath/PartitionPolynomial,AxiomMath/PartitionPolynomial,"Lean formalizations for the paper ""Reciprocals of Partition Polynomials""",2,562889.0,12752.0
+PatrickMassot/verbose,PatrickMassot/verbose-lean4,Natural language tactics to teach mathematics using Lean 4,176,561130.0,12712.0
+JasonShroyer/sgc,JasonShroyer/sgc-lean,Lean 4 library characterizing the algebraic structure of metastability and consolidation in stochastic systems,3,560719.0,12703.0
+BoltonBailey/FormalSnarksProject,BoltonBailey/formal-snarks-project,A formal verification of Linear PCP SNARKs.,64,559020.0,12665.0
+SrGaabriel/lapis,SrGaabriel/lapis,"✏️ | A cutting-edge, concurrent & performant Language Server Protocol (LSP) framework for Lean 4.",7,556736.0,12613.0
+npflueger/demazure,npflueger/demazure,Demazure products and ASP permutations,3,554993.0,12573.0
+AxiomMath/Putnam2025,AxiomMath/Putnam2025,Our solutions to Putnam 2025.,116,546443.0,12380.0
+verse-lab/lentil,verse-lab/Lentil,Proof infrastructure about LTL in Lean 4,43,538323.0,12196.0
+kbuzzard/ClassFieldTheory,kbuzzard/ClassFieldTheory,Github repository for the 2025 Clay Summer School on Formalizing Class Field Theory,17,528674.0,11977.0
+ProofOfKeags/btc-verified,ProofOfKeags/btc-verified,"Verified Bitcoin protocol components in Lean 4 — serialization, txids, and merkle commitments checked against real mainnet blocks.",35,523701.0,11865.0
+mrdouglasny/SeibergWitten,mrdouglasny/seiberg-witten,"The Seiberg-Witten solution of N=2 SU(2) super-Yang-Mills, formalized in Lean 4: physics as named postulates, machine-checked consequences, audited assumptions",7,505425.0,11450.0
+VTrelat/ZFLean,VTrelat/ZFLean,A Lean 4 framework for set-theoretic mathematics,9,503033.0,11396.0
+RileyBetts/lean-grpc,RileyBetts/lean-grpc,Pure Lean 4 gRPC stack (HTTP/2 + HPACK + gRPC); Async h2c + off-loop TLS,6,498169.0,11286.0
+leanprover/subverso,leanprover/subverso,,8,496695.0,11253.0
+project-numina/lib,project-numina/LeanGeo,Solving Competition Geometry Problems in Lean,44,487395.0,11042.0
+chrisflav/db,chrisflav/db,,3,484474.0,10976.0
+paulbutcher/markdown,paulbutcher/lean-markdown,,3,483832.0,10961.0
+klavins/LeanW26,klavins/LeanW26,Eric'sW26 Course on Lean,12,479250.0,10857.0
+singerng/steinberg,singerng/steinberg-formalization,,2,478899.0,10850.0
+mrdouglasny/LGT,mrdouglasny/lgt,Lattice Gauge Theory in Lean 4 — toward the 2D Yang-Mills mass gap,8,468351.0,10611.0
+marcusrossel/egg,marcusrossel/lean-egg,A deprecated equality saturation tactic for Lean based on egg.,87,462717.0,10483.0
+kebekus/VD,kebekus/ProjectVD,Formalizing Value Distribution Theory,11,462075.0,10468.0
+peabrainiac/CatDG,peabrainiac/lean-catdg,"Aspects of categorical differential geometry, formalised in lean 4.",7,461632.0,10458.0
+zilberstein/Pom,zilberstein/pomsets-with-formulae,A Denotational Model for Concurrent Programs in Lean,3,461474.0,10455.0
+BochaoKong/LocalComplexGeometry,BochaoKong/nullstellensatz,Foundational theorems in local complex-analytic geometry formalized in Lean 4,2,458851.0,10395.0
+AxiomMath/LatticeTriangle,AxiomMath/lattice-triangle,"Lean formalizations for the paper ""On the paucity of lattice triangles""",19,458181.0,10380.0
+kovach/etch,kovach/etch,,18,452665.0,10255.0
+mgignoux/GL,mgignoux/lean4-gl-coalgebras,Craig interpolation for GL in Lean,5,452260.0,10246.0
+Ivan-Sergeyev/Seymour,Ivan-Sergeyev/seymour,This project is about formally verifying Seymour's decomposition theorem for regular matroids.,49,448272.0,10156.0
+mrdouglasny/BochnerMinlos,mrdouglasny/bochner,,3,446360.0,10112.0
+acmepjz/Iwasawalib,acmepjz/lean-iwasawa,Formalization of Iwasawa Theory in LꓱꓯN (tentative),12,445223.0,10087.0
+iasakura/lean-yjs,iasakura/lean-yjs,Lean-Yjs: Formal Verification of Yjs Integration Algorithm,21,444953.0,10080.0
+leanprover-community/mathport,leanprover-community/mathport,Mathport is a tool for porting Lean3 projects to Lean4,47,439267.0,9952.0
+google-deepmind/imo,google-deepmind/formal-imo,Lean formalizations of IMO problem statements,37,436005.0,9878.0
+mrdouglasny/HilleYosida,mrdouglasny/hille-yosida,"Lean 4 formalization of strongly continuous semigroups, Hille-Yosida theorem, and BCR Bochner semigroup-to-group extension",2,428092.0,9698.0
+lean-machines-central/lean-machines,lean-machines-central/lean-machines,a Lean4 framework for the modeling and refinement of stateful systems,39,419787.0,9510.0
+sven-manthe/borel_det,sven-manthe/A-formalization-of-Borel-determinacy-in-Lean,,14,417745.0,9464.0
+adomani/advents,adomani/advents,Advent of Code,3,416483.0,9435.0
+eshelyaron/bdd,eshelyaron/lean4-bdd,Binary Decision Diagrams in Lean 4,14,406427.0,9208.0
+NYULean26/Lectures,NYULean26/Lectures,Lean files used for Computer Assisted Formalization of Mathematics at NYU.,2,405413.0,9185.0
+samth/waterfall,samth/waterfall,"Small, configurable proof search for inductive Lean goals",28,404731.0,9169.0
+leanprover-community/importGraph,leanprover-community/import-graph,Tools to analyse and visualise the import structure of Lean packages and their files.,31,402240.0,9113.0
+NethermindEth/evmyul,NethermindEth/EVMYulLean,Executable formal model of the EVM and Yul in Lean 4.,102,390078.0,8837.0
+logical-intelligence/Putnam,logical-intelligence/proofs,,23,390044.0,8837.0
+kmill/CSE290Q,kmill/cse290q-25sp,CSE 290Q: Topics in Interactive Theorem Provers,2,389654.0,8828.0
+ucsd-formal/constrained-decoding-formalization,ucsd-formal/constrained-decoding-formalization,Formalization of a grammar-constrained decoding algorithm in Lean.,4,387490.0,8779.0
+verse-lab/Loom,verse-lab/loom,Loom is a framework for automated generation of foundational multi-modal verifiers. This repository is a mirror with stable snapshots. Submit issues and PRs here.,174,382617.0,8668.0
+leanprover/TensorLib,leanprover/TensorLib,A verified tensor library in Lean,50,372218.0,8433.0
+NathanHowell/argparse,NathanHowell/lean-argparse,,2,369502.0,8371.0
+sunblaze-ucb/verina,sunblaze-ucb/verina,"Verina (Verifiable Code Generation Arena) is a high-quality benchmark enabling a comprehensive and modular evaluation of code, specification, and proof generation as well as their compositions.",89,369476.0,8371.0
+anaxia-research/YangMills,anaxia-research/4Y-M,"Yang-Mills research: lattice results, conditional continuum arguments, and explicit mass-gap proof obligations.",7,362395.0,8210.0
+umpolungfish/imscrbgrmr-lean,umpolungfish/Imscribing_Grammar,"A 12-primitive measurement apparatus for the structural type of any system — 17,280,000-address Crystal of Types",2,358789.0,8128.0
+shosonoda/lean-math-note,shosonoda/lean-math-note,,6,357276.0,8094.0
+lightward/foam,lightward/foam,geometry of hospitality,5,355221.0,8048.0
+leanprover/sos,leanprover/sos,A Lean 4 sum-of-squares tactic for nonlinear real arithmetic.,8,352381.0,7983.0
+knowsys/FormaleSystemeInLean,knowsys/Formale-Systeme-in-LEAN,"LEAN4 formalization of the undergraduate lecture ""Formale Systeme"" at TU Dresden (WIP)",10,349469.0,7917.0
+WuProver/groebner,WuProver/groebner_proj,Formalization of Gröbner basis theory in Lean4 (WIP),36,345068.0,7818.0
+input-output-hk/CardanoLedgerApi,input-output-hk/CardanoLedgerApiBlaster,Cardano Ledger Api providing the necessary types and predicates to prove Plutus smart contracts with Blaster,11,342260.0,7754.0
+konne88/functorio,konne88/functorio,,298,341788.0,7743.0
+KislyjKisel/raylib,KislyjKisel/Raylib.lean,Raylib bindings for Lean4,34,340302.0,7710.0
+leanprover/pantograph,leanprover/Pantograph,(Mirror) A Machine-to-Machine Interaction System for Lean 4,86,339630.0,7694.0
+JokerXin2025/Calculus_21,JokerXin2025/Calculus_21,An Universe for Mitar —— Classical Calculus,6,339110.0,7683.0
+Linyxus/capless,Linyxus/capless-lean,,4,335670.0,7605.0
+math-xmum/Gametheory,math-xmum/Brouwer,This repo is about the proof of the Nash Equilibrium through Scarf and Brouwer by Mathlib.,32,333098.0,7546.0
+RobertoZunino/ITP_course,RobertoZunino/ITPCourse,An Interactive Theorem Proving course with Lean 4,6,330027.0,7477.0
+paulbutcher/todomvc,paulbutcher/lean-todomvc-max,Complete production webapp in Lean,4,329676.0,7469.0
+strata-org/StrataBoole,strata-org/Strata-Boole,,2,328053.0,7432.0
+chrisflav/bruhat-tits,chrisflav/bruhat-tits,A formalisation of the Bruhat-Tits tree in Lean4,8,327261.0,7414.0
+alok/LeanBench,alok/LeanBench,,3,326155.0,7389.0
+emilyriehl/Game,emilyriehl/ReintroductionToProofs,"A game introducing proofs, dependent type theory, and Lean prepared for a first year seminar course at Johns Hopkins in Fall 2025.",76,325304.0,7370.0
+cmu-l3/llmlean,cmu-l3/llmlean,"LLMs + Lean, on your laptop or in the cloud",224,323348.0,7326.0
+leanprover/nerodia,leanprover/nerodia,Write Python modules in Lean! (WIP),0,317878.0,7202.0
+metamatematico/metamath_prover,metamatematico/Metamatematico---Razonamiento-Formal-con-Lean,Demostrador de enunciados matemáticos con base Lean,3,317300.0,7188.0
+model-checking/rust-lean-models,model-checking/rust-lean-models,Lean models of Rust libraries,40,317299.0,7188.0
+leanprover-community/mil,leanprover-community/mathematics_in_lean,The user home repository for the Mathematics in Lean tutorial.,633,317194.0,7186.0
+leanprover/verso-slides,leanprover/verso-slides,,21,316564.0,7172.0
+KisaraBlue/ec-tate-lean,KisaraBlue/ec-tate-lean,Elliptic curve algorithm verification project built on mathib4,3,315455.0,7147.0
+kbr-/kotlean,kbr-/kotlean,"Kotlean: Android apps, proven. Write the app in Lean with a thin Android host.",5,315145.0,7140.0
+Komyyy/ado,Komyyy/ado,Ongoing human written formal proof of Ado's theorem,4,313160.0,7095.0
+chenle02/neumann-cosine-lean,chenle02/neumann-cosine-lean,"Neumann cosine series on [0,L] and the discrete Neumann Laplacian in Lean 4 and Mathlib",3,311401.0,7055.0
+loganrjmurphy/lib,loganrjmurphy/LeanEuclid,"LeanEuclid is a benchmark for autoformalization in the domain of Euclidean geometry, targeting the proof assistant Lean.",147,310923.0,7044.0
+project-numina/LiveLeanTriathlon,project-numina/LeanTriathlon,,9,309157.0,7004.0
+lamafab/lamafab_algebra,lamafab/algebra,,3,308984.0,7000.0
+AmosNico/validator,AmosNico/validator,Formally Verified Validator for Unsolvability Certificates for Automated Planning in Lean 4,2,307117.0,6958.0
+kkytola/VirasoroProject,kkytola/VirasoroProject,"Lean project on the Virasoro algebra (2-cohomology of the Witt algebra, definition of the Virasoro algebra, ...)",6,306745.0,6949.0
+kckennylau/EllipticCurve,kckennylau/EllipticCurve,Towards a general definition of elliptic curve over schemes,2,305804.0,6928.0
+math-inc/FrontierMathOpenHypergraphs,math-inc/FrontierMathOpen-Hypergraphs,,62,305723.0,6926.0
+gsierra99/ExFormMathL4,gsierra99/ExFormMathL4,,2,305029.0,6910.0
+goens/lost-pop-lean,goens/lost-pop-lean,POP Memory Model in Lean,14,304945.0,6909.0
+lean-machines-central/lean-machines-examples,lean-machines-central/lean-machines-examples,Example specifications for the Lean Machines modelling framework,6,304654.0,6902.0
+kkytola/ExtremeValueProject,kkytola/ExtremeValueProject,A project to formalize Fisher-Tippett-Gnedenko theorem (default project of course MS-EV0029),2,304464.0,6898.0
+Volland/ladybug,Volland/ladybug-lean,"LadybugDB graph database for Lean 4: typed Cypher DSL, cypher% syntax, ORM and an in-memory backend",4,302941.0,6863.0
+YaelDillies/APAP,YaelDillies/apap,Formalisation of the Kelley-Meka bound on Roth numbers,31,302591.0,6855.0
+lindy-labs/aegis,lindy-labs/aegis,Verify Cairo contracts in Lean 4,22,297115.0,6731.0
+ecyrbe/lean-redis,ecyrbe/lean-redis,full featured async redis client for lean 4,7,296185.0,6710.0
+Command-Master/pseudorandom,Command-Master/lean-bourgain,,4,295304.0,6690.0
+ShangtongZhang/RL-Theory,ShangtongZhang/rl-theory-in-lean,Towards Formalizing RL Theory,61,294864.0,6680.0
+leanprover/doc-gen4,leanprover/doc-gen4,Document Generator for Lean 4,176,289379.0,6556.0
+artie2000/real-closed-field,artie2000/real_closed_field,Formalisation of the theory of real closed fields in Lean 4.,15,287503.0,6513.0
+yuma-mizuno/lean-math-workshop,yuma-mizuno/lean-math-workshop,数学系のためのLean勉強会,106,285549.0,6469.0
+edu-ap/legal-lean,edu-ap/legal-lean,LegalLean: Verified Legal Reasoning in Lean 4. Framework for encoding laws as machine-checkable types with FormalisationBoundary encoding Hart's open texture.,2,285128.0,6460.0
+djvelleman/htpi,djvelleman/HTPILeanPackage,"Lean package for ""How To Prove It with Lean"", a companion to the book ""How To Prove It""",44,284518.0,6446.0
+karirogg/strong-robertson-conjecture-for-split-off-minors,karirogg/strong-roberson-conjecture-for-split-off-minors,"Formalization of Oddomorphisms, Split-Off Minors, and the Strong Roberson Conjecture, a result from Arnar Ágúst Kristjánsson",2,284282.0,6440.0
+JD-Jones-ASES/l2Lean,JD-Jones-ASES/l2-lean,"Two-fold Langford sequences exist exactly when 3l >= 2d - 1: a Lean 4 proof, with the m-fold counting bound attained for every m",2,281950.0,6388.0
+sweeneyde/OneMfld,sweeneyde/1mfld,Work on classifying 1-manifolds in lean,2,281609.0,6380.0
+YellPika/quasi-borel-spaces,YellPika/quasi-borel-spaces,A formalization of Quasi-Borel Spaces in Lean 4,11,278886.0,6318.0
+bjoernkjoshanssen/interest,bjoernkjoshanssen/interest,Interest: a Lean library for financial mathematics,3,275290.0,6237.0
+Dominique-Lawson/lean_4,Dominique-Lawson/Directed-Topology-Lean-4,,5,272720.0,6179.0
+sdiehl/ZeroToQED,sdiehl/zero-to-qed,From Zero to QED: An informal introduction to formality with Lean 4,133,270795.0,6135.0
+teorth/expdb,teorth/expdb,Exponent pair database,85,269476.0,6105.0
+pangenome/povu_lean,pangenome/povu,A toolkit for exploring regions of variation in pangenomes,15,269296.0,6101.0
+scidonia/lexpat,scidonia/lexpat,"XML 1.0 parsing semantics in Lean 4, with a resumable streaming core and a bounded differential fixture against libexpat.",2,268651.0,6086.0
+MichaelStollBayreuth/Heights,MichaelStollBayreuth/Heights,An attempt at formalizing the theory of heights in Lean,5,267531.0,6061.0
+leanprover-community/lean4-metaprogramming-book,leanprover-community/lean4-metaprogramming-book,,321,267050.0,6050.0
+postechsv/bakery,postechsv/DMC-Logic,,3,265391.0,6012.0
+argumentcomputer/Poseidon.lean,argumentcomputer/Poseidon.lean,A Lean 4 implementation of the Poseidon zkSNARK-friendly hash function,8,265371.0,6012.0
+T-Brick/wasm,T-Brick/lean-wasm,Formalising the WASM spec in Lean,35,260609.0,5904.0
+Rickerd1234/RelationalAlgebra,Rickerd1234/RelationalAlgebra,University Master Thesis,7,259933.0,5889.0
+PatrickMassot/glimpseOfLean,PatrickMassot/GlimpseOfLean,An introduction to theorem proving in Lean for the impatient.,432,257858.0,5842.0
+knowsys/certifyingDatalog,knowsys/CertifyingDatalog,"A certified checker for Datalog entailments, written in Lean",16,254377.0,5763.0
+pitmonticone/LeanInVienna,pitmonticone/LeanInVienna2024,"Repository hosting resources for the ""Lean Tutorial in Vienna"" at TU Wien from September 18 to 20, 2024.",14,253532.0,5744.0
+lindy-labs/corelib_verification,lindy-labs/corelib_verification,,4,253131.0,5735.0
+JulsDE/MRiscX,JulsDE/MRiscX,A certified RISC-V Interpreter with Hoare-logic in Lean,23,252574.0,5722.0
+siddhartha-gadgil/LeanLangur,siddhartha-gadgil/LeanLangur,Expositions and demos for Lean Prover,12,249577.0,5654.0
+JD-Jones-ASES/FsFormal,JD-Jones-ASES/fs-formal,Palomar-ready Lean formalization of an improved Furstenberg-Sarkozy lower bound,2,249161.0,5645.0
+tukamilano/automated_Theory_Construction,tukamilano/automated-theory-construction-lean,A prototype framework for automated theory construction in Lean 4.,7,247251.0,5602.0
+DhyeyMavani2003/chip-firing-with-lean,DhyeyMavani2003/chip-firing-with-lean,A formalization of chip-firing games and the Riemann-Roch theorem for graphs using the Lean 4 theorem prover.,7,244297.0,5535.0
+Alektronnik/Quantum4Lean,Alektronnik/Quantum4Lean,"Verified quantum computing in Lean 4 with FFI bridge to Apple Silicon (Metal 3). Full NISQ stack, dependent types, formal circuit verification, and mathematical translators to Hamiltonians for autonomous AI.",7,243087.0,5507.0
+AlexKontorovich/CoveringSpacesProject,AlexKontorovich/CoveringSpacesProject,,3,242428.0,5492.0
+ElNando888/KrafftSieve,ElNando888/KrafftSieve,Formal Verification of the Krafft Geometry and the Additive Sieve Architecture,2,239332.0,5422.0
+Beneficial-AI-Foundation/NumpySpec,Beneficial-AI-Foundation/NumpySpec,numpy -> lean 4 through ai,5,237152.0,5373.0
+fpvandoorn/bonnAnalysis,fpvandoorn/BonnAnalysis,repository for the collaborative formalization seminar in Analysis in Bonn,10,236769.0,5364.0
+anoma/goose,anoma/goose-lean,GOOSE in Lean4,12,235358.0,5332.0
+LieLean/Lie,LieLean/LowDimSolvClassification,A classification theorem in Lean of solvable Lie algebras of dimension zero to three,12,233998.0,5301.0
+leanprover-cookbook/Cookbook,leanprover-cookbook/lean-metaprogramming-recipes,A cookbook for Metaprogramming in Lean4 containing code snippets to help you code!,18,232250.0,5262.0
+YijunYuan/HarderNarasimhan,YijunYuan/HarderNarasimhan,Formalization of Harder-Narasimhan theory,2,231794.0,5251.0
+oliver-butterley/SpectralThm,oliver-butterley/SpectralThm,Ongoing project to formalise The Spectral Theorem in Lean prover,10,231380.0,5242.0
+YijunYuan/SphericalCompleteness,YijunYuan/SphericalCompleteness,,4,229438.0,5198.0
+informatica-unica/PL_Lean,informatica-unica/pl-lean,,16,229444.0,5198.0
+korrektness/chartreux,korrektness/chartreux,Verified Dataflow Analysis in Lean,2,226939.0,5141.0
+adomani/mA4N1,adomani/MA4N1_Theorem_proving_with_Lean,MA4N1 Theorem Proving with Lean,19,226716.0,5136.0
+madvorak/chomsky,madvorak/chomsky,Port https://github.com/madvorak/grammars/ to Lean 4,9,226649.0,5135.0
+urkud/SardMoreira,urkud/SardMoreira,Formalization of Moreira's version of Sard's Theorem,6,224664.0,5090.0
+ctchou/AutomataTheory,ctchou/AutomataTheory,Automata theory in Lean,25,224518.0,5086.0
+leanprover-community/Game,leanprover-community/NNG4,Natural Number Game,403,223243.0,5058.0
+ammkrn/timelib,ammkrn/timelib,A date and time library for Lean 4,15,221953.0,5028.0
+mseri/BET,mseri/BET,"Project for ""Machine-Checked Mathematics"" at the Lorentz Center",7,221078.0,5009.0
+Koukyosyumei/runwai_project,Koukyosyumei/Runwai,COMS 6998 (Fall 2025): Refinement-typed DSL for certified AIR constraints and lookups,6,220765.0,5001.0
+sorrachai/FAA2025,sorrachai/FAA2025,"This is the repository for the course ""Formalizing Analysis of Algorithms"", Autumn 2025.",21,218416.0,4948.0
+draperlaboratory/ELFSage,draperlaboratory/ELFSage,A toy ELF parser/validator,19,218251.0,4945.0
+AxiomMath/Deadends,AxiomMath/dead-ends,,15,217967.0,4938.0
+matematiflo/leanproject,matematiflo/CompAssistedMath2024,GitHub repository for the seminar on Computer-assisted mathematics held at the University of Heidelberg during the Summer Semester of 2024.,5,216873.0,4913.0
+T-Brick/controlflow,T-Brick/ControlFlow,A control flow graph library for Lean,7,216757.0,4911.0
+marco-david/ainfinity,marco-david/ainfinity-lean,"Repository for the formalization of A∞ categories, following Seidel's book.",4,216439.0,4903.0
+datokrat/Iterator,datokrat/lean-iterators,"In this repository, I work on the Lean iterator library that is supposed to become part of the standard library.",3,215961.0,4893.0
+math-xmum/Game,math-xmum/AbstractAlgebra,Abstract Algebra Game,4,215694.0,4887.0
+thorimur/skimmer,thorimur/skimmer,,7,215279.0,4877.0
+hgoldstein95/palamedes,hgoldstein95/palamedes-lean,,7,212607.0,4817.0
+katydid/regexderiv,katydid/regex-deriv-lean,Moved to https://git.katydid.org.za/regex-deriv-lean,18,211540.0,4792.0
+igrep/test,igrep/lean-workshop,SF.lean勉強会でigrepが書いたコードの記録,4,210936.0,4779.0
+bergmannjg/time,bergmannjg/time,Port of the haskell time library to Lean 4 and verification of date calculations,6,209734.0,4752.0
+CarlKCarlK/RangeSetBlaze,CarlKCarlK/range-set-blaze-lean,,3,209641.0,4749.0
+Geoc2022/Game,Geoc2022/AlgebraGame,,3,209418.0,4744.0
+zblore/ame125,zblore/fc-ame-12-5,"Lean 4 proof that an AME(12,5) state exists, against Formal Conjectures' Open Quantum Problem 35, via a general graph-state criterion",2,207043.0,4691.0
+AxiomMath/PartialRegularity,AxiomMath/partial-regularity,"Lean formalizations for the paper ""Almost all primes are partially regular""",6,207021.0,4690.0
+krzysztofwos/hyperreals-formalization,krzysztofwos/hyperreals,Hyperreal arithmetic with SAT-backed lazy ultrafilters for non-standard analysis and automatic differentiation,2,206734.0,4684.0
+astrainfinita/algorithm,astrainfinita/Algorithm,Verified efficient algorithms in Lean4.,41,205704.0,4660.0
+leanprover/leansqlite,leanprover/leansqlite,SQLite bindings for Lean,56,205153.0,4648.0
+AdrienChampion/collChoSoWel,AdrienChampion/collChoSoWel,,5,204950.0,4643.0
+ruplet/BoundedArithmetic,ruplet/formalization-of-bounded-arithmetic,,10,203229.0,4604.0
+emilyriehl/InfinityCosmos,emilyriehl/infinity-cosmos,A blueprint for a formalization of infinity-cosmos theory in Lean.,123,202871.0,4596.0
+rami3l/plfl,rami3l/PLFaLean,Learn Lean 4 with PLFA proofs.,121,199090.0,4510.0
+siddhartha-gadgil/lean-loris,siddhartha-gadgil/lean-loris,Experiments with some ways of automating reasoning in lean 4,19,196645.0,4455.0
+wwylele/Compass,wwylele/Compass,Straightedge and compass construction in Lean,2,194717.0,4411.0
+vltanh/lean4-analysis-tao,vltanh/lean4-analysis-tao,"Formalization of ""Analysis I"" by Terence Tao",27,192449.0,4360.0
+ahhwuhu/Zeta3Irrational,ahhwuhu/zeta_3_irrational,,10,192231.0,4355.0
+weiran-sun/PDE,weiran-sun/pde,PDE Lean formalization,10,189174.0,4286.0
+kim-em/ErdosUnitDistance,kim-em/erdos-unit-distance,Formalization of Alpöge's disproof of the uniform-constant Erdős unit-distance conjecture (companion to mathlib4 branch kim/erdos-unit-distance),7,189160.0,4285.0
+vikraman/event-structures,vikraman/event-structures,Formalisation of some facts about event structures and reversibility,2,188453.0,4269.0
+NethermindEth/FVIntmax,NethermindEth/FVIntmax,Formal verification of the Intmax protocol in Lean.,11,188294.0,4266.0
+JD-Jones-ASES/planarMidpoint,JD-Jones-ASES/PlanarMidpoint,Planar Euclidean dual-geodesic midpoint rigidity,2,187941.0,4258.0
+amellendijk/BV,amellendijk/lean-bombieri-vinogradov,A Lean blueprint documenting a formalization of Bombieri-Vinogradov,5,185253.0,4197.0
+ejgallego/implab,ejgallego/imp-lab,Lean playground for programming language modeling tooling.,16,184673.0,4184.0
+JoshuaPurtell/lithe,JoshuaPurtell/lithe,simple web service in lean4,21,184355.0,4177.0
+ionathanch/CBPV,ionathanch/CBPV,Lean 4 mechanization of assorted CBPV metatheory.,5,183479.0,4157.0
+hwatheod/galeShapley,hwatheod/galeshapley-lean,Formalization in Lean of some results related to stable matchings and the Gale-Shapley algorithm,2,183356.0,4154.0
+hhu-adam/GameServer,hhu-adam/GameServer,package for building lean games,3,183077.0,4148.0
+tydeu/alloy,tydeu/lean4-alloy,Write C shims from within Lean code.,85,179447.0,4065.0
+siddhartha-gadgil/Polylean,siddhartha-gadgil/Polylean,,8,178144.0,4036.0
+amarmaduke/lean-subst,amarmaduke/lean-subst,Lean4 library for substitution inspired by autosubst,16,177630.0,4024.0
+WuProver/MonomialOrderedPolynomial,WuProver/MonomialOrderedPolynomial,Monomial ordered polynomial implementation in Lean4,11,177344.0,4018.0
+Bergschaf/Localic-Caratheodory-Extensions,Bergschaf/Localic-Caratheodory-Extensions,,3,175053.0,3966.0
+ah1112/synthetic_euclid_4,ah1112/synthetic_euclid_4,,14,173769.0,3937.0
+cslib-community/fad,cslib-community/fad,Functional Algorithms Design,19,173422.0,3929.0
+leanprover-community/tutorials4,leanprover-community/tutorials4,Lean 4 tutorial files,64,172339.0,3904.0
+AnirudhG07/huffman,AnirudhG07/LeanHuffmanCoding,Huffman coding in Lean 4 with a formal optimality proof and Unix pack/unpack (.z) compatibility.,4,171960.0,3896.0
+FredRaj3/SemicircleLaw,FredRaj3/SemicircleLaw,Formalization of Wigner's Semicircle Law in Lean,8,168652.0,3821.0
+parabamoghv/Symm,parabamoghv/DashedMonoids,Formalization of a new data structure: Dashed-Monoids,4,168657.0,3821.0
+jongwony/epistemic-protocols,jongwony/epistemic-protocols,Epistemic protocols for Claude Code — structure human-AI interaction quality at every decision point - https://epistemic-protocols.com,177,167191.0,3788.0
+Volland/agentLean,Volland/agent.lean,"A tiny, verifiable agent library in Lean 4 that compiles to C",3,166541.0,3773.0
+fgdorais/extra,fgdorais/extra4,Supplements to the Lean 4 Standard Library,4,166462.0,3771.0
+monsterkrampe/PossiblyInfiniteTrees,monsterkrampe/Possibly-Infinite-Trees,This repo formalizes (possibly) infinite trees of finite degree in Lean. So far this is mainly a dependency for one of my other projects and tailored towards this purpose. The repo features a formalization of (a special case of) König's Lemma.,2,165167.0,3742.0
+fpvandoorn/LogicColloquiumTutorial,fpvandoorn/LogicColloquiumTutorial,The Lean tutorial for Logic Colloquium 2023,4,165050.0,3739.0
+cslib-community/bignum,cslib-community/bignum,port of s2n-bignum to Lean,7,164496.0,3727.0
+lf-lang/reactor-model,lf-lang/reactor-model,A Lean-based formalization of the Reactor model.,6,164412.0,3725.0
+leanprover-community/proofwidgets,leanprover-community/ProofWidgets4,Helper toolkit for creating your own Lean 4 UserWidgets,234,164019.0,3716.0
+fraware/leanverifier,fraware/leanverifier,"Framework for specifying and proving properties—such as robustness, fairness, and interpretability—of machine learning models using Lean 4.",88,163992.0,3715.0
+Paper-Proof/paperproof,Paper-Proof/paperproof,Lean theorem proving interface which feels like pen-and-paper proofs.,556,163236.0,3698.0
+girving/ray-series,girving/series,Power series arithmetic in Lean,14,161567.0,3660.0
+mitchell-horner/ErdosStoneSimonovitsKovariSosTuran,mitchell-horner/ErdosStoneSimonovitsKovariSosTuran,Formalising the Erdős-Stone-Simonovits theorem and the Kővári–Sós–Turán theorem in Lean,2,160774.0,3642.0
+AlexLoitzl/pumping_cfg,AlexLoitzl/pumping_cfg,,3,157631.0,3571.0
+JadAbouHawili/Game,JadAbouHawili/KnightsAndKnaves-Lean4Game,Knights and Knaves Educational Game in Lean 4,9,157601.0,3570.0
+sinhp/leanFibredCategories,sinhp/LeanFibredCategories,A Lean4 Formalization of Fibred Categories,5,157187.0,3561.0
+Parcly-Taxel/Redhill,Parcly-Taxel/Redhill,A formalisation of the disproof of Ramaekers's conjecture,5,156887.0,3554.0
+thefundamentaltheor3m/SphereCeti,thefundamentaltheor3m/SphereCeti,,3,155204.0,3516.0
+ImperialCollegeLondon/IUM,ImperialCollegeLondon/IUM,Lean formalisation of parts of Imperial College London's Introduction to University Mathematics course,20,155104.0,3514.0
+google-deepmind/minif2f,google-deepmind/miniF2F,"A fork of openai/miniF2F adapted to Lean 4, with corrections to formalizations and informal descriptions. for human readers.",15,154873.0,3509.0
+siddhartha-gadgil/saturn,siddhartha-gadgil/Saturn,Experiments with SAT solvers with proofs in Lean 4,64,154191.0,3493.0
+leanprover-community/flt-regular,leanprover-community/flt-regular,Fermat's Last Theorem for regular primes,75,154123.0,3492.0
+leanprover-community/AddCombi,leanprover-community/add-combi,The sublibrary of Mathlib dedicated to additive combinatorics,19,154007.0,3489.0
+JD-Jones-ASES/xRayLean,JD-Jones-ASES/x-ray-lean,"Lean proofs of constructive binary X-ray families, counting bounds, and an extension theorem",2,153977.0,3488.0
+objectionary/phi-confluence,objectionary/proof,"Automated proof of 𝜑-calculus confluence, written in Lean4",8,153420.0,3476.0
+bkase/VerifiedGPU,bkase/verified-gpu,,7,153302.0,3473.0
+nimarasekh/Formalization_SoSe25,nimarasekh/Formalization-SoSe25,Teaching Material for Course on Formalization Summer Semester 2025 at Uni Greifswald,19,153190.0,3471.0
+mariovagomarzal/HigherCategoryTheory,mariovagomarzal/higher_category_theory,"A formal verification project based on the work by Enric Cosme Llópez on ""Higher-order categories"".",5,151749.0,3438.0
+medovina/natural,medovina/natural_lean,A controlled natural language syntax for Lean.,62,151549.0,3433.0
+TintifaxTheGreat/zeta-rigidity,TintifaxTheGreat/zeta-rigidity,A rigidity theorem: a valuation whose Dirichlet series matches the Riemann zeta function must be the ordinary primes.,4,150902.0,3419.0
+oOo0oOo/LeanSerde,oOo0oOo/LeanSerde,Type-safe serialization for Lean,7,150421.0,3408.0
+solana-foundation/solanalib,solana-foundation/leanprover-solanalib,⚠️ Experimental | Prototype,1,150188.0,3403.0
+alexkeizer/qpf,alexkeizer/QPFTypes,A WIP definitional (co)datatype package for Lean4,56,150187.0,3403.0
+leanprover-community/plausible,leanprover-community/plausible,,128,149900.0,3396.0
+girving/render,girving/ray-render,Verified renders of the Mandelbrot set,8,149871.0,3395.0
+RikHeurter/BscThesisFormalisation,RikHeurter/LeanBscThesisFormalisation,,2,149528.0,3388.0
+kmill/msri2023_graphs,kmill/msri2023_graphs,Repository for graph theory & combinatorics group at the MSRI Lean summer school,4,147278.0,3337.0
+google-deepmind/debate,google-deepmind/debate,Formalizing stochastic doubly-efficient debate,120,147216.0,3335.0
+codyroux/traat,codyroux/traat-lean,"Lean formalization of selected lemmas from ""Term Rewriting and All That""",18,146612.0,3322.0
+edwin1729/bppl,edwin1729/bppl-logic,Probabilistic Separation Logic,3,146600.0,3321.0
+Timeroot/computableReal,Timeroot/ComputableReal,computable implementation of real numbers in Lean4,55,144637.0,3277.0
+argumentcomputer/Wasm.lean,argumentcomputer/Wasm.lean,A WebAssembly implementation in Lean4,52,143318.0,3247.0
+Trequetrum/Game,Trequetrum/lean4game-logic,Make/Encode some basic logic puzzles,22,143034.0,3240.0
+fgdorais/UnicodeBasic,fgdorais/lean4-unicode-basic,Basic Unicode support for Lean 4,16,142380.0,3226.0
+AxiomMath/FelConjecture,AxiomMath/fel-polynomial,"Lean formalizations for the paper ""Fel's conjecture on syzigies of numerical semigroups""",47,142151.0,3220.0
+b-mehta/ABCExceptions,b-mehta/ABC-Exceptions,Exceptions to the ABC conjecture in Lean,19,141675.0,3210.0
+amellendijk/selbergSieve,amellendijk/selberg-sieve4,A formalisation of the Selberg sieve in Lean 4,4,139376.0,3158.0
+vihdzp/Rubik,vihdzp/rubik-lean4,Lean 4 formalization of Rubik's cubes,37,139309.0,3156.0
+lindy-labs/WadrayVerification,lindy-labs/wadray_verification,Verification of the Wadray library,2,138952.0,3148.0
+ecyrbe/lean-units,ecyrbe/lean-units,"lean physical unit system, SI international",11,137957.0,3125.0
+ISTA-PLV/Coinductive,ISTA-PLV/coinductive,Co-inductive datatypes for Lean,20,137715.0,3120.0
+zkcrypto/cryptolib,zkcrypto/cryptolib,The cryptography library of Lean 4,8,137537.0,3116.0
+joehendrix/lean-crypto,joehendrix/lean-crypto,Cryptographic routines for the Lean 4 language,53,136156.0,3085.0
+agostbiro/my-lean,agostbiro/my-lean,A monorepo containing my personal Lean projects,2,134647.0,3050.0
+ecyrbe/leanio,ecyrbe/leanio,HTTP router for Lean4,14,134544.0,3048.0
+yangky11/miniF2F-lean4,yangky11/miniF2F-lean4,,77,134371.0,3044.0
+jsm28/AM,jsm28/AperiodicMonotilesLean,Lean formalization of aperiodic monotiles papers (staging repository for material not yet in mathlib),17,134284.0,3042.0
+JOSHCLUNE/Hammer,JOSHCLUNE/LeanHammer,LeanHammer is an automated reasoning tool for Lean that brings together multiple proof search and reconstruction techniques and combines them into one tool.,104,133476.0,3024.0
+ImperialCollegeLondon/M1F-explained,ImperialCollegeLondon/M1F-explained,"A computer formalisation of parts of Martin Liebeck's book ""a concise introduction to pure mathematics""",11,133443.0,3023.0
+haskell-spec/haskell-spec,haskell-spec/haskell-spec,Formal specification of the Haskell Language Report,35,132801.0,3009.0
+argumentcomputer/YatimaStdLib,argumentcomputer/YatimaStdLib.lean,,9,132558.0,3003.0
+RemyDegenne/ChallengeGen,RemyDegenne/challenge-gen,A Lean tool to generate Comparator challenge files,2,131372.0,2976.0
+m4lvin/Gossip,m4lvin/Gossip-in-Lean,Verified Results about Gossip protocols in Lean 4,2,130655.0,2960.0
+pelicanhere/AutoGeneralization,pelicanhere/AutoGeneralization,Kernel-checked theorem generalization for Lean,2,130490.0,2956.0
+chasenorman/Canonical,chasenorman/CanonicalLean,"A Lean tactic for Canonical, a search procedure for terms in dependent type theory.",142,130135.0,2948.0
+lamafab/octra-hfhe,lamafab/octra-hfhe-lean,,5,129140.0,2926.0
+paulch42/leanSpec,paulch42/lean-spec,Program Specification in Lean 4,27,129018.0,2923.0
+fpvandoorn/HausdorffSchoolLean,fpvandoorn/HausdorffSchoolLean,Repository for the September 2023 Hausdorff School on Lean,6,128722.0,2916.0
+arademaker/vizagrams,arademaker/vizagrams,A visualization library for Lean,5,128049.0,2901.0
+predictable-machines/json-schema,predictable-machines/lean4-json-schema,"Lean 4 JSON Schema library — types, validation, correctness proofs, and deriving handlers",32,128025.0,2900.0
+anoma/juvix-lean,anoma/juvix-lean,Juvix Lean library for compiler run verification,7,126659.0,2869.0
+mrdouglasny/SpectralPositivity,mrdouglasny/spectral-positivity,"Perron-Frobenius, Jentzsch theorem, and matrix/operator positivity in Lean 4",4,126579.0,2868.0
+alok/LeanDidax2,alok/LeanDidax2,Pedagogical autodiff library in Lean 4 with forward/reverse modes and vectorization,2,124983.0,2832.0
+Shreyas4991/DGAlgorithms,Shreyas4991/DGAlgorithms,Distributed Graph Algorithms in Lean,7,124956.0,2831.0
+google-deepmind/putnam_like,google-deepmind/formal-putnam-like,Lean formalizations of Putnam-like problems,22,121108.0,2744.0
+amarmaduke/lean-stlc,amarmaduke/lean-stlc,Lean4 mechanization of the simply typed lambda calculus and its metatheory including strong normalization,2,121043.0,2742.0
+Beneficial-AI-Foundation/PQXDH-lean,Beneficial-AI-Foundation/PostQuantumeXtendedDiffieHellman-model,,9,119735.0,2713.0
+argumentcomputer/ZKSnark.lean,argumentcomputer/ZKSnark.lean,https://yatima-inc.github.io/ZKSnark.lean/,8,118954.0,2695.0
+ivankobe/FactorizationSystems,ivankobe/FactorizationSystems,,2,118673.0,2689.0
+lenianiva/Prismriver,lenianiva/Prismriver,(Mirror) A Music formalization library and DSL in Lean 4,28,118573.0,2686.0
+zilberstein/convex-powerset,zilberstein/convex-powerset,,10,117209.0,2655.0
+YaelDillies/MiscYD,YaelDillies/misc-yd,Miscellaneous projects I am working on in Lean,4,117000.0,2651.0
+somombo/quicksort,somombo/formalized-quicksort,Implementation and Formal Verification of the Quicksort Algorithm,5,116979.0,2650.0
+RileyBetts/lean-tee,RileyBetts/lean-tee,"Lean-specified zkTEE: measured guest execution, hashed receipts, lean-grpc APIs",3,116115.0,2631.0
+proofs-and-programs/PfsProgs25,proofs-and-programs/proofs-and-programs-25,"Code for the course ""Proofs and Programs"", January 2025, IISc",12,115443.0,2615.0
+riccardobrasca/lFTCM2024,riccardobrasca/LFTCM2024,Repository for the conference LFTCM2024,11,114709.0,2599.0
+FormalizedFormalLogic/incompleteness,FormalizedFormalLogic/Incompleteness,Formalize Incompleness Theorem Related Results,8,113819.0,2579.0
+YaelDillies/MeanFourier,YaelDillies/mean-fourier,Formalisation of mean Fourier analysis in Lean 4,5,111746.0,2532.0
+wwylele/PentagonalNumber,wwylele/PentagonalNumberTheorem,,6,111576.0,2528.0
+argumentcomputer/Lurk.lean,argumentcomputer/Lurk.lean,A Lean 4 implementation of the Lurk Language for recursive zkSNARKS,9,111041.0,2516.0
+b-mehta/PrimeCert,b-mehta/PrimeCert,Formal prime certificates in Lean 4,13,110797.0,2510.0
+JamesGallicchio/leancolls,JamesGallicchio/LeanColls,WIP collections library for Lean 4,32,110645.0,2507.0
+JobPetrovcic/ArtinWedderburn,JobPetrovcic/ArtinWedderburn,A formalized proof of Artin-Wedderburn theorem in Lean4,4,109410.0,2479.0
+algebraic-dev/Http,algebraic-dev/http,🌐 | HTTP primitives for Lean 4,57,109369.0,2478.0
+leanprover/LeroyCompilerVerificationCourse,leanprover/LeroyCompilerVerificationCourse,,12,108975.0,2469.0
+JD-Jones-ASES/spernerT7Lean,JD-Jones-ASES/sperner-t7-lean,"A 7-vertex tournament whose Sperner capacity exceeds the order of its largest transitive subtournament (Lean 4, kernel-only)",2,107849.0,2443.0
+a2435191/logic-formalization,a2435191/lean-logic-formalization,"Formalize ""Logic Notes"" by Lou van den Dries in Lean",12,105629.0,2393.0
+rah4927/lean-dojo-mew,rah4927/lean-dojo-mew,,8,105198.0,2383.0
+eric-wieser/matrix_cookbook,eric-wieser/lean-matrix-cookbook,"The matrix cookbook, proved in the Lean theorem prover",135,104817.0,2375.0
+riccardobrasca/math2001,riccardobrasca/demontrer2025,,3,104346.0,2364.0
+fgdorais/algebra,fgdorais/algebra4,Algebra library for Lean 4,2,103911.0,2354.0
+Deducteam/Lean2Dk,Deducteam/lean2dk,WIP translation from Lean to Dedukti,12,102588.0,2324.0
+leanprover/leanInk,leanprover/LeanInk,LeanInk is a command line helper tool for Alectryon which aims to ease the integration of Lean 4.,67,102399.0,2320.0
+predictable-machines/flow,predictable-machines/lean4-flow,"Reactive streams library for Lean 4 — Flow, SharedFlow, StateFlow, ProgramFlow, and ReactiveProgram",11,101095.0,2290.0
+WuProver/GroebnerTac,WuProver/GroebnerTactic,,11,101042.0,2289.0
+pimpale/LLM.lean,pimpale/llm.lean,,6,100528.0,2277.0
+Project-Navi/CdFormal,Project-Navi/cd-formalization,"Lean 4 + Mathlib formalization of the Creative Determinant framework — 15 theorems proved with zero sorry, CI-enforced via lake build --wfail",2,99817.0,2261.0
+leanprover/Cli,leanprover/lean4-cli,A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.,127,98787.0,2238.0
+leanprover/hex-lll,leanprover/hex-lll,LLL lattice reduction for the hex project (optional fpLLL FFI). Mathlib-free.,2,97623.0,2212.0
+leanprover/versowebcomponents,leanprover/verso-web-components,A collection of reusable components from the Lean website designed build related sites with the same look and feel.,3,97487.0,2209.0
+SchrodingerZhu/lean-gccjit,SchrodingerZhu/lean-gccjit,libgccjit bindings for Lean4,7,96570.0,2188.0
+ionathanch/MutualInduction,ionathanch/MutualInduction,A mutual induction tactic for Lean 4.,33,95622.0,2166.0
+ammkrn/lean-url,ammkrn/lean-url,URL library for lean4 based on the whatwg url standard,2,94987.0,2152.0
+vbeffara/rMT4,vbeffara/RMT4,The Riemann mapping theorem,5,94687.0,2145.0
+oOo0oOo/LeanSage,oOo0oOo/LeanSage,SageMath integration for Lean4,15,94436.0,2139.0
+functionally/Crypto,functionally/crypto-lean4,Implementation of various cryptographic functions in Lean4,3,94111.0,2132.0
+formalproofs/mdplib,formalproofs/MDPLib,Formalization of MDP Theory,4,93966.0,2129.0
+leanprover-community/Qq,leanprover-community/quote4,"Intuitive, type-safe expression quotations for Lean 4.",112,93921.0,2128.0
+dwrensha/rupert,dwrensha/Rupert.lean,Formalization of the Rupert Problem for convex polyhedra.,21,92826.0,2103.0
+niklasmohrin/LeanSeminar,niklasmohrin/lean-seminar-2023,Construction of a flow equivalent forest from a flow matrix in Lean 4,2,92790.0,2102.0
+madvorak/duality,madvorak/duality,Duality theory in linear optimization and its extensions,13,90709.0,2055.0
+samuelborza/IsTranscendentalPi,samuelborza/IsTranscendentalPi,Formalization in Lean of the transcendence of π.,4,90469.0,2050.0
+siddhartha-gadgil/pnP2023,siddhartha-gadgil/proofs-and-programs-2023,"Code and source for website for the course ""Proofs and Programs"", January 2023, Indian Institute of Science",9,89990.0,2039.0
+frenzymath/reap,frenzymath/reap,General neural tactic for Lean 4,49,89683.0,2032.0
+josephmckinsey/flean,josephmckinsey/Flean,Floating point numbers in lean. A replacement of Mathlib.Data.FP,9,89365.0,2025.0
+znssong/Frucht,znssong/Frucht,Formalization of Frucht's theorem in Lean,6,89228.0,2021.0
+tdzl2003/geometry,tdzl2003/LeanEuclid,,2,89164.0,2020.0
+palladin/lean_reducers,palladin/lean-reducers,"Parallel, fused reducers for Lean 4",16,88747.0,2011.0
+Happyves/workshop,Happyves/BerLean_Workshop,Repo for the first BerLean workshop.,4,88655.0,2008.0
+tydeu/partax,tydeu/lean4-partax,Lean 4 library of tools for parsing and compiling syntax and parser definitions.,17,88258.0,1999.0
+smmercuri/adele-ring_locally-compact,smmercuri/adele-ring_locally-compact,"The proof that the adele ring of a number field is locally compact, formalised in Lean 4.",2,88122.0,1996.0
+Jun2M/MasterDiss,Jun2M/Main-theorem-of-polytopes,Proving the main theorem of polytopes using Lean 4,3,87538.0,1983.0
+israelflores8789/Eig3x3,israelflores8789/eig3x3-lean,"Fast, numerically-stable, pure Lean4 closed-form floating-point eigensolver of 3x3 symmetric matrices",2,87371.0,1979.0
+argumentcomputer/Blake3,argumentcomputer/Blake3.lean,Lean4 bindings to Blake3,9,87176.0,1975.0
+mlyean/coxeter,mlyean/lean-coxeter,Coxeter groups in Lean 4,2,86055.0,1950.0
+YaelDillies/Toric,YaelDillies/toric,Formalisation of toric varieties in Lean 4,15,85163.0,1929.0
+MichaelStollBayreuth/Weights,MichaelStollBayreuth/Weights,"Formalization in Lean4 of some results in ""Minimization of hypersurfaces"" by A.-S. Elsenhans and myself",6,84591.0,1916.0
+hargoniX/leanwuzla,hargoniX/Leanwuzla,Connecting bv_decide to SMTLIB.,19,84233.0,1908.0
+ElifUskuplu/stlc,ElifUskuplu/Stlc_deBruijn,Simply Typed Lambda Calculus with de Bruijn indices,20,84010.0,1903.0
+MichaelStollBayreuth/legendre_QF,MichaelStollBayreuth/LegendreQF,Lean code formalizing a proof of Legendre's theorem on diagonal ternary quadratic forms,4,83566.0,1893.0
+argumentcomputer/LSpec,argumentcomputer/LSpec,A Testing Framework for Lean,86,83452.0,1891.0
+lecopivo/leanblas,lecopivo/LeanBLAS,Bindings and specification for BLAS,11,83375.0,1889.0
+nomeata/wfinduct,nomeata/lean-wf-induct,,18,83381.0,1889.0
+Hagb/lean-groebner,Hagb/lean-groebner,Lean4 formalization of Gröbner basis (WIP),9,82128.0,1861.0
+SrGaabriel/leaner,SrGaabriel/leaner,"🪶 | A linter, formatter and whole-program dead code eliminator for Lean 4",2,81822.0,1854.0
+todbeibrot/mrdi,todbeibrot/Lean-Oscar,An interface between Lean4 and Oscar.,4,81124.0,1838.0
+nomeata/loogle,nomeata/loogle,Mathlib search tool,161,80652.0,1827.0
+oOo0oOo/LeanRPC,oOo0oOo/LeanRPC,Serve Lean 4 functions as RPC methods over HTTP,5,78766.0,1784.0
+mathlib-initiative/lean_scout,mathlib-initiative/lean_scout,,3,78602.0,1781.0
+matthunz/circuitlib,matthunz/circuitlib,A digital circuit verification library for Lean4,12,78377.0,1776.0
+algebraic-dev/Parse,algebraic-dev/parse,🧩 | Parser generation for Lean 4.,9,78165.0,1771.0
+alma-n/Game,alma-n/ConstructiveLogicCourseGame,,1,77021.0,1745.0
+JadAbouHawili/SmullyanKnightsAndKnaves,JadAbouHawili/Raymond-Smullyan-KnightsAndKnaves,Formalization and solution of knights and knaves puzzles in lean 4,2,76862.0,1741.0
+CharlesHoskinson/proof_zk_recovery_ci,CharlesHoskinson/proof-zk-recovery,"ZK recovery contract: design, audits, and prototyping (private)",17,76399.0,1731.0
+argumentcomputer/Megaparsec.lean,argumentcomputer/Megaparsec.lean,Lean 4 port of Megaparsec,37,76376.0,1730.0
+Axiomatic-AI/LeanCryptography,Axiomatic-AI/lean-branch-number,Contains lean blueprint for a result on branch numbers.,2,76314.0,1729.0
+lambdaclass/trzk,lambdaclass/truth_research_zk,Verified Optimizing Compiler for Cryptographic Primitives,44,75489.0,1710.0
+CAIMEOX/json-schema,CAIMEOX/json-schema-lean,Json Schema lean implementation,8,75071.0,1701.0
+leanprover/SHerLOC,leanprover/SHerLOC,A StableHLO analyzer in Lean,26,74941.0,1698.0
+YaelDillies/GibbsMeasure,YaelDillies/gibbs-measure,ASCI Summer Research Lean,10,74911.0,1697.0
+SamuelSchlesinger/shannon-entropy,SamuelSchlesinger/shannon-1948-formalization,A formalization of Shannon's seminal 1948 paper defining entropy.,17,74631.0,1691.0
+rahul3613/miniF2F-lean4,rahul3613/miniF2F-lean4,miniF2F dataset ported into Lean 4,7,72986.0,1654.0
+fpvandoorn/sard,fpvandoorn/sard,Work towards a general version of Sard's theorem in Lean 4,2,72752.0,1648.0
+sciencraft/LeanCat,sciencraft/LeanCat,Lean4 benchmark on 1 category.,30,72147.0,1635.0
+fgdorais/Parser,fgdorais/lean4-parser,Parser Combinator Library for Lean 4,89,72009.0,1631.0
+AxiomMath/AgreeToDisagree,AxiomMath/AgreeToDisagree,"Lean formalizations of the paper ""We Can't Agree to Disagree, Formally: Aumann's Theorem and Assumption Accounting in Lean""",22,71761.0,1626.0
+mirefek/tactic-programming-beginner-guide,mirefek/lean-tactic-programming-guide,Beginner's guide to Tactic Programming in Lean,98,70934.0,1607.0
+PeterKementzey/Graph,PeterKementzey/graph-library-for-lean4,,22,70893.0,1606.0
+inQWIRE/quantumlib,inQWIRE/LeanQuantum,A Quantum Computing Library in LEAN,28,70389.0,1595.0
+alok/tetraGray,alok/TetraGray,General-relativistic raytracer in Lean 4 with geometric algebra for black hole visualization,2,69695.0,1579.0
+YaelDillies/ForbiddenMatrix,YaelDillies/forbidden-matrix,Formalisation of forbidden matrix theory,2,69635.0,1578.0
+marozols/CliffordProject,marozols/clifford-project,Lean formalization of the structure theorem for the single-qudit Clifford group,6,69473.0,1574.0
+kbuzzard/Game,kbuzzard/FilterGame,An interactive game introducing the concept of a filter.,5,68985.0,1563.0
+KentBeck/BPlusTreeLean,KentBeck/BPlusTreeLean,,3,68308.0,1548.0
+dupuisf/BibtexQuery,dupuisf/BibtexQuery,A simple command-line bibtex query utility written in Lean 4,11,68181.0,1545.0
+pitmonticone/ItaLean,pitmonticone/ItaLean2025,"Repository hosting the resources for the conference ""ItaLean 2025"", held in Bologna, Italy, December 9–12, 2025.",25,68151.0,1544.0
+pitmonticone/CHANGE,pitmonticone/LeanCHANGE,"Repository hosting the resources for the Lean demo session of my talk presented at the weekly research seminar on CHallenges in ANalysis and GEometry (CHANGE) at the University of Trento on February 11, 2025.",5,67992.0,1540.0
+Oscario0/LeanBisection,Oscario0/LeanBisection,The Bisection method is the simplest numerical approximation approach in mathematics that applies to any continuous function on an interval where the value of the function changes sign from one-end-point of the interval to another,3,67774.0,1535.0
+zblore/dixjac,zblore/fc-dixmier-jacobian,,2,67570.0,1531.0
+pitmonticone/QuadraticIntegers,pitmonticone/QuadraticIntegers,Formalising the Ring of Integers in Quadratic Fields in the Lean proof assistant.,2,66808.0,1514.0
+qualgebra/LeanToolkit,qualgebra/LeanToolkit,A set of tools and extensions for Lean,2,66395.0,1504.0
+GaloisInc/zkLeanEcosystem,GaloisInc/zkLean,zkLean is a domain specific language (DSL) in Lean for specifying zero-knowledge statements,40,66269.0,1501.0
+verse-lab/ssreflect,verse-lab/lean-ssr,LeanSSR: an SSReflect-Like Tactic Language for Lean,45,66103.0,1498.0
+riccardobrasca/SDG,riccardobrasca/SDG,Synthetic Differential Geometry in Lean,9,66097.0,1497.0
+rahul3613/proofNet-lean4,rahul3613/ProofNet-lean4,ProofNet dataset ported into Lean 4,31,65833.0,1491.0
+siddhartha-gadgil/LeanLion,siddhartha-gadgil/LeanLion,Code for Singapore Workshop on Formal Proofs and Lean,4,65695.0,1488.0
+leanprover-community/LeanUpdate,leanprover-community/lean-update,GitHub Action which automatically updates Lean projects,7,65590.0,1486.0
+Luka-O/polya-enumeration-theorem,Luka-O/polya-enumeration-theorem,A Lean 4 formalization of Pólya enumeration theorem.,21,65251.0,1478.0
+linhaowei1/SumDiffProof,linhaowei1/sum-diff-proof,,18,64976.0,1472.0
+leanprover-community/REPL,leanprover-community/repl,"A simple REPL for Lean 4, returning information about errors and sorries.",239,64760.0,1467.0
+argumentcomputer/Ipld.lean,argumentcomputer/Ipld.lean,a Lean4 implementation of the IPLD format,8,64619.0,1464.0
+JamesGallicchio/Http,JamesGallicchio/http,Basic HTTP definitions and parsing for Lean,9,64523.0,1462.0
+lean-dojo/LeanCopilot,lean-dojo/LeanCopilot,LLMs as Copilots for Theorem Proving in Lean,1349,64189.0,1454.0
+arthurpaulino/FxyLang,arthurpaulino/FxyLang,,16,63912.0,1448.0
+AeneasVerif/tutorial,AeneasVerif/icfp-tutorial,Aeneas tutorial for ICFP,11,63560.0,1440.0
+sysghent/riddle-proofs,sysghent/learn-lean-riddles,Riddles solved in Lean4 for educational purposes,7,63421.0,1437.0
+hhu-adam/i18n,hhu-adam/lean-i18n,i18n library for Lean.,14,63395.0,1436.0
+alexjbest/leaff,alexjbest/leaff,Leaff is a diff tool for Lean environments,26,63276.0,1434.0
+matematiflo/SumSq,matematiflo/SumsOfSquares,Summing squares in Lean,3,63080.0,1429.0
+kmill/LeanTeX,kmill/LeanTeX,Lean 4 library for pretty printing expressions as LaTeX,42,62898.0,1425.0
+runbikeswim/lean-semver,runbikeswim/lean-semver,Semantic Versioning in Lean4,7,62374.0,1413.0
+Paul-Lez/PersistentDecomp,Paul-Lez/PersistentDecomp,Formalizing the Structure Theorem for Persistence Modules,8,62003.0,1405.0
+NaveenMaurya749/VersionControl,NaveenMaurya749/VerifiedVersionControl,"A repository for participation in the LeanLang for Autonomy Hackathon held from April 17 to May 01, 2026 at Indian Institute of Science, organised by Emergence AI.",2,61827.0,1401.0
+schergen-org/leansi,schergen-org/Leansi,Leansi is a Lean Library for terminal formatting.,12,61467.0,1393.0
+hanwenzhu/LeanArchitect,hanwenzhu/LeanArchitect,LeanArchitect extracts a blueprint directly from Lean source.,94,61354.0,1390.0
+fgdorais/lean4-automata,fgdorais/lean4-automata,,2,61127.0,1385.0
+oOo0oOo/paranoia,oOo0oOo/LeanParanoia,Lean 4 proof verification without reference,5,60961.0,1381.0
+dwrensha/Chess,dwrensha/Chess.lean,Chess in Lean 4,41,60853.0,1379.0
+zengineco/gonzalgo,zengineco/gonzalgo,"Write out the declaration graph of a Lean environment, statement dependencies kept apart from proof dependencies, so you can find what a theorem actually rests on.",2,60722.0,1376.0
+b-mehta/AharoniKorman,b-mehta/AharoniKorman,Disproof of the Aharoni–Korman conjecture,12,60473.0,1370.0
+tadamcz/Erdos548,tadamcz/erdos548,"Lean 4 Erdős problem #548 (Erdős–Sós conjecture): proof, found by GPT-6 Astra in the FrontierMath Erdős benchmark",5,60139.0,1362.0
+Antoine-dSG/frieze_patterns,Antoine-dSG/frieze_patterns,A project to formalise Coxeter's frieze patterns,6,59987.0,1359.0
+NUS-Math-Formalization/Game,NUS-Math-Formalization/CalculusSkeleton,,4,59964.0,1358.0
+JD-Jones-ASES/nsLean,JD-Jones-ASES/ns-lean,Lean 4 proof that Naslund's Conjecture 13 fails at q = 3: square-difference-free subsets of F_3[T] past 3^(3n/4),2,59766.0,1354.0
+anurudhp/aoc2022,anurudhp/aoc2022,Advent of Code 2022 solutions: Lean4,6,58861.0,1334.0
+bridgekat/filter-game,bridgekat/filter-game,Lean 4 version of the filter game.,7,58748.0,1331.0
+fgdorais/logic,fgdorais/logic4,Logic Library for Lean 4,2,58664.0,1329.0
+kylekaba/knuth_fasc8a_ex210,kylekaba/knuth-fasc8a-ex210,"LLM-assisted mathematical results for Exercise 210 from Donald Knuth's ""The Art of Computer Programming Volume 4 Pre-Fasicle 8A",2,58487.0,1325.0
+roos-j/BooleanFun,roos-j/lean-booleanfun,"Formalization project on analysis of Boolean functions in Lean 4, including a proof of Arrow's theorem via Fourier analysis.",6,58229.0,1319.0
+stepchowfun/proofs_lean,stepchowfun/proofs,My personal repository of formally verified mathematics.,315,57926.0,1312.0
+Izzimach/pteffects,Izzimach/EffSpec-lean,Effect monads with specifications (DIjkstra Monads) in Lean 4,12,57889.0,1311.0
+goens/Hoare,goens/lean-hoare,Hoare Logic in Lean,3,57388.0,1300.0
+ATOMSLab/DimensionalAnalysis,ATOMSLab/LeanDimensionalAnalysis,Formally-verified dimensional analysis in Lean,5,56325.0,1276.0
+dwrensha/animate,dwrensha/animate-lean-proofs,tool for turning Lean proofs into Blender animations,103,56282.0,1275.0
+leanprover/lean4export,leanprover/lean4export,Plain-text declaration export for Lean 4,52,55694.0,1262.0
+mhuisi/Uniq,mhuisi/Uniq,Static Uniqueness Analysis for the Lean 4 Theorem Prover,11,55465.0,1257.0
+VCA-EPFL/leanses,VCA-EPFL/leanses,Lean lens implementation with custom notation.,21,54043.0,1224.0
+NethermindEth/ff,NethermindEth/FF_CVC5_Lean,Plonky3 formal verification framework,2,53548.0,1213.0
+lean-ja/lean99,lean-ja/lean99,These are Lean translations of Ninety-Nine Haskell Problems (WIP),16,52959.0,1200.0
+frenzymath/FATE-M,frenzymath/FATE-M,The FATE-M (Formal Algebra Theorem Evaluation - Medium) benchmark.,2,52130.0,1181.0
+celioboulay/ExpanderGraphs,celioboulay/expander-graphs,,6,51946.0,1177.0
+FWuermse/Postgres,FWuermse/lean-postgres,,18,51508.0,1167.0
+tsurumi-yizhou/SPG,tsurumi-yizhou/SPG,A Lean 4 library for analyzing Spin Point Groups,2,51448.0,1166.0
+hanwenzhu/MillerRabin,hanwenzhu/miller-rabin,Miller–Rabin primality test in Lean,8,51365.0,1164.0
+argumentcomputer/FFaCiL.lean,argumentcomputer/FFaCiL.lean,Finite Fields and Curves in Lean,14,51058.0,1157.0
+Bergschaf/banach_tarski,Bergschaf/banach-tarski,,11,50535.0,1145.0
+nomeata/calcify,nomeata/lean-calcify,,34,50060.0,1134.0
+jamesj64/modal,jamesj64/lean-modal-logic,,2,50018.0,1133.0
+siddhartha-gadgil/LeanAideTools,siddhartha-gadgil/LeanAideTools,"Tools, specifically for running tactics in the background, with minimal dependencies",2,49155.0,1114.0
+YaelDillies/CamCombi,YaelDillies/cam-combi,"Formalisation of the Cambridge Part II and Part III courses Graph Theory, Combinatorics, Extremal and Probabilistic Combinatorics in Lean",90,48267.0,1093.0
+frenzymath/jixia,frenzymath/jixia,A static analysis tool for Lean 4.,131,48142.0,1091.0
+YnirPaz/PCF,YnirPaz/PCF-Theory,A formalization of PCF theory in lean,12,48061.0,1089.0
+madvorak/fecssk,madvorak/fecssk,Formalisms Every Computer Scientist Should Know (course at ISTA),16,48039.0,1088.0
+pawelsberg/LeanDirectoryBrowser,pawelsberg/lean-directory-browser,It is a windows folder explorer written in lean4 (using code-proxy).,2,48011.0,1088.0
+argumentcomputer/Vero,argumentcomputer/Vero,,4,47777.0,1082.0
+palladin/lean_eff,palladin/lean-eff,LeanEff is a small Lean 4 extensible-effects library,26,47628.0,1079.0
+riccardobrasca/Numbers,riccardobrasca/Numbers,An introduction to numbers,13,47507.0,1076.0
+gdncc/cryptography,gdncc/Cryptography,Lean 4 programming language and theorem prover cryptography experiments,11,47353.0,1073.0
+nasqret/fineqs,nasqret/fineqs,Lean4 formalization with Artistotle of the arXiv paper 1906.11174,2,46769.0,1060.0
+jsm28/IMO,jsm28/IMOLean,Suggested conventions and examples for Lean formalization of IMO problem statements,18,46510.0,1054.0
+frenzymath/FATE-H,frenzymath/FATE-H,The FATE-H (Formal Algebra Theorem Evaluation-Hard) benchmark.,3,46448.0,1052.0
+robertylewis/autograder,robertylewis/lean4-autograder-main,,14,46195.0,1047.0
+kim-em/lean-training-data,kim-em/lean-training-data,,64,46203.0,1047.0
+JamesGallicchio/lean-openapi,JamesGallicchio/lean-openapi,,4,45808.0,1038.0
+AlexBrodbelt/Game,AlexBrodbelt/metric-spaces-and-topology-game,,2,45653.0,1034.0
+KislyjKisel/pod,KislyjKisel/lean-pod,"Low level utils (single precision float, byte spans, unboxed vector, finalization callbacks, fixnums, deque, slotmap etc; implemented via ffi)",6,45150.0,1023.0
+madvorak/vcsp,madvorak/vcsp,General-Valued Constraint Satisfaction Problems,10,45064.0,1021.0
+QDU-Math-in-lean/mathmatic_in_elementary_number_th,QDU-Math-in-lean/elementary-number-theory,elementary number theory,2,44732.0,1013.0
+PnVDiscord/software-foundations-lean,PnVDiscord/software-foundations-lean,📚 (WIP) Rewriting Software Foundations in Lean 4,35,43884.0,994.0
+alexjgreig/Quave,alexjgreig/QHL-Lean,Quantum Hoare Logic Lean 4 - A quantum program verification tool,2,43696.0,990.0
+reilabs/proven-zk,reilabs/proven-zk,A support library for working with zero knowledge cryptography in Lean 4.,52,43159.0,978.0
+andrejbauer/partial-combinatory-algebras,andrejbauer/partial-combinatory-algebras,A Lean 4 formalization of partial combinatory algebras.,15,42990.0,974.0
+aochagavia/tic-tac-toe,aochagavia/tic-tac-toe-lean,,13,42737.0,968.0
+dannypsnl/violet,dannypsnl/violet-legacy,"A programming language, half theorem prover",12,42727.0,968.0
+Seasawher/mk-exercise,Seasawher/mk-exercise,Simple and intuitive tool to manage exercises in textbooks written in Lean.,8,42552.0,964.0
+compiler64/Monad,compiler64/category-theory-notes,Notes for the category theory class I'm teaching at MIT (Jan 2026),3,41663.0,944.0
+NethermindEth/CompPoly,NethermindEth/CompPoly,,10,41582.0,942.0
+katydid/sadol,katydid/regex-deriv-reproving-agda-in-lean,Moved to https://git.katydid.org.za/regex-deriv-reproving-agda-in-lean,10,41477.0,940.0
+siddhartha-gadgil/MetaExamples,siddhartha-gadgil/MetaExamples,Examples using MetaProgramming for writing tactics etc.,19,40992.0,929.0
+chords-project/itc-course,chords-project/itc-course,,3,40962.0,928.0
+GasStationManager/SafeVerify,GasStationManager/SafeVerify,A Lean4 script for robustly verifying submitted proofs of theorems and implementations of functions,52,40745.0,923.0
+jessealama/lint-llm-proofs,jessealama/lint-llm-proofs,Lean 4 linters for LLM-generated proof patterns,2,40670.0,921.0
+AdrienChampion/safeIdx,AdrienChampion/safeIdx,Type-safe indexing library.,2,40575.0,919.0
+ATOMSLab/LeanLJ,ATOMSLab/LeanLJ,Lennard Jones in Lean,25,40455.0,917.0
+keilambda/ttfpi,keilambda/ttfpi,"""Type Theory and Formal Proof: An Introduction"" book formalization in Lean",9,40475.0,917.0
+willvieira/ForestIPM,willvieira/forestIPM,📦 R package - Bayesian hierarchical Integral Projection Model (IPM) for forest trees in eastern North America,3,40158.0,910.0
+leanprover-community/LeanSearchClient,leanprover-community/LeanSearchClient,"Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",39,40076.0,908.0
+hanwenzhu/premise-selection,hanwenzhu/premise-selection,,18,40052.0,907.0
+wupr/order-p-q,wupr/order-p-q,Lean formalisation of the classification of the groups of order `p * q` where `p` and `q` are prime numbers.,6,39795.0,902.0
+SamuelSchlesinger/sensitivity,SamuelSchlesinger/sensitivity-conjecture,Lean 4 formalization of the Sensitivity Conjecture (Huang 2019),6,39799.0,902.0
+paulcadman/lean-effects,paulcadman/lean-effects,,6,39654.0,898.0
+MinaBasilious/logic_induction,MinaBasilious/logic_induction,"A Lean 4 formalization of the exercises in ""Induction: Well-founded relations and generalized induction"", lecture notes by Prof. Mohamed Amer for a logic course at Cairo University.",2,39316.0,891.0
+bergmannjg/Curl,bergmannjg/leanCurl,Lean 4 bindings to libcurl,15,39316.0,891.0
+1a776/mathmatic_in_elementary_number_th,1a776/IMO-,IMO题目的形式化2个题,2,38957.0,883.0
+TristanCacqueray/gen-zmk,TristanCacqueray/gen-zmk,,3,38970.0,883.0
+riccardobrasca/FLT3,riccardobrasca/flt3,Proof in Lean of Fermat Last Theorem for exponent 3,40,37983.0,861.0
+NyxFoundation/TopSingleLayer,NyxFoundation/tsl-formal-verification,Formal Verification of Top Single Layer Encoding,11,37722.0,855.0
+hargup/http-client,hargup/lean-http-client,A Curl wrapper written in Lean 4 to be used as a http-client in lean 4 projects,3,37476.0,849.0
+avigad/LeanSudoku,avigad/LeanSudoku,Playing Sudoku in the Lean 4 proof assistant,9,37227.0,843.0
+Matherunner/First,Matherunner/formalproofs,Collection of formal proofs,5,37174.0,842.0
+T-Brick/DateTime,T-Brick/DateTime,DateTime package for Lean 4,17,36914.0,836.0
+alexf91/lean4-ctypes,alexf91/lean4-ctypes,FFI for Lean 4,4,36732.0,832.0
+argumentcomputer/Straume,argumentcomputer/straume,State-of-the-art streams for Lean 4,6,36317.0,823.0
+a-dangelo/GWchap5,a-dangelo/Lean-AG,Lean formalisation project in algebraic geometry.,2,36192.0,820.0
+funexists/raylean,funexists/raylean,Moved to https://git.funexists.org/raylean,29,35838.0,812.0
+hargoniX/mini-redis,hargoniX/mini-redis,An implementation of mini-redis in Lean 4,4,35857.0,812.0
+leanprover/Comparator,leanprover/comparator,,250,34876.0,790.0
+kim-em/lean-finmap,kim-em/lean-finmap,,4,34789.0,788.0
+Seasawher/mdgen,Seasawher/mdgen,Tool to generate markdown files from lean files.,25,34608.0,784.0
+namin/climber,namin/climber,LCF checks theorem construction; climber checks theory construction,3,34497.0,782.0
+asnelt/Flashlight,asnelt/flashlight,"Lean 4 formalization of the flashlight transformation of copulas (Onken et al., PLoS Comput Biol 2009)",2,34396.0,779.0
+atrieu/cryptolib,atrieu/lean-cryptolib,,3,34252.0,776.0
+rkirov/category-theory-in-context-lean,rkirov/category-theory-in-context-lean,Lean Companion to the Category Theory in Context textbook by Emily Riehl,39,34182.0,774.0
+fpvandoorn/Seminar,fpvandoorn/BonnLeanSeminar,Past contents of Lean Seminars in Bonn,4,34119.0,773.0
+MohanadAhmed/LeanMathSigProc,MohanadAhmed/LeanMathSigProc,,3,34028.0,771.0
+madvorak/thue,madvorak/thue,Semi-Thue systems a.k.a. string rewriting systems,2,33925.0,769.0
+namin/reviser,namin/reviser,LCF checks theorem construction; reviser checks belief revision,3,33750.0,765.0
+remimimimimi/leansec,remimimimimi/leansec,Total parser combinators library for Lean4,11,33561.0,760.0
+NethermindEth/plonky3-example,NethermindEth/CertiPlonk,A framework for extracting and formally verifying constraint systems from the Plonky3 zkDSL in Lean.,19,33380.0,756.0
+marcusrossel/lean_snakebird,marcusrossel/lean-snakebird,An implementation of Snakebird in Lean.,7,33158.0,751.0
+Koukyosyumei/pol,Koukyosyumei/PoL,Proof of Lean: Formalizing Blockchain Fundamentals in Lean,4,32959.0,747.0
+arthur-adjedj/Leanduction,arthur-adjedj/Leanduction,Generate good induction principles on nested inductive types,17,31888.0,722.0
+optimisticexquisite/lean-rsa-project,optimisticexquisite/lean-rsa-project,A lean project on RSA encryption,3,31598.0,716.0
+itsalissonsilva/LeanML,itsalissonsilva/lean-ml,Formally verified machine learning in Lean 4.,2,31123.0,705.0
+sdiehl/KittyCats,sdiehl/kitty-cats,"Category theory but for kitty cats, meow 🐱🐈",42,30646.0,694.0
+HannahSantos/FMCn_Lean,HannahSantos/FMCn_Lean,Repositório destinado às práticas de Lean4 da Monitoria de FMCn.,3,30139.0,683.0
+TristanCacqueray/advent-of-lean,TristanCacqueray/advent-of-lean,,5,30059.0,681.0
+LeastAuthority/STIR,LeastAuthority/STIR,SC: Ethereum - zk(E)VM Verification - STIR Lean Blueprint,3,30026.0,680.0
+argumentcomputer/Nova.lean,argumentcomputer/Nova.lean,,3,29986.0,679.0
+wvhulle/ennreal-arith,wvhulle/ennreal-arith,Arithmetic tactics for extended non-negative real numbers (ENNReal),4,29452.0,667.0
+dwrensha/tryAtEachStep,dwrensha/tryAtEachStep,Try a tactic at each step in a Lean proof.,40,29423.0,667.0
+vasnesterov/HadwigerNelson,vasnesterov/HadwigerNelson,Hadwiger-Nelson Problem Formalization in Lean 4,9,28474.0,645.0
+hargoniX/cpdt-lean,hargoniX/cpdt-lean,Lean implementations of things found in Certified Programming with Dependent Types,16,28292.0,641.0
+carlohamalainen/datastar,carlohamalainen/datastar-lean,Lean 4 SDK for Datastar: real-time hypermedia over server-sent events.,5,28183.0,638.0
+Maokami/vqc_in_lean,Maokami/vqc_in_lean,(WIP) Lean 4 port of the Verified Quantum Computing. Developed as a personal learning project to deepen understanding of quantum computing concepts and formal verification.,6,28047.0,635.0
+leanprover/lean4checker,leanprover/lean4checker,"Replay the `Environment` for a given Lean module, ensuring that all declarations are accepted by the kernel.",37,27907.0,632.0
+Anderssorby/SDL,Anderssorby/SDL.lean,SDL2 bindings for lean,24,27713.0,628.0
+adamtopaz/NodeGraph,adamtopaz/NodeGraph,,10,27514.0,623.0
+mdbrnowski/Apportionmentlib,mdbrnowski/apportionmentlib,Formal verification of apportionment theory.,3,27300.0,618.0
+acmepjz/MD4Lean,acmepjz/md4lean,a Lean wrapper for the MD4C Markdown parser,13,27142.0,615.0
+kbuzzard/ComplexNumberGame,kbuzzard/ComplexNumberGame,"The Complex Number Game, ported to Lean 4",2,27164.0,615.0
+RSoulatIOHK/Pigment,RSoulatIOHK/Pigment,Terminal colors and styling for Lean 4,2,26586.0,602.0
+arthurpaulino/LeanMySQL,arthurpaulino/LeanMySQL,A MySQL API for Lean 4,20,26446.0,599.0
+lua-vr/BirkhoffErgodicThm,lua-vr/pointwise-birkhoff,A proof of Pointwise Birkhoff Ergodic Theorem in Lean,3,26326.0,596.0
+kmill/render,kmill/lean4-raytracer,A simple raytracer written in Lean 4,147,25250.0,572.0
+ammkrn/printiest,ammkrn/printiest,A pretty printer for Lean 4,10,24914.0,564.0
+T-Brick/numbers,T-Brick/Numbers,Arbitrary Bit-Length Integers in Lean,4,24865.0,563.0
+DavePearce/LeanEVM,DavePearce/LeanEVM,A toy implementation of the EVM in Lean4.,10,24764.0,561.0
+zblore/jacpoisson,zblore/fc-jacobian-poisson,"Lean 4 proof that the Jacobian conjecture in dimension 2n implies the Poisson conjecture in dimension n, Formal Conjectures' math/0608009 statement (Adjamagbo and van den Essen, Theorem 7)",2,24607.0,557.0
+hargoniX/socket,hargoniX/socket.lean,sockets for Lean 4,23,24216.0,549.0
+zilberstein/domain-theory,zilberstein/domain-theory,A Lean Library for Domain Theory,12,24242.0,549.0
+JLimperg/regensburg-itp-school-2023,JLimperg/regensburg-itp-school-2023,Materials for my lecture at the 2023 International School on Interactions of Proof Assistants and Mathematics in Regensburg,8,24237.0,549.0
+alok/MusicNotation,alok/MusicNotation,Pure functional music notation system in Lean 4 with Unicode visualization,2,24097.0,546.0
+alok/HexLuthor,alok/HexLuthor,Lean 4 hex color syntax with inline VS Code color preview,2,23959.0,543.0
+RemyDegenne/clt,RemyDegenne/CLT,Central limit theorem in Lean,14,23479.0,532.0
+James-Hanson/junk-theorems,James-Hanson/junk-theorems-in-lean,A small collection of formally verified junk theorems provable in Lean4 + Mathlib.,114,23472.0,532.0
+pandaman64/LeanToDo,pandaman64/LeanToDo,,4,23304.0,528.0
+kim-em/llm,kim-em/llm,Interfacing with Large Language Models (remote and local) from Lean.,29,22892.0,519.0
+UOR-Foundation/uor-ffi,UOR-Foundation/atlas-12288,,2,22728.0,515.0
+lecopivo/lean4-karray,lecopivo/lean4-karray,,13,22728.0,515.0
+provables/special-numbers,provables/special-numbers,Special Numbers (Chapter 6 from Knuth's Concrete Mathematics),3,21596.0,489.0
+oOo0oOo/LeanDoomed,oOo0oOo/LeanDoomed,Simple Raycasting Example in Lean4 using SDL3,21,21300.0,483.0
+mistralai/SafeVerify,mistralai/LeanstralSafeVerify,"Leanstral's fork of SafeVerify, which we use for code agent training and as part of our evaluation stack.",41,20723.0,469.0
+Izzimach/lean-glfw,Izzimach/lean-glfw,C bindings and marshalling to use GLFW and OpenGL from the lean4 theorem prover,3,20666.0,468.0
+MichaelStollBayreuth/EulerProducts,MichaelStollBayreuth/EulerProducts,An attempt at formalizing facts on Euler products in Lean,9,20260.0,459.0
+ulfjack/ryu,ulfjack/ryu,Converts floating point numbers to decimal strings,1359,20107.0,456.0
+atlas-computing-org/coq_lean_translation,atlas-computing-org/CoqLeanTranslation,,5,20045.0,454.0
+arademaker/delphin,arademaker/delphin,"The Lean port of PyDelphin, a library to integrate DELPH-IN toolsets",3,20028.0,454.0
+agpalindrome/pacioli,agpalindrome/pacioli,"A verified core of accounting mechanics in Lean 4, paired with curated accounting judgment in the Open Knowledge Format (OKF).",5,19718.0,447.0
+shunghsiyu/toy-verifier,shunghsiyu/toy-verifier,Minimal static analysis based verifier for educational purpose,2,19359.0,439.0
+keilambda/eocia-lean,keilambda/eocia-lean,Essentials of Compilation: An Incremental Approach in Lean 4,5,19249.0,436.0
+SorryDB/LeanUtils,SorryDB/LeanUtils,Lean scripts for indexing sorries and verifying proofs,4,19197.0,435.0
+guanyangwang/ktv_swap_lean_comparator,guanyangwang/ktv-swap-lean-comparator,,2,19121.0,433.0
+ValorZard/SDL3,ValorZard/lean-sdl3,,17,19094.0,433.0
+RemyDegenne/kolmogorov_extension4,RemyDegenne/kolmogorov_extension4,Lean formalization of the Kolmogorov extension theorem,10,18344.0,416.0
+argumentcomputer/Http.lean,argumentcomputer/Http.lean,Basic Http functionality in Lean (unfinished),12,18303.0,415.0
+nomeata/memo-nat,nomeata/lean4-memo-nat,,3,18318.0,415.0
+chasenorman/PremiseSelection,chasenorman/PremiseSelection,"A premise selector for Lean 4, built on a local embedding model.",4,18185.0,412.0
+adamtopaz/lean_extras,adamtopaz/lean_extras,,3,18018.0,408.0
+anlucia/chromatic_polynomial,anlucia/ChromaticPolynomial,Chromatic polynomial in Lean4,4,17983.0,407.0
+lean-phys-community/Notes,lean-phys-community/PhysLean_notes,Notes in PhysLean,3,17857.0,405.0
+math-inc/FormalQualBench,math-inc/FormalQualBench,,11,17052.0,386.0
+bjoernkjoshanssen/math654,bjoernkjoshanssen/math654,"Homework and lecture notes from Math 654, Fall 2022",3,16058.0,364.0
+jtristan/UnicodeSkipListTable,jtristan/UnicodeSkipListTable,A library to create and use Unicode tables based on the skip list data structure.,6,15563.0,353.0
+paulcadman/flappy,paulcadman/flappy,A flappy bird clone in Lean,6,15401.0,349.0
+henryrobbins/flare,henryrobbins/flare,"Official implementation of ""FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving""",15,15123.0,343.0
+ImperialCollegeLondon/LAGinLean,ImperialCollegeLondon/LAGinLean2024,Questions related to Imperial College's Linear Algebra and Groups course running in November and December 2024.,2,15111.0,342.0
+dwrensha/maze,dwrensha/lean4-maze,maze game encoded in Lean 4 syntax,73,14641.0,332.0
+girving/bottcher,girving/bottcher,Verified computation of the Mandelbrot set Böttcher series,5,14590.0,331.0
+kkaunda/Project,kkaunda/spgf,Structure in Prime Gaps - Formalized,3,14565.0,330.0
+BRonen/sqlite,BRonen/sqlite-lean,Sqlite3 bindings for lean4,12,14304.0,324.0
+arthurpaulino/viper,arthurpaulino/viper,A Python environment manager built in Lean 4,11,13771.0,312.0
+SchrodingerZhu/hashbrown4lean,SchrodingerZhu/hashbrown4lean,,3,13688.0,310.0
+tydeu/itertools,tydeu/lean4-itertools,A Lean 4 library for iterators.,15,13391.0,303.0
+nileshtrivedi/detective,nileshtrivedi/lean-detective,"A Lean4 library to formalize and proof-check murder mysteries like Murdle, KnivesOut and Drishyam",9,13166.0,298.0
+marcusrossel/VerifiedCompiler,marcusrossel/verified-compiler,A toy example of a verified compiler.,33,13173.0,298.0
+zer0-star/ac-library,zer0-star/lean-ac-library,ac-library for lean4,3,13062.0,296.0
+kmill/LeanTeX_Mathlib,kmill/LeanTeX-mathlib,LeanTeX pretty printers for mathlib,11,12996.0,294.0
+leanprover/LPBackendSoplexFFI,leanprover/lp-backend-soplex-ffi,LPBackend adapter for kim-em/soplex-ffi. Priority 10 (FFI band). The native backend kim-em/soplex defaults to.,2,12882.0,292.0
+midspiral/LemmaScript,midspiral/LemmaScript,verification toolchain for TypeScript (Tech Preview),196,12801.0,290.0
+predictable-machines/lean4-base64,predictable-machines/lean4-base64,RFC 4648 Base64 encoding and decoding for Lean 4,4,12651.0,287.0
+Joonas-vonlerber/Game,Joonas-vonlerber/Type-Theory-Game,,2,12611.0,286.0
+andrejbauer/lean2sexp,andrejbauer/lean2sexp,Convert Lean .olean files to s-expressions,7,12185.0,276.0
+NethermindEth/sp1-poc,NethermindEth/sp1-fv-poc,Proof-of-Concept Verification Infrastructure for SP1 zk chips,2,12048.0,273.0
+jeswr/RustFFI,jeswr/RDF.lean,An RDF Library for Lean4,8,11502.0,261.0
+somombo/swaps-perm,somombo/swaps-perm,Mathematically defines of permutations of arrays and proves related theorems,3,11462.0,260.0
+ValorZard/lean-sdl-test,ValorZard/lean-sdl-test,,3,11001.0,249.0
+arthurpaulino/NumLean,arthurpaulino/NumLean,A Lean 4 package for heavy numerical computations,20,10987.0,249.0
+alok/ConvolutedProofs,alok/ConvolutedProofs,Absurdly sophisticated proofs of simple mathematical facts in Lean 4,3,10917.0,247.0
+jtristan/UnicodeSkipListTableExample,jtristan/UnicodeSkipListTableExample,A library that shows how to use the Unicode skip list tables generation tool to create a table to test if a codepoint is numeric.,6,10552.0,239.0
+hargoniX/crup,hargoniX/crup,A Checker for RUP proofs written in Lean 4,3,10423.0,236.0
+Julian/Generatingfunctionology,Julian/generatingfunctionology.lean,,2,9962.0,226.0
+0art0/kimina,0art0/kimina,A Lean tactic that invokes the Kimina Prover Preview model to offer proof suggestions.,11,9834.0,223.0
+wellecks/ntptutorial,wellecks/ntptutorial,Tutorial on neural theorem proving,180,9614.0,218.0
+misaka10987/archimedes,misaka10987/archimedes,Don't disturb my circle!,2,9565.0,217.0
+AxiomMath/ParityDifferential,AxiomMath/parity-differential,"Lean formalizations for the paper ""Parity of k-differentials in genus zero and one""",28,9485.0,215.0
+tim-br/lean-test,tim-br/LeanTest,lean4 unit testing framework,4,9427.0,214.0
+alok/Leantix,alok/Leantix,Lean 4 port of the Golitex typesetting system for LaTeX-like document processing,2,9087.0,206.0
+wellecks/llmstep,wellecks/llmstep,llmstep: [L]LM proofstep suggestions in Lean 4.,156,9019.0,204.0
+alok/AsciiPlot,alok/AsciiPlot,ASCII/Unicode plotting library for Lean 4 with legends and braille rendering,4,8815.0,200.0
+utensil/LeanBlueprintExample,utensil/LeanBlueprintExample,,5,8833.0,200.0
+utensil/GinacLean,utensil/ginac-lean,A work-in-progress Lean 4 binding to GiNaC,5,8835.0,200.0
+tani/LiterateLean,tani/literate-lean,literate programming for lean4,10,8578.0,194.0
+hdmkindom/mathmatic_in_elementary_number_th,hdmkindom/mathmatic_in_elementary_number_th,初等数论讲义的形式化证明 by lean4,3,8453.0,192.0
+lambda-fairy/taleve,lambda-fairy/taleve,Formal model of stacker games in Lean,3,8205.0,186.0
+Bergschaf/LeanBanachTarski,Bergschaf/lean-banach-tarski,,6,8169.0,185.0
+awodey/joyalRepresentationTheorem,awodey/joyal,,17,8117.0,184.0
+0art0/lean-slides,0art0/lean-slides,A tool to auto-generate and render slides from Markdown comments in the Lean editor.,28,8019.0,182.0
+YaelDillies/ChandraFurstLipton,YaelDillies/chandra-furst-lipton,Formalisation in the Lean theorem prover of the relation between corner-free sets and communication complexity,3,7596.0,172.0
+SnO2WMaN/mahjong,SnO2WMaN/lean4-mahjong,,4,6816.0,154.0
+riccardobrasca/Kaplansky4,riccardobrasca/kaplanski4,Proof of Kaplanski criterion for being a UFD in Lean4,5,6516.0,148.0
+digama0/ast_export,digama0/ast_export,AST export from Lean 4,18,6236.0,141.0
+hargoniX/Flame,hargoniX/Flame,,10,5872.0,133.0
+frenzymath/metalib,frenzymath/metalib,A collection of metaprogramming utilities.,2,5789.0,131.0
+Seasawher/Lean Book,Seasawher/lean-book,mdbook template for Lean project,11,5454.0,124.0
+T-Brick/lean2wasm,T-Brick/lean2wasm,Tool for compiling Lean to WASM,29,5212.0,118.0
+GasStationManager/LeanTool,GasStationManager/LeanTool,"A ""code intepreter"" for Lean",87,4871.0,110.0
+arthurpaulino/LeanMusic,arthurpaulino/LeanMusic,,9,4442.0,101.0
+argumentcomputer/Bellanova.lean,argumentcomputer/Bellanova.lean,,2,4361.0,99.0
+pnwamk/lean4-assert-command,pnwamk/lean4-assert-command,A simple assertion command for Lean4,10,4239.0,96.0
+SAIRcompetition/stage2-judge,SAIRcompetition/equational-theories-lean-stage2,"This repository hosts the SAIR Mathematics Distillation Challenge: Equational Theories Stage 2, providing Lean 4 problem sets, judging tools, and submission harnesses for generating machine-checkable proof certificates.",29,3405.0,77.0
+jtristan/lffi,jtristan/lffi,,2,3349.0,76.0
+Philogy/remco-mul,Philogy/remco-mul-verification,,9,3188.0,72.0
+arthurpaulino/LeanREPL,arthurpaulino/LeanREPL,,14,2908.0,66.0
+algebraic-dev/Colorized,algebraic-dev/colorized,🌈 | A Lean 4 library designed to enhance terminal output with vibrant ANSI escape sequences.,5,2762.0,63.0
+kim-em/ErdosUnitDistanceComparator,kim-em/erdos-unit-distance-comparator,"Independent comparator verification: the uniform-constant Erdős unit-distance conjecture is false (Alpöge 2026, formalized)",3,2719.0,62.0
+Seasawher/import-all,Seasawher/import-all,This script can check and auto-generate `import` statements in a lean4 repository.,5,2695.0,61.0
+hanwenzhu/hammer-demo,hanwenzhu/hammer-demo-irrational-two,,2,2429.0,55.0
+madvorak/Koch,madvorak/lean4-koch,Koch 2D snowflake generator for 4D Golf,4,2036.0,46.0
+leanprover/hex,leanprover/hex,Verified computational algebra in Lean 4: aggregator for the released hex libraries,41,1777.0,40.0
+AdrienChampion/loadTerms,AdrienChampion/loadTerms.lean,Testing dynamic term loading in Lean 4.,2,1773.0,40.0
+hhu-adam/webeditor,hhu-adam/lean4web-tools,Helper tool for projects run in lean4web,4,1785.0,40.0
+alok/lean-autograd,alok/lean-autograd,Automatic differentiation in Lean following JAX's autodidax tutorial,2,1754.0,40.0
+juhp/curljson,juhp/curl-json-lean,curljson: a small Lean4 library to fetch JSON with libCurl,3,1524.0,35.0
+PalomarRegistry/PalomarTemplate,PalomarRegistry/PalomarTemplate,Best-practice starter repository for Palomar submissions,2,1541.0,35.0
+PatrickMassot/checkdecls,PatrickMassot/checkdecls,Tiny Lean library to check existence of declarations,2,1317.0,30.0
+argumentcomputer/Spark.lean,argumentcomputer/Spark.lean,,3,1318.0,30.0
+leanprover/TenCert,leanprover/TenCert,Verified tensor compilation in Lean,9,1174.0,27.0
+argumentcomputer/RustFFI.lean,argumentcomputer/RustFFI.lean,Template for Lean<->Rust FFI,17,1090.0,25.0
+argumentcomputer/OpenSSL.lean,argumentcomputer/OpenSSL.lean,OpenSSL bindings for Lean,4,1097.0,25.0
+GasStationManager/FormalizeWithTest,GasStationManager/FormalizeWithTest,"Autoformalization of coding problems, verified with test cases",7,967.0,22.0
+kummahiih/category_equations,kummahiih/python-category-equations,Set+products reading of a pipe/branch identity related to python-category-equations,9,947.0,21.0
+chantakan/lean4-project,chantakan/lean4-devcontainer-template,A minimal Lean 4 development environment using VSCode DevContainer.,3,782.0,18.0
+morganfshirley/CommComp,morganfshirley/CommComp,Formalization of communication complexity in Lean,3,646.0,15.0
+austinletson/use-lean-standard-action-with-bare-project,austinletson/use-lean-standard-action-with-bare-project,,2,665.0,15.0
+Seasawher/mathlib4-help,Seasawher/mathlib4-help,"List of the output of #help command of mathlib4, including list of all tactics, commands...etc",26,615.0,14.0
+madvorak/readLean,madvorak/read-lean,How to read Lean,28,553.0,13.0
+avigad/VerificationDemo,avigad/verification_demo,A temporary repository,3,465.0,11.0
+yangky11/lean4-example,yangky11/lean4-example,,17,388.0,9.0
+haruhisa-enomoto/mathlib4-all-tactics,haruhisa-enomoto/mathlib4-all-tactics,Markdown file of the list and explanations of all mathlib4 tactics,58,333.0,8.0
+GasStationManager/CodeProofTheArena,GasStationManager/CodeProofTheArena,Lean coding problem solving challenge website with proof verification,13,188.0,4.0
+leanprover-community/Project,leanprover-community/LeanProject,A template for blueprint-driven formalization projects in Lean.,122,23.0,1.0
+pitmonticone/Hochster,pitmonticone/Hochster,,2,24.0,1.0
+ixaxaar/monoid.space,ixaxaar/monoid.space,Learn pure math with agda :rocket:,16,0.0,0.0
+adambornemann-glitch/Logos_Library,adambornemann-glitch/Logos_Library,Lean verified Science.,2,0.0,0.0
+UOR-Foundation/PrismCalculator,UOR-Foundation/calculator-example,,2,0.0,0.0
+SrGaabriel/soma,SrGaabriel/soma,⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.,89,0.0,0.0
+jonwashburn/Riemann,jonwashburn/riemann,,2,,
+katzenpost/crypt_walker,katzenpost/crypt_walker,Lean and Rust based cryptographic protocol framework for formally proving protocol properties,3,,
+klavins/LeanBook,klavins/LeanBook,Notes on the Foundations of Lean,2,,
+leanprover/leanbv,leanprover/leanbv,,11,,
+Mintpath/p_ne_np,Mintpath/p-neq-np-lean,"Machine-verified proof (0 sorries, 2 axioms) that P ≠ NP via exponential circuit lower bounds for Hamiltonian Cycle. Lean 4 formalization with Mathlib. Proves SIZE(HAM_n) ≥ 2^{Ω(n)} using frontier analysis, switch blocks, cross-pattern mixing, recursive funnel magnification, continuation packets, rooted descent, and signature rigidity.",2,,
+ocfnash/lie-classification,ocfnash/LieClassification,Classification of Lie algebras in Lean,6,,
+pitmonticone/NewProject,pitmonticone/NewProject,,1,,
+Project-Navi/OrdvecFormalization,Project-Navi/ordvec-formalization,Lean 4 formalization of finite Bayes-threshold optimality for OrdVec overlap models.,4,,
+quangvdao/Zklib,quangvdao/ZKLib-deprecated,"deprecated, use Verified-zkEVM repository instead",19,,
+rainrzk/LeanPolyLog,rainrzk/LeanPolyLog,Polylogarithm Problem Set.,3,,
+risc0/risc0-lean4,risc0/risc0-lean4,A model of the RISC Zero zkVM and ecosystem in the Lean 4 Theorem Prover,83,,
+Xiyou-Wu/RiemannianGeometry,Xiyou-Wu/RiemannianGeometry,,2,,
+yezhuoyang/FormalRV,yezhuoyang/FormalRV,Formal resource verification of Shor's algorithm.,3,,
