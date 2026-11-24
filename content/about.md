@@ -7,6 +7,8 @@ showFooter = true
 
 I'm Michael Mayer.
 
+My real-name X account is [@micjm](https://x.com/micjm).
+
 I taught myself to code at night while working as a dishwasher during the day.
 
 I hold an Economics degree and like to read history, memoir, narrative nonfiction and occasionally literature and philosophy.
